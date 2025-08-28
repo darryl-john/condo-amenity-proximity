@@ -1,200 +1,200 @@
-{"project_name": "trump tower", "location": "Metro Manila, Makati"}
-{"project_name": "Avida Towers Sucat", "location": "Barangay 76, Pasay, Metro Manila"}
-{"project_name": "BLUE SAPPHIRE RESIDENCES", "location": "Pinagsama, Taguig, Metro Manila"}
-{"project_name": "The Columns Ayala Avenue", "location": "Bel-Air, Makati, Metro Manila"}
-{"project_name": "Maple Place", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "Fairway Terraces", "location": "Barangay 97, Pasay, Metro Manila"}
-{"project_name": "Greenbelt Hamilton Two", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "Antel Spa Residences", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "Laureano di Trevi Towers", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "BSA Tower", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "Manansala Tower", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "Avida Towers San Lorenzo", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "One Central Makati", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "Amorsolo Square", "location": "Rockwell, Makati, Metro Manila"}
-{"project_name": "One Rockwell", "location": "Rockwell, Makati, Metro Manila"}
-{"project_name": "The Columns At Legaspi Village", "location": "San Lorenzo, Makati, Metro Manila"}
-{"project_name": "The Beacon", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "Palmetto Place", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "Fairway Tarraces", "location": "Tugatog, Malabon, Metro Manila"}
-{"project_name": "Fortune Hill", "location": "Addition Hills, San Juan, Metro Manila"}
-{"project_name": "South Insula", "location": "Sacred Heart, Quezon City, Metro Manila"}
-{"project_name": "The Salcedo Park Condominum", "location": "Bel-Air, Makati, Metro Manila"}
-{"project_name": "Asia Enclaves", "location": "Alabang, Muntinlupa, Metro Manila"}
-{"project_name": "Solano Hills", "location": "Alabang, Muntinlupa, Metro Manila"}
-{"project_name": "Arezzo Place", "location": "Bagong Ilog, Pasig, Metro Manila"}
-{"project_name": "ETON EMERALD LOFTS", "location": "San Antonio, Pasig, Metro Manila"}
-{"project_name": "BELTON PLACE", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "Eton Parkview Greenbelt", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "8 ADRIATICO", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "One Archers Place", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "Eton Baypark Manila", "location": "Tondo, Manila, Metro Manila"}
-{"project_name": "Acqua Living Stone", "location": "Hulo, Mandaluyong, Metro Manila"}
-{"project_name": "Aqua Iguazu", "location": "Addition Hills, Mandaluyong, Metro Manila"}
-{"project_name": "Century Spire Makati", "location": "Poblacion, Makati, Metro Manila"}
-{"project_name": "Penthouse Unit in Acqua Livingstone", "location": "Hulo, Mandaluyong, Metro Manila"}
-{"project_name": "Suntrust Shanata", "location": "Talipapa, Quezon City, Metro Manila"}
-{"project_name": "SUNTRUST AMADEA", "location": "Paligsahan, Quezon City, Metro Manila"}
-{"project_name": "Suntrust Capitol Plaza", "location": "Central, Quezon City, Metro Manila"}
-{"project_name": "AURORA GARDENS", "location": "Addition Hills, Mandaluyong, Metro Manila"}
-{"project_name": "Suntrust Asmara", "location": "Damayang Lagi, Quezon City, Metro Manila"}
-{"project_name": "KIRANA", "location": "Bagong Ilog, Pasig, Metro Manila"}
-{"project_name": "SUNTRUST TREETOP VILLAS", "location": "Hulo, Mandaluyong, Metro Manila"}
-{"project_name": "Suntrust Solana", "location": "Ermita, Manila, Metro Manila"}
-{"project_name": "SUNTRUST ASCENTIA", "location": "Santa Ana, Manila, Metro Manila"}
-{"project_name": "SUNTRUST ADRIATICO GARDENS", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "The Rise Makati", "location": "San Antonio, Makati, Metro Manila"}
-{"project_name": "One Shangrila Place", "location": "Metro Manila, Mandaluyong"}
-{"project_name": "AMA TOWER RESIDENCES", "location": "Wack-Wack Greenhills, Mandaluyong, Metro Manila"}
-{"project_name": "Victoria de Manila", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "The A.Venue Suites", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "Antel Spa Suites", "location": "Poblacion, Makati, Metro Manila"}
-{"project_name": "Serenity Suites", "location": "Poblacion, Makati, Metro Manila"}
-{"project_name": "Skyway Twin Towers", "location": "Oranbo, Pasig, Metro Manila"}
-{"project_name": "My Place at South Triangle", "location": "South Triangle, Quezon City, Metro Manila"}
-{"project_name": "My Place at Ortigas", "location": "Ugong, Pasig, Metro Manila"}
-{"project_name": "Chateau Elysee", "location": "Don Bosco, Parañaque, Metro Manila"}
-{"project_name": "Berkeley Residences", "location": "Loyola Heights, Quezon City, Metro Manila"}
-{"project_name": "Juez Residences", "location": "Maysilo, Malabon, Metro Manila"}
-{"project_name": "Space Taft", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "Zitan", "location": "Addition Hills, Mandaluyong, Metro Manila"}
-{"project_name": "Twin Oaks Place", "location": "Wack-Wack Greenhills, Mandaluyong, Metro Manila"}
-{"project_name": "San Lorenzo Place", "location": "Bangkal, Makati, Metro Manila"}
-{"project_name": "The Rochester", "location": "San Joaquin, Pasig, Metro Manila"}
-{"project_name": "Victoria de Morato", "location": "Ramon Magsaysay, Quezon City, Metro Manila"}
-{"project_name": "Victoria de Malate", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "Isabelle de Valenzuela", "location": "Isla, Valenzuela, Metro Manila"}
-{"project_name": "Victoria Sports Tower", "location": "South Triangle, Quezon City, Metro Manila"}
-{"project_name": "Victoria de Makati", "location": "Pio Del Pilar, Makati, Metro Manila"}
-{"project_name": "Fort Victoria", "location": "BGC, Taguig, Metro Manila"}
-{"project_name": "Victoria Towers", "location": "Paligsahan, Quezon City, Metro Manila"}
-{"project_name": "Little Baguio Terraces", "location": "Ermitaño, San Juan, Metro Manila"}
-{"project_name": "Pioneer Woodlands", "location": "Barangka Ilaya, Mandaluyong, Metro Manila"}
-{"project_name": "Kasara", "location": "Ugong, Pasig, Metro Manila"}
-{"project_name": "Vivaldi Residences - Cubao", "location": "Socorro, Quezon City, Metro Manila"}
-{"project_name": "Siena Park Residences", "location": "Sun Valley, Parañaque, Metro Manila"}
-{"project_name": "Milan Residenze", "location": "Bagbag, Quezon City, Metro Manila"}
-{"project_name": "Maricielo Villas", "location": "Pulang Lupa Uno, Las Piñas, Metro Manila"}
-{"project_name": "Levina Place", "location": "Rosario, Pasig, Metro Manila"}
-{"project_name": "Arista Place", "location": "Santo Niño, Parañaque, Metro Manila"}
-{"project_name": "Asteria Residences", "location": "San Isidro, Parañaque, Metro Manila"}
-{"project_name": "Mirea Residences", "location": "Santolan, Pasig, Metro Manila"}
-{"project_name": "Zinnia Towers", "location": "Katipunan, Quezon City, Metro Manila"}
-{"project_name": "Viera Residences", "location": "Obrero, Quezon City, Metro Manila"}
-{"project_name": "Torre De Manila", "location": "Ermita, Manila, Metro Manila"}
-{"project_name": "Tivoli Garden Residences", "location": "Hulo, Mandaluyong, Metro Manila"}
-{"project_name": "The Amaryllis", "location": "Mariana, Quezon City, Metro Manila"}
-{"project_name": "Stellar Place", "location": "Bahay Toro, Quezon City, Metro Manila"}
-{"project_name": "Sorrel Residences", "location": "Manila, Metro Manila"}
-{"project_name": "Sheridan Towers", "location": "Buayang Bato, Mandaluyong, Metro Manila"}
-{"project_name": "Viridian in Greenhills", "location": "Greenhills, San Juan, Metro Manila"}
-{"project_name": "Rhapsody Residences", "location": "Buli, Muntinlupa, Metro Manila"}
-{"project_name": "One Castilla Place", "location": "Pasong Tamo, Quezon City, Metro Manila"}
-{"project_name": "Grand Riviera Suites", "location": "Ermita, Manila, Metro Manila"}
-{"project_name": "Lumiere Residences", "location": "Bagong Ilog, Pasig, Metro Manila"}
-{"project_name": "La Verti Residences", "location": "Pasay, Metro Manila"}
-{"project_name": "Illumina Residences Manila", "location": "Santa Mesa, Manila, Metro Manila"}
-{"project_name": "Flair Towers", "location": "Highway Hills, Mandaluyong, Metro Manila"}
-{"project_name": "Brio Tower", "location": "Guadalupe Viejo, Makati, Metro Manila"}
-{"project_name": "Verawood Residences", "location": "Bambang, Taguig, Metro Manila"}
-{"project_name": "Ivory Wood", "location": "Bambang, Taguig, Metro Manila"}
-{"project_name": "Royal Palm Residences", "location": "Ususan, Taguig, Metro Manila"}
-{"project_name": "W.H. Taft Residences", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "The Birchwood", "location": "Ususan, Taguig, Metro Manila"}
-{"project_name": "Anuva", "location": "Sucat, Muntinlupa, Metro Manila"}
-{"project_name": "The Manila Residences Bocobo", "location": "Ermita, Manila, Metro Manila"}
-{"project_name": "The Manila Residences Tower II", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "The Manila Residences Tower I", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "Mandaluyong Executive Mansion III", "location": "Namayan, Mandaluyong, Metro Manila"}
-{"project_name": "Grand Central Residences Tower I", "location": "Highway Hills, Mandaluyong, Metro Manila"}
-{"project_name": "Pines Peak Tower I", "location": "Highway Hills, Mandaluyong, Metro Manila"}
-{"project_name": "North Residences", "location": "Veterans Village, Quezon City, Metro Manila"}
-{"project_name": "Windsor Mansion", "location": "Santolan, Pasig, Metro Manila"}
-{"project_name": "Brentwood Mansion", "location": "Santolan, Pasig, Metro Manila"}
-{"project_name": "Grand Emerald Tower", "location": "San Antonio, Pasig, Metro Manila"}
-{"project_name": "Makati Executive Tower IV", "location": "Pio Del Pilar, Makati, Metro Manila"}
-{"project_name": "Makati Executive Tower III", "location": "Pio Del Pilar, Makati, Metro Manila"}
-{"project_name": "Orchard Towers", "location": "Bagong Ilog, Pasig, Metro Manila"}
-{"project_name": "Neopolitan Condominiums", "location": "Fairview, Quezon City, Metro Manila"}
-{"project_name": "Garden Towers", "location": "San Lorenzo, Makati, Metro Manila"}
-{"project_name": "East Gallery Place", "location": "BGC, Taguig, Metro Manila"}
-{"project_name": "East Bel-Air Residences", "location": "Tondo, Manila, Metro Manila"}
-{"project_name": "Grand Residences España 2", "location": "Manila, Metro Manila"}
-{"project_name": "Sky Villas", "location": "Kaunlaran, Quezon City, Metro Manila"}
-{"project_name": "Park Terraces", "location": "San Lorenzo, Makati, Metro Manila"}
-{"project_name": "Al Khor Town Homes", "location": "Batis, San Juan, Metro Manila"}
-{"project_name": "Avida Towers BGC 9TH Avenue", "location": "Metro Manila, Taguig"}
-{"project_name": "Lancris Residences", "location": "Don Bosco, Parañaque, Metro Manila"}
-{"project_name": "Avida Towers Altura", "location": "Metro Manila, Muntinlupa, Alabang"}
-{"project_name": "Avida Towers Alabang", "location": "Metro Manila, Muntinlupa, Alabang"}
-{"project_name": "Avida Towers 34th Street", "location": "Metro Manila, Taguig"}
-{"project_name": "Avida Cityflex Towers BGC", "location": "Metro Manila, Taguig, BGC"}
-{"project_name": "101 Newport BLVD", "location": "Barangay 183, Pasay, Metro Manila"}
-{"project_name": "Noble Place", "location": "Binondo, Manila, Metro Manila"}
-{"project_name": "150 Newport BLVD", "location": "Barangay 183, Pasay, Metro Manila"}
-{"project_name": "81 Newport BLVD", "location": "Barangay 183, Pasay, Metro Manila"}
-{"project_name": "The Palm Tree 2", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "Greenbelt Hamilton Tower 2", "location": "San Lorenzo, Makati, Metro Manila"}
-{"project_name": "The Palm Tree", "location": "Barangay 183, Pasay, Metro Manila"}
-{"project_name": "Paseo Heights", "location": "Urdaneta, Makati, Metro Manila"}
-{"project_name": "Salcedo Skysuites", "location": "Bel-Air, Makati, Metro Manila"}
-{"project_name": "Three Central", "location": "Bel-Air, Makati, Metro Manila"}
-{"project_name": "Viceroy", "location": "Bagong Tanyag, Taguig, Metro Manila"}
-{"project_name": "The Florence", "location": "McKinley Hill, Taguig, Metro Manila"}
-{"project_name": "Uptown Parksuites", "location": "BGC, Taguig, Metro Manila"}
-{"project_name": "Avida Towers One Union Place", "location": "Metro Manila, Taguig, Western Bicutan"}
-{"project_name": "The Venice", "location": "Bagong Tanyag, Taguig, Metro Manila"}
-{"project_name": "GOLFHILL GARDENS", "location": "Ramon Magsaysay, Quezon City, Metro Manila"}
-{"project_name": "Avida Towers Astrea", "location": "Metro Manila, Quezon City, Fairview"}
-{"project_name": "Bay Garden", "location": "Barangay 76, Pasay, Metro Manila"}
-{"project_name": "Escalades East Tower", "location": "Pasong Tamo, Quezon City, Metro Manila"}
-{"project_name": "The Parkside Villas", "location": "Barangay 183, Pasay, Metro Manila"}
-{"project_name": "Trees Residences", "location": "Kaligayahan, Quezon City, Metro Manila"}
-{"project_name": "Sun Residences", "location": "Salvacion, Quezon City, Metro Manila"}
-{"project_name": "Shore Residences", "location": "Barangay 76, Pasay, Metro Manila"}
-{"project_name": "Shine Residences", "location": "Ugong, Pasig, Metro Manila"}
-{"project_name": "Shell Residences", "location": "Barangay 76, Pasay, Metro Manila"}
-{"project_name": "Mezza 2 Residences", "location": "Doña Imelda, Quezon City, Metro Manila"}
-{"project_name": "M Place Residences", "location": "South Triangle, Quezon City, Metro Manila"}
-{"project_name": "Princeton Residences", "location": "Mariana, Quezon City, Metro Manila"}
-{"project_name": "Sea Residences SMDC", "location": "Barangay 76, Pasay, Metro Manila"}
-{"project_name": "Mezza Residences", "location": "Kaunlaran, Quezon City, Metro Manila"}
-{"project_name": "Light Residences", "location": "Addition Hills, Mandaluyong, Metro Manila"}
-{"project_name": "Grace Residences", "location": "Bagong Tanyag, Taguig, Metro Manila"}
-{"project_name": "Chateau Residences", "location": "Don Bosco, Parañaque, Metro Manila"}
-{"project_name": "Breeze Residences", "location": "Barangay 76, Pasay, Metro Manila"}
-{"project_name": "Times Square West", "location": "BGC, Taguig, Metro Manila"}
-{"project_name": "Madison Park", "location": "Bagong Tanyag, Taguig, Metro Manila"}
-{"project_name": "One Wilson Square", "location": "Greenhills, San Juan, Metro Manila"}
-{"project_name": "Central Park West", "location": "BGC, Taguig, Metro Manila"}
-{"project_name": "Six Senses", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "Grand Hyatt Manila Residences", "location": "BGC, Taguig, Metro Manila"}
-{"project_name": "The Grand Midori Ortigas", "location": "San Antonio, Pasig, Metro Manila"}
-{"project_name": "Four Season Riviera", "location": "Binondo, Manila, Metro Manila"}
-{"project_name": "Senta", "location": "San Lorenzo, Makati, Metro Manila"}
-{"project_name": "The Capital", "location": "E. Rodriguez, Quezon City, Metro Manila"}
-{"project_name": "Paseo De Roces", "location": "Pio Del Pilar, Makati, Metro Manila"}
-{"project_name": "Celadon Park", "location": "Santa Cruz, Manila, Metro Manila"}
-{"project_name": "Oriental Garden", "location": "Pio Del Pilar, Makati, Metro Manila"}
-{"project_name": "The Proscenium at Rockwell", "location": "Poblacion, Makati, Metro Manila"}
-{"project_name": "Jazz Residences", "location": "Bel-Air, Makati, Metro Manila"}
-{"project_name": "Green Residences", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "Blue Residences", "location": "Apad, Quezon, Quezon"}
-{"project_name": "Field Residences", "location": "San Dionisio, Parañaque, Metro Manila"}
-{"project_name": "The Sandstone at Portico", "location": "Oranbo, Pasig, Metro Manila"}
-{"project_name": "Fame Residences", "location": "Highway Hills, Mandaluyong, Metro Manila"}
-{"project_name": "Air Residences", "location": "San Antonio, Makati, Metro Manila"}
-{"project_name": "Escalades at 20th Avenue", "location": "Pasong Tamo, Quezon City, Metro Manila"}
-{"project_name": "Gateway Garden Ridge", "location": "Plainview, Mandaluyong, Metro Manila"}
-{"project_name": "The Pearl Place", "location": "Metro Manila, Pasig"}
-{"project_name": "City Place", "location": "San Nicolas, Manila, Metro Manila"}
-{"project_name": "Sarasota", "location": "Barangay 183, Pasay, Metro Manila"}
-{"project_name": "One Central", "location": "Urdaneta, Makati, Metro Manila"}
-{"project_name": "8 Forbestown Centre", "location": "BGC, Taguig, Metro Manila"}
-{"project_name": "Vista 309 Katipunan", "location": "Loyola Heights, Quezon City, Metro Manila"}
-{"project_name": "Vista Taft", "location": "Malate, Manila, Metro Manila"}
-{"project_name": "Camella Glenmont", "location": "Metro Manila, Quezon City, Sauyo"}
-{"project_name": "Morgan Suites", "location": "Pinagsama, Taguig, Metro Manila"}
-{"project_name": "115 Upper Mckinley", "location": "Forbes Park North, Makati, Metro Manila"}
-{"project_name": "One Central Park", "location": "Bagumbayan, Quezon City, Metro Manila"}
-{"project_name": "Salcedo Square", "location": "San Lorenzo, Makati, Metro Manila"}
+{"project_name": "trump tower", "location": "Makati\n                                                    , Metro Manila", "location_map": "Metro Manila, Makati"}
+{"project_name": "Avida Towers Sucat", "location": "Parañaque\n                                                    , Metro Manila", "location_map": "Barangay 76, Pasay, Metro Manila"}
+{"project_name": "BLUE SAPPHIRE RESIDENCES", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Pinagsama, Taguig, Metro Manila"}
+{"project_name": "The Columns Ayala Avenue", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bel-Air, Makati, Metro Manila"}
+{"project_name": "Maple Place", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "Fairway Terraces", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Barangay 97, Pasay, Metro Manila"}
+{"project_name": "Greenbelt Hamilton Two", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "Antel Spa Residences", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "Laureano di Trevi Towers", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "BSA Tower", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "Manansala Tower", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "Avida Towers San Lorenzo", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "One Central Makati", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "Amorsolo Square", "location": "Makati\n                                                    , Metro Manila", "location_map": "Rockwell, Makati, Metro Manila"}
+{"project_name": "One Rockwell", "location": "Makati\n                                                    , Metro Manila", "location_map": "Rockwell, Makati, Metro Manila"}
+{"project_name": "The Columns At Legaspi Village", "location": "Makati\n                                                    , Metro Manila", "location_map": "San Lorenzo, Makati, Metro Manila"}
+{"project_name": "The Beacon", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "Palmetto Place", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "Fairway Tarraces", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Tugatog, Malabon, Metro Manila"}
+{"project_name": "Fortune Hill", "location": "San Juan\n                                                    , Metro Manila", "location_map": "Addition Hills, San Juan, Metro Manila"}
+{"project_name": "South Insula", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Sacred Heart, Quezon City, Metro Manila"}
+{"project_name": "The Salcedo Park Condominum", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bel-Air, Makati, Metro Manila"}
+{"project_name": "Asia Enclaves", "location": "Muntinlupa\n                                                    , Metro Manila", "location_map": "Alabang, Muntinlupa, Metro Manila"}
+{"project_name": "Solano Hills", "location": "Muntinlupa\n                                                    , Metro Manila", "location_map": "Alabang, Muntinlupa, Metro Manila"}
+{"project_name": "Arezzo Place", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Bagong Ilog, Pasig, Metro Manila"}
+{"project_name": "ETON EMERALD LOFTS", "location": "Pasig\n                                                    , Metro Manila", "location_map": "San Antonio, Pasig, Metro Manila"}
+{"project_name": "BELTON PLACE", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "Eton Parkview Greenbelt", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "8 ADRIATICO", "location": "Manila\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "One Archers Place", "location": "Manila\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "Eton Baypark Manila", "location": "Manila\n                                                    , Metro Manila", "location_map": "Tondo, Manila, Metro Manila"}
+{"project_name": "Acqua Living Stone", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Hulo, Mandaluyong, Metro Manila"}
+{"project_name": "Aqua Iguazu", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Addition Hills, Mandaluyong, Metro Manila"}
+{"project_name": "Century Spire Makati", "location": "Makati\n                                                    , Metro Manila", "location_map": "Poblacion, Makati, Metro Manila"}
+{"project_name": "Penthouse Unit in Acqua Livingstone", "location": "Makati\n                                                    , Metro Manila", "location_map": "Hulo, Mandaluyong, Metro Manila"}
+{"project_name": "Suntrust Shanata", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Talipapa, Quezon City, Metro Manila"}
+{"project_name": "SUNTRUST AMADEA", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Paligsahan, Quezon City, Metro Manila"}
+{"project_name": "Suntrust Capitol Plaza", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Central, Quezon City, Metro Manila"}
+{"project_name": "AURORA GARDENS", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Addition Hills, Mandaluyong, Metro Manila"}
+{"project_name": "Suntrust Asmara", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Damayang Lagi, Quezon City, Metro Manila"}
+{"project_name": "KIRANA", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Bagong Ilog, Pasig, Metro Manila"}
+{"project_name": "SUNTRUST TREETOP VILLAS", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Hulo, Mandaluyong, Metro Manila"}
+{"project_name": "Suntrust Solana", "location": "Manila\n                                                    , Metro Manila", "location_map": "Ermita, Manila, Metro Manila"}
+{"project_name": "SUNTRUST ASCENTIA", "location": "Manila\n                                                    , Metro Manila", "location_map": "Santa Ana, Manila, Metro Manila"}
+{"project_name": "SUNTRUST ADRIATICO GARDENS", "location": "Manila\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "The Rise Makati", "location": "Makati\n                                                    , Metro Manila", "location_map": "San Antonio, Makati, Metro Manila"}
+{"project_name": "One Shangrila Place", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Metro Manila, Mandaluyong"}
+{"project_name": "AMA TOWER RESIDENCES", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Wack-Wack Greenhills, Mandaluyong, Metro Manila"}
+{"project_name": "Victoria de Manila", "location": "Manila\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "The A.Venue Suites", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "Antel Spa Suites", "location": "Makati\n                                                    , Metro Manila", "location_map": "Poblacion, Makati, Metro Manila"}
+{"project_name": "Serenity Suites", "location": "Makati\n                                                    , Metro Manila", "location_map": "Poblacion, Makati, Metro Manila"}
+{"project_name": "Skyway Twin Towers", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Oranbo, Pasig, Metro Manila"}
+{"project_name": "My Place at South Triangle", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "South Triangle, Quezon City, Metro Manila"}
+{"project_name": "My Place at Ortigas", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Ugong, Pasig, Metro Manila"}
+{"project_name": "Chateau Elysee", "location": "Parañaque\n                                                    , Metro Manila", "location_map": "Don Bosco, Parañaque, Metro Manila"}
+{"project_name": "Berkeley Residences", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Loyola Heights, Quezon City, Metro Manila"}
+{"project_name": "Juez Residences", "location": "Malabon\n                                                    , Metro Manila", "location_map": "Maysilo, Malabon, Metro Manila"}
+{"project_name": "Space Taft", "location": "Manila\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "Zitan", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Addition Hills, Mandaluyong, Metro Manila"}
+{"project_name": "Twin Oaks Place", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Wack-Wack Greenhills, Mandaluyong, Metro Manila"}
+{"project_name": "San Lorenzo Place", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bangkal, Makati, Metro Manila"}
+{"project_name": "The Rochester", "location": "Pasig\n                                                    , Metro Manila", "location_map": "San Joaquin, Pasig, Metro Manila"}
+{"project_name": "Victoria de Morato", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Ramon Magsaysay, Quezon City, Metro Manila"}
+{"project_name": "Victoria de Malate", "location": "Manila\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "Isabelle de Valenzuela", "location": "Valenzuela\n                                                    , Metro Manila", "location_map": "Isla, Valenzuela, Metro Manila"}
+{"project_name": "Victoria Sports Tower", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "South Triangle, Quezon City, Metro Manila"}
+{"project_name": "Victoria de Makati", "location": "Makati\n                                                    , Metro Manila", "location_map": "Pio Del Pilar, Makati, Metro Manila"}
+{"project_name": "Fort Victoria", "location": "Taguig\n                                                    , Metro Manila", "location_map": "BGC, Taguig, Metro Manila"}
+{"project_name": "Victoria Towers", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Paligsahan, Quezon City, Metro Manila"}
+{"project_name": "Little Baguio Terraces", "location": "San Juan\n                                                    , Metro Manila", "location_map": "Ermitaño, San Juan, Metro Manila"}
+{"project_name": "Pioneer Woodlands", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Barangka Ilaya, Mandaluyong, Metro Manila"}
+{"project_name": "Kasara", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Ugong, Pasig, Metro Manila"}
+{"project_name": "Vivaldi Residences - Cubao", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Socorro, Quezon City, Metro Manila"}
+{"project_name": "Siena Park Residences", "location": "Parañaque\n                                                    , Metro Manila", "location_map": "Sun Valley, Parañaque, Metro Manila"}
+{"project_name": "Milan Residenze", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Bagbag, Quezon City, Metro Manila"}
+{"project_name": "Maricielo Villas", "location": "Las Piñas\n                                                    , Metro Manila", "location_map": "Pulang Lupa Uno, Las Piñas, Metro Manila"}
+{"project_name": "Levina Place", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Rosario, Pasig, Metro Manila"}
+{"project_name": "Arista Place", "location": "Parañaque\n                                                    , Metro Manila", "location_map": "Santo Niño, Parañaque, Metro Manila"}
+{"project_name": "Asteria Residences", "location": "Parañaque\n                                                    , Metro Manila", "location_map": "San Isidro, Parañaque, Metro Manila"}
+{"project_name": "Mirea Residences", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Santolan, Pasig, Metro Manila"}
+{"project_name": "Zinnia Towers", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Katipunan, Quezon City, Metro Manila"}
+{"project_name": "Viera Residences", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Obrero, Quezon City, Metro Manila"}
+{"project_name": "Torre De Manila", "location": "Manila\n                                                    , Metro Manila", "location_map": "Ermita, Manila, Metro Manila"}
+{"project_name": "Tivoli Garden Residences", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Hulo, Mandaluyong, Metro Manila"}
+{"project_name": "The Amaryllis", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Mariana, Quezon City, Metro Manila"}
+{"project_name": "Stellar Place", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Bahay Toro, Quezon City, Metro Manila"}
+{"project_name": "Sorrel Residences", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Manila, Metro Manila"}
+{"project_name": "Sheridan Towers", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Buayang Bato, Mandaluyong, Metro Manila"}
+{"project_name": "Viridian in Greenhills", "location": "San Juan\n                                                    , Metro Manila", "location_map": "Greenhills, San Juan, Metro Manila"}
+{"project_name": "Rhapsody Residences", "location": "Muntinlupa\n                                                    , Metro Manila", "location_map": "Buli, Muntinlupa, Metro Manila"}
+{"project_name": "One Castilla Place", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Pasong Tamo, Quezon City, Metro Manila"}
+{"project_name": "Grand Riviera Suites", "location": "Manila\n                                                    , Metro Manila", "location_map": "Ermita, Manila, Metro Manila"}
+{"project_name": "Lumiere Residences", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Bagong Ilog, Pasig, Metro Manila"}
+{"project_name": "La Verti Residences", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Pasay, Metro Manila"}
+{"project_name": "Illumina Residences Manila", "location": "Manila\n                                                    , Metro Manila", "location_map": "Santa Mesa, Manila, Metro Manila"}
+{"project_name": "Flair Towers", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Highway Hills, Mandaluyong, Metro Manila"}
+{"project_name": "Brio Tower", "location": "Makati\n                                                    , Metro Manila", "location_map": "Guadalupe Viejo, Makati, Metro Manila"}
+{"project_name": "Verawood Residences", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Bambang, Taguig, Metro Manila"}
+{"project_name": "Ivory Wood", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Bambang, Taguig, Metro Manila"}
+{"project_name": "Royal Palm Residences", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Ususan, Taguig, Metro Manila"}
+{"project_name": "W.H. Taft Residences", "location": "Manila\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "The Birchwood", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Ususan, Taguig, Metro Manila"}
+{"project_name": "Anuva", "location": "Muntinlupa\n                                                    , Metro Manila", "location_map": "Sucat, Muntinlupa, Metro Manila"}
+{"project_name": "The Manila Residences Bocobo", "location": "Manila\n                                                    , Metro Manila", "location_map": "Ermita, Manila, Metro Manila"}
+{"project_name": "The Manila Residences Tower II", "location": "Manila\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "The Manila Residences Tower I", "location": "Manila\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "Mandaluyong Executive Mansion III", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Namayan, Mandaluyong, Metro Manila"}
+{"project_name": "Grand Central Residences Tower I", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Highway Hills, Mandaluyong, Metro Manila"}
+{"project_name": "Pines Peak Tower I", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Highway Hills, Mandaluyong, Metro Manila"}
+{"project_name": "North Residences", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Veterans Village, Quezon City, Metro Manila"}
+{"project_name": "Windsor Mansion", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Santolan, Pasig, Metro Manila"}
+{"project_name": "Brentwood Mansion", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Santolan, Pasig, Metro Manila"}
+{"project_name": "Grand Emerald Tower", "location": "Pasig\n                                                    , Metro Manila", "location_map": "San Antonio, Pasig, Metro Manila"}
+{"project_name": "Makati Executive Tower IV", "location": "Makati\n                                                    , Metro Manila", "location_map": "Pio Del Pilar, Makati, Metro Manila"}
+{"project_name": "Makati Executive Tower III", "location": "Makati\n                                                    , Metro Manila", "location_map": "Pio Del Pilar, Makati, Metro Manila"}
+{"project_name": "Orchard Towers", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Bagong Ilog, Pasig, Metro Manila"}
+{"project_name": "Neopolitan Condominiums", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Fairview, Quezon City, Metro Manila"}
+{"project_name": "Garden Towers", "location": "Makati\n                                                    , Metro Manila", "location_map": "San Lorenzo, Makati, Metro Manila"}
+{"project_name": "East Gallery Place", "location": "Taguig\n                                                    , Metro Manila", "location_map": "BGC, Taguig, Metro Manila"}
+{"project_name": "East Bel-Air Residences", "location": "Manila\n                                                    , Metro Manila", "location_map": "Tondo, Manila, Metro Manila"}
+{"project_name": "Grand Residences España 2", "location": "Manila\n                                                    , Metro Manila", "location_map": "Manila, Metro Manila"}
+{"project_name": "Sky Villas", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Kaunlaran, Quezon City, Metro Manila"}
+{"project_name": "Park Terraces", "location": "Makati\n                                                    , Metro Manila", "location_map": "San Lorenzo, Makati, Metro Manila"}
+{"project_name": "Al Khor Town Homes", "location": "San Juan\n                                                    , Metro Manila", "location_map": "Batis, San Juan, Metro Manila"}
+{"project_name": "Avida Towers BGC 9TH Avenue", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Metro Manila, Taguig"}
+{"project_name": "Lancris Residences", "location": "Parañaque\n                                                    , Metro Manila", "location_map": "Don Bosco, Parañaque, Metro Manila"}
+{"project_name": "Avida Towers Altura", "location": "Muntinlupa\n                                                    , Metro Manila", "location_map": "Metro Manila, Muntinlupa, Alabang"}
+{"project_name": "Avida Towers Alabang", "location": "Muntinlupa\n                                                    , Metro Manila", "location_map": "Metro Manila, Muntinlupa, Alabang"}
+{"project_name": "Avida Towers 34th Street", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Metro Manila, Taguig"}
+{"project_name": "Avida Cityflex Towers BGC", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Metro Manila, Taguig, BGC"}
+{"project_name": "101 Newport BLVD", "location": "Manila\n                                                    , Metro Manila", "location_map": "Barangay 183, Pasay, Metro Manila"}
+{"project_name": "Noble Place", "location": "Manila\n                                                    , Metro Manila", "location_map": "Binondo, Manila, Metro Manila"}
+{"project_name": "150 Newport BLVD", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Barangay 183, Pasay, Metro Manila"}
+{"project_name": "81 Newport BLVD", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Barangay 183, Pasay, Metro Manila"}
+{"project_name": "The Palm Tree 2", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "Greenbelt Hamilton Tower 2", "location": "Makati\n                                                    , Metro Manila", "location_map": "San Lorenzo, Makati, Metro Manila"}
+{"project_name": "The Palm Tree", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Barangay 183, Pasay, Metro Manila"}
+{"project_name": "Paseo Heights", "location": "Makati\n                                                    , Metro Manila", "location_map": "Urdaneta, Makati, Metro Manila"}
+{"project_name": "Salcedo Skysuites", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bel-Air, Makati, Metro Manila"}
+{"project_name": "Three Central", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bel-Air, Makati, Metro Manila"}
+{"project_name": "Viceroy", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Bagong Tanyag, Taguig, Metro Manila"}
+{"project_name": "The Florence", "location": "Taguig\n                                                    , Metro Manila", "location_map": "McKinley Hill, Taguig, Metro Manila"}
+{"project_name": "Uptown Parksuites", "location": "Taguig\n                                                    , Metro Manila", "location_map": "BGC, Taguig, Metro Manila"}
+{"project_name": "Avida Towers One Union Place", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Metro Manila, Taguig, Western Bicutan"}
+{"project_name": "The Venice", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Bagong Tanyag, Taguig, Metro Manila"}
+{"project_name": "GOLFHILL GARDENS", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Ramon Magsaysay, Quezon City, Metro Manila"}
+{"project_name": "Avida Towers Astrea", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Metro Manila, Quezon City, Fairview"}
+{"project_name": "Bay Garden", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Barangay 76, Pasay, Metro Manila"}
+{"project_name": "Escalades East Tower", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Pasong Tamo, Quezon City, Metro Manila"}
+{"project_name": "The Parkside Villas", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Barangay 183, Pasay, Metro Manila"}
+{"project_name": "Trees Residences", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Kaligayahan, Quezon City, Metro Manila"}
+{"project_name": "Sun Residences", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Salvacion, Quezon City, Metro Manila"}
+{"project_name": "Shore Residences", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Barangay 76, Pasay, Metro Manila"}
+{"project_name": "Shine Residences", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Ugong, Pasig, Metro Manila"}
+{"project_name": "Shell Residences", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Barangay 76, Pasay, Metro Manila"}
+{"project_name": "Mezza 2 Residences", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Doña Imelda, Quezon City, Metro Manila"}
+{"project_name": "M Place Residences", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "South Triangle, Quezon City, Metro Manila"}
+{"project_name": "Princeton Residences", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Mariana, Quezon City, Metro Manila"}
+{"project_name": "Sea Residences SMDC", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Barangay 76, Pasay, Metro Manila"}
+{"project_name": "Mezza Residences", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Kaunlaran, Quezon City, Metro Manila"}
+{"project_name": "Light Residences", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Addition Hills, Mandaluyong, Metro Manila"}
+{"project_name": "Grace Residences", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Bagong Tanyag, Taguig, Metro Manila"}
+{"project_name": "Chateau Residences", "location": "Parañaque\n                                                    , Metro Manila", "location_map": "Don Bosco, Parañaque, Metro Manila"}
+{"project_name": "Breeze Residences", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Barangay 76, Pasay, Metro Manila"}
+{"project_name": "Times Square West", "location": "Taguig\n                                                    , Metro Manila", "location_map": "BGC, Taguig, Metro Manila"}
+{"project_name": "Madison Park", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Bagong Tanyag, Taguig, Metro Manila"}
+{"project_name": "One Wilson Square", "location": "San Juan\n                                                    , Metro Manila", "location_map": "Greenhills, San Juan, Metro Manila"}
+{"project_name": "Central Park West", "location": "Pateros\n                                                    , Metro Manila", "location_map": "BGC, Taguig, Metro Manila"}
+{"project_name": "Six Senses", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "Grand Hyatt Manila Residences", "location": "Taguig\n                                                    , Metro Manila", "location_map": "BGC, Taguig, Metro Manila"}
+{"project_name": "The Grand Midori Ortigas", "location": "Pasig\n                                                    , Metro Manila", "location_map": "San Antonio, Pasig, Metro Manila"}
+{"project_name": "Four Season Riviera", "location": "Manila\n                                                    , Metro Manila", "location_map": "Binondo, Manila, Metro Manila"}
+{"project_name": "Senta", "location": "Makati\n                                                    , Metro Manila", "location_map": "San Lorenzo, Makati, Metro Manila"}
+{"project_name": "The Capital", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "E. Rodriguez, Quezon City, Metro Manila"}
+{"project_name": "Paseo De Roces", "location": "Makati\n                                                    , Metro Manila", "location_map": "Pio Del Pilar, Makati, Metro Manila"}
+{"project_name": "Celadon Park", "location": "Manila\n                                                    , Metro Manila", "location_map": "Santa Cruz, Manila, Metro Manila"}
+{"project_name": "Oriental Garden", "location": "Makati\n                                                    , Metro Manila", "location_map": "Pio Del Pilar, Makati, Metro Manila"}
+{"project_name": "The Proscenium at Rockwell", "location": "Makati\n                                                    , Metro Manila", "location_map": "Poblacion, Makati, Metro Manila"}
+{"project_name": "Jazz Residences", "location": "Makati\n                                                    , Metro Manila", "location_map": "Bel-Air, Makati, Metro Manila"}
+{"project_name": "Green Residences", "location": "Manila\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "Blue Residences", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Apad, Quezon, Quezon"}
+{"project_name": "Field Residences", "location": "Parañaque\n                                                    , Metro Manila", "location_map": "San Dionisio, Parañaque, Metro Manila"}
+{"project_name": "The Sandstone at Portico", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Oranbo, Pasig, Metro Manila"}
+{"project_name": "Fame Residences", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Highway Hills, Mandaluyong, Metro Manila"}
+{"project_name": "Air Residences", "location": "Makati\n                                                    , Metro Manila", "location_map": "San Antonio, Makati, Metro Manila"}
+{"project_name": "Escalades at 20th Avenue", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Pasong Tamo, Quezon City, Metro Manila"}
+{"project_name": "Gateway Garden Ridge", "location": "Mandaluyong\n                                                    , Metro Manila", "location_map": "Plainview, Mandaluyong, Metro Manila"}
+{"project_name": "The Pearl Place", "location": "Pasig\n                                                    , Metro Manila", "location_map": "Metro Manila, Pasig"}
+{"project_name": "City Place", "location": "Manila\n                                                    , Metro Manila", "location_map": "San Nicolas, Manila, Metro Manila"}
+{"project_name": "Sarasota", "location": "Pasay\n                                                    , Metro Manila", "location_map": "Barangay 183, Pasay, Metro Manila"}
+{"project_name": "One Central", "location": "Makati\n                                                    , Metro Manila", "location_map": "Urdaneta, Makati, Metro Manila"}
+{"project_name": "8 Forbestown Centre", "location": "Taguig\n                                                    , Metro Manila", "location_map": "BGC, Taguig, Metro Manila"}
+{"project_name": "Vista 309 Katipunan", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Loyola Heights, Quezon City, Metro Manila"}
+{"project_name": "Vista Taft", "location": "Manila\n                                                    , Metro Manila", "location_map": "Malate, Manila, Metro Manila"}
+{"project_name": "Camella Glenmont", "location": "Quezon City\n                                                    , Metro Manila", "location_map": "Metro Manila, Quezon City, Sauyo"}
+{"project_name": "Morgan Suites", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Pinagsama, Taguig, Metro Manila"}
+{"project_name": "115 Upper Mckinley", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Forbes Park North, Makati, Metro Manila"}
+{"project_name": "One Central Park", "location": "Taguig\n                                                    , Metro Manila", "location_map": "Bagumbayan, Quezon City, Metro Manila"}
+{"project_name": "Salcedo Square", "location": "Makati\n                                                    , Metro Manila", "location_map": "San Lorenzo, Makati, Metro Manila"}
