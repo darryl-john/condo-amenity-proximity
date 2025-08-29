@@ -1,644 +1,1017 @@
-﻿project_name,location,location_map,location_match,location_corrected
-Avida Towers Verte,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Two Central,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-Avida Towers Prime Taft,"Pasay, Metro Manila","Barangay 36, Pasay, Metro Manila",TRUE,
-Sage Residences,"Mandaluyong, Metro Manila","Mauway, Mandaluyong, Metro Manila",TRUE,
-Avida Towers Turf,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-The Trion Towers II,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Coastal Luxury Residences,"Parañaque, Metro Manila","Tambo, Parañaque, Metro Manila",TRUE,
-Greenbelt Chancellor,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-Kizuna Heights,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Malate, Manila, Metro Manila"
-Two Roxas Triangle,Metro Manila,"Urdaneta, Makati, Metro Manila",TRUE,
-Coast Residences,"Pasay, Metro Manila","Barangay 76, Pasay, Metro Manila",TRUE,
-The Velaris Residences,Metro Manila,"Manggahan, Pasig, Metro Manila",TRUE,
-Icon Residences,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Allegra Garden Place,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Alder Residences,"Taguig, Metro Manila","San Miguel, Taguig, Metro Manila",TRUE,
-The Crestmont,Metro Manila,"South Triangle, Quezon City, Metro Manila",TRUE,
-Cameron Residences,"Quezon City, Metro Manila","Mariblo, Quezon City, Metro Manila",TRUE,
-Belize Oasis,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-Shang Residences Wack Wack,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-Valencia Hills,"Quezon City, Metro Manila","Valencia, Quezon City, Metro Manila",TRUE,
-Siena Tower,"Pasay, Metro Manila","Marikina, Metro Manila",FALSE,"Marikina, Metro Manila"
-The Capital Towers,"Quezon City, Metro Manila","Kalusugan, Quezon City, Metro Manila",TRUE,
-The Residences at Greenbelt,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-The Residences at Bonifacio Civic Center,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-110 Benavidez,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-Southkey Place,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-Woodsville Crest 3,"Parañaque, Metro Manila","Merville, Parañaque, Metro Manila",TRUE,
-Regent Parkway,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Pacific Plaza Tower,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Arya Residences Tower 2,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Arya Residences Tower 1,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-The Linear,"Makati, Metro Manila","San Antonio, Makati, Metro Manila",TRUE,
-The Levels,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-Studio City,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-One Sierra,"Mandaluyong, Metro Manila","Highway Hills, Mandaluyong, Metro Manila",TRUE,
-The Hermosa,"Las Piñas, Metro Manila","Pulang Lupa Uno, Las Piñas, Metro Manila",TRUE,
-Sands Residences,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-Mint Residences,"Makati, Metro Manila","Urdaneta, Makati, Metro Manila",TRUE,
-Pine Crest Towers,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-Torre Lorenzo Malate,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-Torre Lorenzo Loyola,"Quezon City, Metro Manila","Loyola Heights, Quezon City, Metro Manila",TRUE,
-3Torre Lorenzo,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-South 2 Residences,"Las Piñas, Metro Manila","Almanza Uno, Las Piñas, Metro Manila",TRUE,
-Acacia Escalades,"Pasig, Metro Manila","Manggahan, Pasig, Metro Manila",TRUE,
-The Radiance Manila Bay – North Tower,"Pasay, Metro Manila","Barangay 2, Pasay, Metro Manila",TRUE,
-"The Magnolia residences – Tower A, B, and C","Quezon City, Metro Manila","Kaunlaran, Quezon City, Metro Manila",TRUE,
-The Magnolia residences – Tower D,"Quezon City, Metro Manila","Kaunlaran, Quezon City, Metro Manila",TRUE,
-The Radiance Manila Bay – South Tower,"Pasay, Metro Manila","Barangay 2, Pasay, Metro Manila",TRUE,
-The Sapphire Bloc – East Tower,"Pasig, Metro Manila","San Antonio, Pasig, Metro Manila",TRUE,
-Acacia Escalades – Building B,"Pasig, Metro Manila","Manggahan, Pasig, Metro Manila",TRUE,
-Gem Residences,"Pasig, Metro Manila","Ugong, Pasig, Metro Manila",TRUE,
-Viento at Cerca,"Muntinlupa, Metro Manila","Almanza Dos, Las Piñas, Metro Manila",FALSE,"Almanza Uno, Las Piñas, Metro Manila"
-Parkford Suites Legazpi,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-Park Cascades at Arca South,"Taguig, Metro Manila","Western Bicutan, Taguig, Metro Manila",TRUE,
-Orean Place at Vertis North,"Quezon City, Metro Manila","Bagong Pag-Asa, Quezon City, Metro Manila",TRUE,
-The Spectrum,"Pasig, Metro Manila","Wack-Wack Greenhills, Mandaluyong, Metro Manila",FALSE,"Ortigas Center, Pasig, Metro Manila"
-MidPark Towers,"Parañaque, Metro Manila","Baclaran, Parañaque, Metro Manila",TRUE,
-The Arton,"Quezon City, Metro Manila","Loyola Heights, Quezon City, Metro Manila",TRUE,
-Avida Towers Verge,"Mandaluyong, Metro Manila","Highway Hills, Mandaluyong, Metro Manila",TRUE,
-La Vie Flats,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-Hawthorne Heights,"Quezon City, Metro Manila","Loyola Heights, Quezon City, Metro Manila",TRUE,
-Shore 3 Residences,"Pasay, Metro Manila","Barangay 76, Pasay, Metro Manila",TRUE,
-S Residences,"Pasay, Metro Manila","Barangay 76, Pasay, Metro Manila",TRUE,
-Mergent Residences,"Makati, Metro Manila","Poblacion, Makati, Metro Manila",TRUE,
-The Lattice at Parklinks,"Pasig, Metro Manila","Ugong Norte, Quezon City, Metro Manila",FALSE,"Pasig, Metro Manila"
-Avida Towers Cloverleaf,"Quezon City, Metro Manila","Balingasa, Quezon City, Metro Manila",TRUE,
-Arbor Lanes,"Taguig, Metro Manila","Western Bicutan, Taguig, Metro Manila",TRUE,
-Callisto 2,"Makati, Metro Manila","Carmona, Makati, Metro Manila",TRUE,
-Garden Court,"Taguig, Metro Manila","Western Bicutan, Taguig, Metro Manila",TRUE,
-Portico,"Pasig, Metro Manila","Oranbo, Pasig, Metro Manila",TRUE,
-Sentrove at Cloverleaf,"Quezon City, Metro Manila","Balingasa, Quezon City, Metro Manila",TRUE,
-Palm Beach West,"Pasay, Metro Manila","Barangay 76, Pasay, Metro Manila",TRUE,
-Copeton Baysuites,"Parañaque, Metro Manila","Tambo, Parañaque, Metro Manila",TRUE,
-Light 2 Residences,"Mandaluyong, Metro Manila","Barangka Ilaya, Mandaluyong, Metro Manila",TRUE,
-Gold Residences,"Parañaque, Metro Manila","Santo Niño, Parañaque, Metro Manila",TRUE,
-South Beach Place,"Parañaque, Metro Manila","Tambo, Parañaque, Metro Manila",TRUE,
-Cirrus,"Pasig, Metro Manila","Manggahan, Pasig, Metro Manila",TRUE,
-Verde Spatial,"Quezon City, Metro Manila","Commonwealth, Quezon City, Metro Manila",TRUE,
-Santorini at The Lakefront,"Muntinlupa, Metro Manila","Sucat, Muntinlupa, Metro Manila",TRUE,
-Glam Residences,"Quezon City, Metro Manila","South Triangle, Quezon City, Metro Manila",TRUE,
-Sail Residences,"Pasay, Metro Manila","Barangay 76, Pasay, Metro Manila",TRUE,
-Leaf Residences,"Muntinlupa, Metro Manila","Tunasan, Muntinlupa, Metro Manila",TRUE,
-Bloom Residences,"Parañaque, Metro Manila","San Antonio, Parañaque, Metro Manila",TRUE,
-The Larsen Tower at East Bay Residences,"Muntinlupa, Metro Manila","Sucat, Muntinlupa, Metro Manila",TRUE,
-Activa Flex,"Quezon City, Metro Manila","E. Rodriguez, Quezon City, Metro Manila",TRUE,
-The Royalton at Capitol Commons,"Pasig, Metro Manila","Oranbo, Pasig, Metro Manila",TRUE,
-Maple at Verdant Towers,"Pasig, Metro Manila","Ugong, Pasig, Metro Manila",TRUE,
-Red Residences,"Makati, Metro Manila","Pio Del Pilar, Makati, Metro Manila",TRUE,
-Lush Residences,"Makati, Metro Manila","San Antonio, Makati, Metro Manila",TRUE,
-Vine Residences,"Quezon City, Metro Manila","San Bartolome, Quezon City, Metro Manila",TRUE,
-Satori Residences,"Pasig, Metro Manila","Santolan, Pasig, Metro Manila",TRUE,
-The Atherton,"Parañaque, Metro Manila","San Antonio, Parañaque, Metro Manila",TRUE,
-The Imperium at Capitol Commons,"Pasig, Metro Manila","Oranbo, Pasig, Metro Manila",TRUE,
-The Connor at Greenhhills,"San Juan, Metro Manila","Little Baguio, San Juan, Metro Manila",TRUE,
-Circulo Verde,"Quezon City, Metro Manila","Manggahan, Pasig, Metro Manila",FALSE,"Quezon City, Metro Manila"
-Studio 7,"Quezon City, Metro Manila","South Triangle, Quezon City, Metro Manila",TRUE,
-Panglao Oasis,"Taguig, Metro Manila","Pinagsama, Taguig, Metro Manila",TRUE,
-Maven,"Pasig, Metro Manila","Oranbo, Pasig, Metro Manila",TRUE,
-The Residences at Commonwealth Quezon City,"Quezon City, Metro Manila","Batasan Hills, Quezon City, Metro Manila",TRUE,
-Trump Towers,"Makati, Metro Manila","Poblacion, Makati, Metro Manila",TRUE,
-The Milano Residences,"Makati, Metro Manila","Poblacion, Makati, Metro Manila",TRUE,
-Aurora Escalades_,"Quezon City, Metro Manila","San Roque, Quezon City, Metro Manila",TRUE,
-Fairlane Residences,"Pasig, Metro Manila","Kapitolyo, Pasig, Metro Manila",TRUE,
-12 Luxury Flats,"San Juan, Metro Manila","Little Baguio, San Juan, Metro Manila",TRUE,
-Kai Garden Residences,"Mandaluyong, Metro Manila","Malamig, Mandaluyong, Metro Manila",TRUE,
-Omni Gardens,"Manila, Metro Manila","Quiapo, Manila, Metro Manila",TRUE,
-The Olive Place,"Mandaluyong, Metro Manila","Plainview, Mandaluyong, Metro Manila",TRUE,
-The Orabella,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-One Eastwood Avenue Tower 2,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-One Eastwood Avenue Tower 1,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-Calathea Place,"Parañaque, Metro Manila","San Antonio, Parañaque, Metro Manila",TRUE,
-Palm Grove,"Parañaque, Metro Manila","Don Bosco, Parañaque, Metro Manila",TRUE,
-The Residences at The Westin Manila Sonata Place,"Mandaluyong, Metro Manila","Wack-Wack Greenhills, Mandaluyong, Metro Manila",TRUE,
-Sunshine 100 City Plaza,"Mandaluyong, Metro Manila","Buayang Bato, Mandaluyong, Metro Manila",TRUE,
-Pacific Plaza Condominium,"Makati, Metro Manila","Urdaneta, Makati, Metro Manila",TRUE,
-Mercedes Residences,"Pasig, Metro Manila","San Miguel, Pasig, Metro Manila",TRUE,
-SMDC LIGHT RESIDENCE,"Mandaluyong, Metro Manila","Plainview, Mandaluyong, Metro Manila",TRUE,
-Prisma Residences,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Bay Area Suites Condominium,"Manila, Metro Manila","Quiapo, Manila, Metro Manila",TRUE,
-Oak Harbor Residences,"Parañaque, Metro Manila","Don Bosco, Parañaque, Metro Manila",TRUE,
-INFINA TOWERS,"Quezon City, Metro Manila","Marilag, Quezon City, Metro Manila",TRUE,
-LAKEVIEW MANORS,"Taguig, Metro Manila","Ususan, Taguig, Metro Manila",TRUE,
-Brixton Place,"Pasig, Metro Manila","Kapitolyo, Pasig, Metro Manila",TRUE,
-THE CELANDINE,"Quezon City, Metro Manila","Balingasa, Quezon City, Metro Manila",TRUE,
-San francisco Garden Condominium,"Mandaluyong, Metro Manila","Barangka Itaas, Mandaluyong, Metro Manila",TRUE,
-The Courtyard at the Pacific Residences,"Las Piñas, Metro Manila","Salawag, Dasmariñas, Cavite",FALSE,"Taguig, Metro Manila"
-The Currency - Commercial and Office Units for Sale,"Pasig, Metro Manila","San Antonio, Pasig, Metro Manila",TRUE,
-Melbourne Residences,"Makati, Metro Manila","Urdaneta, Makati, Metro Manila",TRUE,
-The Trion Towers I,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-West Gallery Place,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Park Central Towers,"Makati, Metro Manila","Urdaneta, Makati, Metro Manila",TRUE,
-Woodsville Viverde Mansions,"Parañaque, Metro Manila","Merville, Parañaque, Metro Manila",TRUE,
-The Fifth Avenue Place,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Escalades South Metro,Metro Manila,"Salapan, San Juan, Metro Manila",TRUE,
-Escalades @20th Avenue,"Quezon City, Metro Manila","San Roque, Quezon City, Metro Manila",TRUE,
-Adriatico Place,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-"Asiana Oasis, Parañaque City","Parañaque, Metro Manila","Metro Manila, Parañaque",FALSE,"Parañaque, Metro Manila"
-Chimes Greenhills,"San Juan, Metro Manila","Greenhills, San Juan, Metro Manila",TRUE,
-Acacia Escalades,"Pasig, Metro Manila","Manggahan, Pasig, Metro Manila",TRUE,
-Amaia Steps Bicutan 1,"Parañaque, Metro Manila","Sun Valley, Parañaque, Metro Manila",TRUE,
-Amaia Steps Alabang,"Las Piñas, Metro Manila","Almanza Dos, Las Piñas, Metro Manila",TRUE,
-Amaia Skies Sta. Mesa - South Tower,"Manila, Metro Manila","Quiapo, Manila, Metro Manila",TRUE,
-Amaia Skies Shaw - North Tower,"Mandaluyong, Metro Manila","Plainview, Mandaluyong, Metro Manila",TRUE,
-Amaia Skies Cubao,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-Amaia Skies Avenida - North Tower,"Manila, Metro Manila","Quiapo, Manila, Metro Manila",TRUE,
-High Street South Block,"Taguig, Metro Manila","Pinagsama, Taguig, Metro Manila",TRUE,
-The Suites at One Bonifacio High Street,"Taguig, Metro Manila","Pinagsama, Taguig, Metro Manila",TRUE,
-One Serendra,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Avida Towers Vita,"Quezon City, Metro Manila","Metro Manila, Quezon City",FALSE,"Quezon City, Metro Manila"
-Avida Towers Davao,Metro Manila,Metro Manila,TRUE,
-One Park Drive,"Taguig, Metro Manila","Metro Manila, Taguig",FALSE,"Taguig, Metro Manila"
-Greenbelt Hamilton 2,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-San Antonio Residence,"Makati, Metro Manila","San Antonio, Makati, Metro Manila",TRUE,
-Tres Palmas,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Axis Residences,"Mandaluyong, Metro Manila","Highway Hills, Mandaluyong, Metro Manila",TRUE,
-Raya Gardens,"Parañaque, Metro Manila","Merville, Parañaque, Metro Manila",TRUE,
-Alphaland Makati Place,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Icon Plaza,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-symfoni kamias,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-Manggahan Village,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Fairways Tower,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Solano Hills Sucat,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-Arezzo Place Pasig,"Pasig, Metro Manila","San Joaquin, Pasig, Metro Manila",TRUE,
-ASIA Enclaves Alabang,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-Flora Vista,"Quezon City, Metro Manila","Commonwealth, Quezon City, Metro Manila",TRUE,
-San Benissa Garden,"Quezon City, Metro Manila","Pasong Putik Proper, Quezon City, Metro Manila",TRUE,
-Spazio Bernardo West Villas,"Quezon City, Metro Manila","Gulod, Quezon City, Metro Manila",TRUE,
-Sunny Villas,"Quezon City, Metro Manila","Gulod, Quezon City, Metro Manila",TRUE,
-The Forbes Hall,"Manila, Metro Manila","Manila, Metro Manila",TRUE,
-Shangri-La at The Fort,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-BRESCIA RESIDENCES,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-PINE CREST,"Quezon City, Metro Manila","Mariana, Quezon City, Metro Manila",TRUE,
-PRESIDIO AT LAKEFRONT,"Muntinlupa, Metro Manila","Sucat, Muntinlupa, Metro Manila",TRUE,
-Sonria,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-The Bellagio 2,"Taguig, Metro Manila","Pinagsama, Taguig, Metro Manila",TRUE,
-Mckinley West Village,"Taguig, Metro Manila","Pinagsama, Taguig, Metro Manila",TRUE,
-The Avenue Residences,"Quezon City, Metro Manila","Talipapa, Quezon City, Metro Manila",TRUE,
-1322 Golden Empire Tower,"Manila, Metro Manila","Ermita, Manila, Metro Manila",TRUE,
-Moldex Residences Valenzuela,"Manila, Metro Manila","Paso de Blas, Valenzuela, Metro Manila",FALSE,"Paso de Blas, Valenzuela, Metro Manila"
-The Grand Towers Manila,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-One Shangri-La Place,"Mandaluyong, Metro Manila","Wack-Wack Greenhills, Mandaluyong, Metro Manila",TRUE,
-The Saint Francis Shangri-la Place,"Mandaluyong, Metro Manila","Highway Hills, Mandaluyong, Metro Manila",TRUE,
-Shang Salcedo Place,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-The Rise Makati By Shangrila,"Makati, Metro Manila","San Antonio, Makati, Metro Manila",TRUE,
-Hacienda Balai,"Quezon City, Metro Manila","Barangay 177, Quezon City, Metro Manila",TRUE,
-La Nobleza Terrazas,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-The TREVI TOWERS,Metro Manila,"Tugatog, Malabon, Metro Manila",TRUE,
-The Manila Residences,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-dakotaresidences,Metro Manila,"Tugatog, Malabon, Metro Manila",TRUE,
-Madison Park West,"Taguig, Metro Manila","Pinagsama, Taguig, Metro Manila",TRUE,
-East of Galleria,"Pasig, Metro Manila","San Antonio, Pasig, Metro Manila",TRUE,
-Shore 2 Residences,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Pasay, Metro Manila"
-The Royalton,"Pasig, Metro Manila","Oranbo, Pasig, Metro Manila",TRUE,
-Majorca Tower,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-Avila at Circulo Verde,"Quezon City, Metro Manila","Bagumbayan, Quezon City, Metro Manila",TRUE,
-Lleida Tower,"Quezon City, Metro Manila","Bagumbayan, Quezon City, Metro Manila",TRUE,
-Seville Residences,"Quezon City, Metro Manila","Bagumbayan, Quezon City, Metro Manila",TRUE,
-Ibiza at Circulo Verde,"Quezon City, Metro Manila","Manggahan, Pasig, Metro Manila",FALSE,"Quezon City, Metro Manila"
-Vinia Residences,"Quezon City, Metro Manila","Phil-Am, Quezon City, Metro Manila",TRUE,
-Amaia Steps Nova,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-One Oasis Ortigas,"Pasig, Metro Manila","Santa Lucia, Pasig, Metro Manila",TRUE,
-Solstice at Circuit Makati,"Makati, Metro Manila","Carmona, Makati, Metro Manila",TRUE,
-High Park at Vertis North,"Quezon City, Metro Manila","Bagong Pag-Asa, Quezon City, Metro Manila",TRUE,
-Park Triangle Residences,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Avida Towers Intima,"Manila, Metro Manila","Metro Manila, Manila",FALSE,"Paco, Manila, Metro Manila"
-One Antonio,"Makati, Metro Manila","San Antonio, Makati, Metro Manila",TRUE,
-Eight Wack Wack,"Mandaluyong, Metro Manila","Plainview, Mandaluyong, Metro Manila",TRUE,
-Amvel Mansions,Metro Manila,"Tugatog, Malabon, Metro Manila",TRUE,
-Elizabeth Place,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-Grand Hamptons,"Taguig, Metro Manila","Forbes Park North, Makati, Metro Manila",FALSE,"Taguig, Metro Manila"
-Dansalan Garden,"Mandaluyong, Metro Manila","Malamig, Mandaluyong, Metro Manila",TRUE,
-Portovita Condominium,"Quezon City, Metro Manila","Socorro, Quezon City, Metro Manila",TRUE,
-Sea Residences Tower A,"Pasay, Metro Manila","Barangay 97, Pasay, Metro Manila",TRUE,
-Greenbelt Parkplace,"Makati, Metro Manila","Urdaneta, Makati, Metro Manila",TRUE,
-Larossa In Capitol Hills,"Quezon City, Metro Manila","Matandang Balara, Quezon City, Metro Manila",TRUE,
-Escala Salcedo,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-Victoria De Manila 2,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-Torre Central,"Manila, Metro Manila","Manila, Metro Manila",TRUE,
-COVENT GARDEN,"Manila, Metro Manila","Santa Mesa, Manila, Metro Manila",TRUE,
-One Shangrila Place Ortigas,"Mandaluyong, Metro Manila","Metro Manila, Mandaluyong",FALSE,"Ortigas Center, Mandaluyong, Metro Manila"
-Elements Eco-Efficient Residences,"Las Piñas, Metro Manila","Kapitolyo, Pasig, Metro Manila",FALSE,"Kapitolyo, Pasig, Metro Manila"
-Royal Palm Villa,Metro Manila,"Tugatog, Malabon, Metro Manila",TRUE,
-One Central Tower 1,"Makati, Metro Manila","Urdaneta, Makati, Metro Manila",TRUE,
-Mezza II Residences,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-One Nenita Place,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-Vivaldi Residences,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-Amaia Steps Novaliches,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-WILL TOWER,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-Circulo Verde Lleida,"Quezon City, Metro Manila","Metro Manila, Quezon City",FALSE,"Quezon City, Metro Manila"
-The Manors at Celebrity Place,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-Grass Residences,"Quezon City, Metro Manila","Alicia, Quezon City, Metro Manila",TRUE,
-One Metropolitan Place,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Pasay, Metro Manila"
-Studio Zen Taft,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Pasay, Metro Manila"
-The Parkside Villa,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Pasay, Metro Manila"
-Pinecrest,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-Oceanaire Luxurious Residences,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Pasay, Metro Manila"
-MANILA RESIDENCES,"Manila, Metro Manila","Tondo, Manila, Metro Manila",TRUE,
-CIVIC PLACE,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-MONTECITO RESIDENTIAL RESORT,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Pasay, Metro Manila"
-CORINTHIAN EXECUTIVE REGENCY,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-One Mckinley Place,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-MANHATTAN GARDEN,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-South of Market Private Residences (SOMA),"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-CHERRY ORCHARD SUITES,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-ANUVA CONDO,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-PALMDALE HEIGHTS,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-BSA Twin Tower,"Mandaluyong, Metro Manila","Wack-Wack Greenhills, Mandaluyong, Metro Manila",TRUE,
-GA Tower Two,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-The Viceroy Residences,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-One Uptown Residences,"Taguig, Metro Manila","South Cembo, Makati, Metro Manila",FALSE,"Taguig, Metro Manila"
-One Orchard Road,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-Number One West Tower,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-University Tower,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-The Gramercy Residences,"Makati, Metro Manila","Poblacion, Makati, Metro Manila",TRUE,
-One Union Place,"Taguig, Metro Manila","Western Bicutan, Taguig, Metro Manila",TRUE,
-329 Armstrong,"Parañaque, Metro Manila","Barangay 76, Pasay, Metro Manila",FALSE,"Parañaque, Metro Manila"
-Cityland Shaw Tower,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-Beaufort East Condo,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Manhattan Square,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Palawan Tower at Bay Gardens,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Pasay, Metro Manila"
-OLYMPIC HEIGHTS,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-Stamford Executive Residences,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-STRATA VIEWS,"San Juan, Metro Manila","Balong-Bato, San Juan, Metro Manila",TRUE,
-M PLACE,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-EIGHT FORBESTOWN ROAD,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-The barons place,"San Juan, Metro Manila","Balong-Bato, San Juan, Metro Manila",TRUE,
-The Columns Legaspi Village,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-The Palmtree at NewPort City,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Newport Blvd, Pasay, Metro Manila"
-Sofia Bellevue,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-MAGNOLIA RESIDENCES,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-THE SHANG GRAND TOWER,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-Swire Elan Suites,"San Juan, Metro Manila","Greenhills, San Juan, Metro Manila",TRUE,
-Azure Urban Resort Residences Parañaque,"Parañaque, Metro Manila","Marcelo Green Village, Parañaque, Metro Manila",TRUE,
-PONTE SALCEDO,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-Phoenix Heights,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Antel Seaview,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Pasay, Metro Manila"
-Grand Soho Makati,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-THE COLONADE RESIDENCES,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Sarasota Residential Resort,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Pasay, Metro Manila"
-ALPHA SALCEDO,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-Kensington Place,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Cityland Rada Regency,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-oriental gardens makati,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Cityland Pioneer,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-Aston at Two Serendra,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Sapphire Residences,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-ADRIATICO RESIDENCES,"Manila, Metro Manila","Quiapo, Manila, Metro Manila",TRUE,
-EL JARDIN DEL PRESIDENTE 2,"Quezon City, Metro Manila","South Triangle, Quezon City, Metro Manila",TRUE,
-Two Maridien,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-EDADES TOWER AND GARDEN VILLAS,"Makati, Metro Manila","Rockwell, Makati, Metro Manila",TRUE,
-Joya Lofts and Towers,"Makati, Metro Manila","Rockwell, Makati, Metro Manila",TRUE,
-THE COLUMNS LEGAZPI VILLAGE,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-GRAND HYATT RESIDENCES,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-ONE BURGUNDY PLAZA,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-Tuscany Private Estate,"Taguig, Metro Manila","McKinley Hill, Taguig, Metro Manila",TRUE,
-The Venice Luxury Residences,"Taguig, Metro Manila","McKinley Hill, Taguig, Metro Manila",TRUE,
-The Florence Residence,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Viceroy Residences,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Sonata Private Residences,"Mandaluyong, Metro Manila","Wack-Wack Greenhills, Mandaluyong, Metro Manila",TRUE,
-The Proscenium,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Verve Residences,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-The Ritz Tower,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-THE AVANT AT THE FORT,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-KL Mosaic,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Trump Tower Manila,"Quezon City, Metro Manila","Metro Manila, Quezon City",FALSE,"Makati, Metro Manila"
-Signa Designer Residences,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-The Lerato,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-The Grand Quartier,Metro Manila,"Tugatog, Malabon, Metro Manila",TRUE,
-Cypress Towers,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Rosewood Pointe,"Taguig, Metro Manila","Ususan, Taguig, Metro Manila",TRUE,
-Forbeswood Heights,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Crescent Park Residences,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Penhurst Park place,"Taguig, Metro Manila","Forbes Park North, Makati, Metro Manila",FALSE,"Taguig, Metro Manila"
-Bonifacio Ridge,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Essensa Towers,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-mckinley hill garden villas,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Aic Gold Tower,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Cerritos East Residences,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-East Ortigas Mansions,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Renaissance Tower,"Pasig, Metro Manila","Ugong, Pasig, Metro Manila",TRUE,
-East Raya Garden,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Bali Oasis Phase,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-ADB Avenue Tower,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Alexandra,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Kroma Tower,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-KL MALVAR Residences,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Magnolia Place,"Quezon City, Metro Manila","Talipapa, Quezon City, Metro Manila",TRUE,
-Mayfield Park Residences,"Pasig, Metro Manila","Rosario, Pasig, Metro Manila",TRUE,
-Rainbow Ridge,"Taguig, Metro Manila","Pinagsama, Taguig, Metro Manila",TRUE,
-Raya Garden,"Parañaque, Metro Manila","Barangay 76, Pasay, Metro Manila",FALSE,"Merville, Parañaque, Metro Manila"
-Joya South Tower,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Francesca Tower 2,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-One Lafayette Square,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-Hidalgo Place,"Makati, Metro Manila","Rockwell, Makati, Metro Manila",TRUE,
-Salcedo Park,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-MPlace South Triangle,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-Parc Regent,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Manansala Rockwell,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Edades Tower,"Makati, Metro Manila","Rockwell, Makati, Metro Manila",TRUE,
-Makati Executive Towers,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Hampton Gardens,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-The Columns,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Palmdale Hieghts,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Illumina Residences,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-The Grove,"Pasig, Metro Manila","Ugong, Pasig, Metro Manila",TRUE,
-Riverfront Residences,"Pasig, Metro Manila","Ugong, Pasig, Metro Manila",TRUE,
-Kasara Urban Resort,"Pasig, Metro Manila","Ugong, Pasig, Metro Manila",TRUE,
-D Ace Suites,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Centro Residences,"Quezon City, Metro Manila","Kaunlaran, Quezon City, Metro Manila",TRUE,
-AMAIA SKIES AVENIDA,"Manila, Metro Manila","Quiapo, Manila, Metro Manila",TRUE,
-Amorsolo Square at Rockwell,"Makati, Metro Manila","Rockwell, Makati, Metro Manila",TRUE,
-Venice Luxury Residences,"Manila, Metro Manila","McKinley Hill, Taguig, Metro Manila",FALSE,"Venice Grand Canal Mall, Taguig, Metro Manila"
-Fraser Place Manila,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Belton Place Condo,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Vivant Flats,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-Presidio Lakefront,"Parañaque, Metro Manila","Barangay 76, Pasay, Metro Manila",FALSE,"Muntinlupa, Metro Manila"
-Two Serendra,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Bellagio Towers,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Luxe Residences,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Bonifacio Heights,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Solemare Parksuites,"Parañaque, Metro Manila","Metro Manila, Parañaque, Baclaran",FALSE,"Parañaque, Metro Manila"
-South Residences,"Las Piñas, Metro Manila","Almanza Dos, Las Piñas, Metro Manila",TRUE,
-Mango Tree Residences,"San Juan, Metro Manila","Manila, Metro Manila",FALSE,"Pasadena, San Juan, Metro Manila"
-California Garden Square,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-KASARA Urban Resort Residences,"Pasig, Metro Manila","Ugong, Pasig, Metro Manila",TRUE,
-Dansalan Gardens,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-AMAIA STEPS SUCAT,"Parañaque, Metro Manila","Barangay 76, Pasay, Metro Manila",FALSE,"Parañaque, Metro Manila"
-Mondrian Residences,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-LaVie Flat,"Muntinlupa, Metro Manila","Metro Manila, Muntinlupa",FALSE,"Alabang, Muntinlupa, Metro Manila"
-Avida Tower Alabang,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-Ohana Place,"Las Piñas, Metro Manila","Almanza Uno, Las Piñas, Metro Manila",TRUE,
-Almanza Metropolis,"Las Piñas, Metro Manila","Almanza Dos, Las Piñas, Metro Manila",TRUE,
-The Residential Resort At Newport City,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Pasay, Metro Manila"
-Pioneer Pointe,"Mandaluyong, Metro Manila","Highway Hills, Mandaluyong, Metro Manila",TRUE,
-Lee Gardens,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-Tivoli Gardens Residences,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-The St. Francis Shangri-La Place,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-Soho Central,"Mandaluyong, Metro Manila","Highway Hills, Mandaluyong, Metro Manila",TRUE,
-Sycamore Tower Dansalan Gardens,"Mandaluyong, Metro Manila","Malamig, Mandaluyong, Metro Manila",TRUE,
-GATEWAY GARDEN HEIGHTS (GGH),"Manila, Metro Manila","Quiapo, Manila, Metro Manila",TRUE,
-The Bonifacio Residences,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-Acqua Private Residences,"Mandaluyong, Metro Manila","Hulo, Mandaluyong, Metro Manila",TRUE,
-The Viceroy,"Manila, Metro Manila","McKinley Hill, Taguig, Metro Manila",FALSE,"McKinley Hill, Taguig, Metro Manila"
-The Infinity,"Taguig, Metro Manila","Pinagsama, Taguig, Metro Manila",TRUE,
-The Icon,"Manila, Metro Manila","Tondo, Manila, Metro Manila",TRUE,
-The Bellagio 3,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-The Aston At Two Serendra,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Seibu Tower,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Fort Palm Spring,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Woodsville Viverde Mansion,"Manila, Metro Manila","Tondo, Manila, Metro Manila",TRUE,
-Tribeca Private Residences,"Manila, Metro Manila","Tondo, Manila, Metro Manila",TRUE,
-Lions Park Residences,"Parañaque, Metro Manila","Barangay 76, Pasay, Metro Manila",FALSE,"Sta Ana Dr, Parañaque, Metro Manila"
-Fountain Breeze,"Manila, Metro Manila","Tondo, Manila, Metro Manila",TRUE,
-MALATE BAYVIEW MANSION,"Manila, Metro Manila","Tondo, Manila, Metro Manila",TRUE,
-BAYWATCH TOWER,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-Rada Regency,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Kingswood Square,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-THE GRAND MIDORI MAKATI,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-The Manors at North Belton Communities,"Quezon City, Metro Manila","Tondo, Manila, Metro Manila",FALSE,"Grace Park East, Manila, Metro Manila"
-Eton Residences Greenbelt,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-trump tower,"Makati, Metro Manila","Metro Manila, Makati",FALSE,"Makati, Metro Manila"
-Avida Towers Sucat,"Parañaque, Metro Manila","Barangay 76, Pasay, Metro Manila",FALSE,"Parañaque, Metro Manila"
-BLUE SAPPHIRE RESIDENCES,"Taguig, Metro Manila","Pinagsama, Taguig, Metro Manila",TRUE,
-The Columns Ayala Avenue,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-Maple Place,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Fairway Terraces,"Pasay, Metro Manila","Barangay 97, Pasay, Metro Manila",TRUE,
-Greenbelt Hamilton Two,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Antel Spa Residences,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Laureano di Trevi Towers,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-BSA Tower,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Manansala Tower,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Avida Towers San Lorenzo,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-One Central Makati,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Amorsolo Square,"Makati, Metro Manila","Rockwell, Makati, Metro Manila",TRUE,
-One Rockwell,"Makati, Metro Manila","Rockwell, Makati, Metro Manila",TRUE,
-The Columns At Legaspi Village,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-The Beacon,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Palmetto Place,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Fairway Tarraces,"Pasay, Metro Manila","Tugatog, Malabon, Metro Manila",FALSE,"Villamor Airbase, Pasay, Metro Manila"
-Fortune Hill,"San Juan, Metro Manila","Addition Hills, San Juan, Metro Manila",TRUE,
-South Insula,"Quezon City, Metro Manila","Sacred Heart, Quezon City, Metro Manila",TRUE,
-The Salcedo Park Condominum,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-Asia Enclaves,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-Solano Hills,"Muntinlupa, Metro Manila","Alabang, Muntinlupa, Metro Manila",TRUE,
-Arezzo Place,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-ETON EMERALD LOFTS,"Pasig, Metro Manila","San Antonio, Pasig, Metro Manila",TRUE,
-BELTON PLACE,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Eton Parkview Greenbelt,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-8 ADRIATICO,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-One Archers Place,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-Eton Baypark Manila,"Manila, Metro Manila","Tondo, Manila, Metro Manila",TRUE,
-Acqua Living Stone,"Mandaluyong, Metro Manila","Hulo, Mandaluyong, Metro Manila",TRUE,
-Aqua Iguazu,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-Century Spire Makati,"Makati, Metro Manila","Poblacion, Makati, Metro Manila",TRUE,
-Penthouse Unit in Acqua Livingstone,"Makati, Metro Manila","Hulo, Mandaluyong, Metro Manila",FALSE,"Mandaluyong, Metro Manila"
-Suntrust Shanata,"Quezon City, Metro Manila","Talipapa, Quezon City, Metro Manila",TRUE,
-SUNTRUST AMADEA,"Quezon City, Metro Manila","Paligsahan, Quezon City, Metro Manila",TRUE,
-Suntrust Capitol Plaza,"Quezon City, Metro Manila","Central, Quezon City, Metro Manila",TRUE,
-AURORA GARDENS,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-Suntrust Asmara,"Quezon City, Metro Manila","Damayang Lagi, Quezon City, Metro Manila",TRUE,
-KIRANA,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-SUNTRUST TREETOP VILLAS,"Mandaluyong, Metro Manila","Hulo, Mandaluyong, Metro Manila",TRUE,
-Suntrust Solana,"Manila, Metro Manila","Ermita, Manila, Metro Manila",TRUE,
-SUNTRUST ASCENTIA,"Manila, Metro Manila","Santa Ana, Manila, Metro Manila",TRUE,
-SUNTRUST ADRIATICO GARDENS,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-The Rise Makati,"Makati, Metro Manila","San Antonio, Makati, Metro Manila",TRUE,
-One Shangrila Place,"Mandaluyong, Metro Manila","Metro Manila, Mandaluyong",FALSE,"Ortigas Center, Mandaluyong, Metro Manila"
-AMA TOWER RESIDENCES,"Mandaluyong, Metro Manila","Wack-Wack Greenhills, Mandaluyong, Metro Manila",TRUE,
-Victoria de Manila,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-The A.Venue Suites,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-Antel Spa Suites,"Makati, Metro Manila","Poblacion, Makati, Metro Manila",TRUE,
-Serenity Suites,"Makati, Metro Manila","Poblacion, Makati, Metro Manila",TRUE,
-Skyway Twin Towers,"Pasig, Metro Manila","Oranbo, Pasig, Metro Manila",TRUE,
-My Place at South Triangle,"Quezon City, Metro Manila","South Triangle, Quezon City, Metro Manila",TRUE,
-My Place at Ortigas,"Pasig, Metro Manila","Ugong, Pasig, Metro Manila",TRUE,
-Chateau Elysee,"Parañaque, Metro Manila","Don Bosco, Parañaque, Metro Manila",TRUE,
-Berkeley Residences,"Quezon City, Metro Manila","Loyola Heights, Quezon City, Metro Manila",TRUE,
-Juez Residences,"Malabon, Metro Manila","Maysilo, Malabon, Metro Manila",TRUE,
-Space Taft,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-Zitan,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-Twin Oaks Place,"Mandaluyong, Metro Manila","Wack-Wack Greenhills, Mandaluyong, Metro Manila",TRUE,
-San Lorenzo Place,"Makati, Metro Manila","Bangkal, Makati, Metro Manila",TRUE,
-The Rochester,"Pasig, Metro Manila","San Joaquin, Pasig, Metro Manila",TRUE,
-Victoria de Morato,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-Victoria de Malate,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-Isabelle de Valenzuela,"Valenzuela, Metro Manila","Isla, Valenzuela, Metro Manila",TRUE,
-Victoria Sports Tower,"Quezon City, Metro Manila","South Triangle, Quezon City, Metro Manila",TRUE,
-Victoria de Makati,"Makati, Metro Manila","Pio Del Pilar, Makati, Metro Manila",TRUE,
-Fort Victoria,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Victoria Towers,"Quezon City, Metro Manila","Paligsahan, Quezon City, Metro Manila",TRUE,
-Little Baguio Terraces,"San Juan, Metro Manila","Ermitaño, San Juan, Metro Manila",TRUE,
-Pioneer Woodlands,"Mandaluyong, Metro Manila","Barangka Ilaya, Mandaluyong, Metro Manila",TRUE,
-Kasara,"Pasig, Metro Manila","Ugong, Pasig, Metro Manila",TRUE,
-Vivaldi Residences - Cubao,"Quezon City, Metro Manila","Socorro, Quezon City, Metro Manila",TRUE,
-Siena Park Residences,"Parañaque, Metro Manila","Sun Valley, Parañaque, Metro Manila",TRUE,
-Milan Residenze,"Quezon City, Metro Manila","Bagbag, Quezon City, Metro Manila",TRUE,
-Maricielo Villas,"Las Piñas, Metro Manila","Pulang Lupa Uno, Las Piñas, Metro Manila",TRUE,
-Levina Place,"Pasig, Metro Manila","Rosario, Pasig, Metro Manila",TRUE,
-Arista Place,"Parañaque, Metro Manila","Santo Niño, Parañaque, Metro Manila",TRUE,
-Asteria Residences,"Parañaque, Metro Manila","San Isidro, Parañaque, Metro Manila",TRUE,
-Mirea Residences,"Pasig, Metro Manila","Santolan, Pasig, Metro Manila",TRUE,
-Zinnia Towers,"Quezon City, Metro Manila","Katipunan, Quezon City, Metro Manila",TRUE,
-Viera Residences,"Quezon City, Metro Manila","Obrero, Quezon City, Metro Manila",TRUE,
-Torre De Manila,"Manila, Metro Manila","Ermita, Manila, Metro Manila",TRUE,
-Tivoli Garden Residences,"Mandaluyong, Metro Manila","Hulo, Mandaluyong, Metro Manila",TRUE,
-The Amaryllis,"Quezon City, Metro Manila","Mariana, Quezon City, Metro Manila",TRUE,
-Stellar Place,"Quezon City, Metro Manila","Bahay Toro, Quezon City, Metro Manila",TRUE,
-Sorrel Residences,"Quezon City, Metro Manila","Manila, Metro Manila",FALSE,"Sampaloc, Manila, Metro Manila"
-Sheridan Towers,"Mandaluyong, Metro Manila","Buayang Bato, Mandaluyong, Metro Manila",TRUE,
-Viridian in Greenhills,"San Juan, Metro Manila","Greenhills, San Juan, Metro Manila",TRUE,
-Rhapsody Residences,"Muntinlupa, Metro Manila","Buli, Muntinlupa, Metro Manila",TRUE,
-One Castilla Place,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-Grand Riviera Suites,"Manila, Metro Manila","Ermita, Manila, Metro Manila",TRUE,
-Lumiere Residences,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-La Verti Residences,"Pasay, Metro Manila","Pasay, Metro Manila",TRUE,
-Illumina Residences Manila,"Manila, Metro Manila","Santa Mesa, Manila, Metro Manila",TRUE,
-Flair Towers,"Mandaluyong, Metro Manila","Highway Hills, Mandaluyong, Metro Manila",TRUE,
-Brio Tower,"Makati, Metro Manila","Guadalupe Viejo, Makati, Metro Manila",TRUE,
-Verawood Residences,"Taguig, Metro Manila","Bambang, Taguig, Metro Manila",TRUE,
-Ivory Wood,"Taguig, Metro Manila","Bambang, Taguig, Metro Manila",TRUE,
-Royal Palm Residences,"Taguig, Metro Manila","Ususan, Taguig, Metro Manila",TRUE,
-W.H. Taft Residences,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-The Birchwood,"Taguig, Metro Manila","Ususan, Taguig, Metro Manila",TRUE,
-Anuva,"Muntinlupa, Metro Manila","Sucat, Muntinlupa, Metro Manila",TRUE,
-The Manila Residences Bocobo,"Manila, Metro Manila","Ermita, Manila, Metro Manila",TRUE,
-The Manila Residences Tower II,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-The Manila Residences Tower I,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-Mandaluyong Executive Mansion III,"Mandaluyong, Metro Manila","Namayan, Mandaluyong, Metro Manila",TRUE,
-Grand Central Residences Tower I,"Mandaluyong, Metro Manila","Highway Hills, Mandaluyong, Metro Manila",TRUE,
-Pines Peak Tower I,"Mandaluyong, Metro Manila","Highway Hills, Mandaluyong, Metro Manila",TRUE,
-North Residences,"Quezon City, Metro Manila","Veterans Village, Quezon City, Metro Manila",TRUE,
-Windsor Mansion,"Pasig, Metro Manila","Santolan, Pasig, Metro Manila",TRUE,
-Brentwood Mansion,"Pasig, Metro Manila","Santolan, Pasig, Metro Manila",TRUE,
-Grand Emerald Tower,"Pasig, Metro Manila","San Antonio, Pasig, Metro Manila",TRUE,
-Makati Executive Tower IV,"Makati, Metro Manila","Pio Del Pilar, Makati, Metro Manila",TRUE,
-Makati Executive Tower III,"Makati, Metro Manila","Pio Del Pilar, Makati, Metro Manila",TRUE,
-Orchard Towers,"Pasig, Metro Manila","Bagong Ilog, Pasig, Metro Manila",TRUE,
-Neopolitan Condominiums,"Quezon City, Metro Manila","Fairview, Quezon City, Metro Manila",TRUE,
-Garden Towers,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-East Gallery Place,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-East Bel-Air Residences,"Manila, Metro Manila","Tondo, Manila, Metro Manila",TRUE,
-Grand Residences España 2,"Manila, Metro Manila","Manila, Metro Manila",TRUE,
-Sky Villas,"Quezon City, Metro Manila","Kaunlaran, Quezon City, Metro Manila",TRUE,
-Park Terraces,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-Al Khor Town Homes,"San Juan, Metro Manila","Batis, San Juan, Metro Manila",TRUE,
-Avida Towers BGC 9TH Avenue,"Taguig, Metro Manila","Metro Manila, Taguig",FALSE,"Taguig, Metro Manila"
-Lancris Residences,"Parañaque, Metro Manila","Don Bosco, Parañaque, Metro Manila",TRUE,
-Avida Towers Altura,"Muntinlupa, Metro Manila","Metro Manila, Muntinlupa, Alabang",FALSE,"Muntinlupa, Metro Manila"
-Avida Towers Alabang,"Muntinlupa, Metro Manila","Metro Manila, Muntinlupa, Alabang",FALSE,"Muntinlupa, Metro Manila"
-Avida Towers 34th Street,"Taguig, Metro Manila","Metro Manila, Taguig",FALSE,"Taguig, Metro Manila"
-Avida Cityflex Towers BGC,"Taguig, Metro Manila","Metro Manila, Taguig, BGC",FALSE,"Taguig, Metro Manila"
-101 Newport BLVD,"Manila, Metro Manila","Barangay 183, Pasay, Metro Manila",FALSE,"Pasay, Metro Manila"
-Noble Place,"Manila, Metro Manila","Binondo, Manila, Metro Manila",TRUE,
-150 Newport BLVD,"Pasay, Metro Manila","Barangay 183, Pasay, Metro Manila",TRUE,
-81 Newport BLVD,"Pasay, Metro Manila","Barangay 183, Pasay, Metro Manila",TRUE,
-The Palm Tree 2,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Pasay, Metro Manila"
-Greenbelt Hamilton Tower 2,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-The Palm Tree,"Pasay, Metro Manila","Barangay 183, Pasay, Metro Manila",TRUE,
-Paseo Heights,"Makati, Metro Manila","Urdaneta, Makati, Metro Manila",TRUE,
-Salcedo Skysuites,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-Three Central,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-Viceroy,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-The Florence,"Taguig, Metro Manila","McKinley Hill, Taguig, Metro Manila",TRUE,
-Uptown Parksuites,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Avida Towers One Union Place,"Taguig, Metro Manila","Metro Manila, Taguig, Western Bicutan",FALSE,"Taguig, Metro Manila"
-The Venice,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-GOLFHILL GARDENS,"Quezon City, Metro Manila","Ramon Magsaysay, Quezon City, Metro Manila",TRUE,
-Avida Towers Astrea,"Quezon City, Metro Manila","Metro Manila, Quezon City, Fairview",FALSE,"Novaliches, Quezon City, Metro Manila"
-Bay Garden,"Pasay, Metro Manila","Barangay 76, Pasay, Metro Manila",TRUE,
-Escalades East Tower,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-The Parkside Villas,"Pasay, Metro Manila","Barangay 183, Pasay, Metro Manila",TRUE,
-Trees Residences,"Quezon City, Metro Manila","Kaligayahan, Quezon City, Metro Manila",TRUE,
-Sun Residences,"Quezon City, Metro Manila","Salvacion, Quezon City, Metro Manila",TRUE,
-Shore Residences,"Pasay, Metro Manila","Barangay 76, Pasay, Metro Manila",TRUE,
-Shine Residences,"Pasig, Metro Manila","Ugong, Pasig, Metro Manila",TRUE,
-Shell Residences,"Pasay, Metro Manila","Barangay 76, Pasay, Metro Manila",TRUE,
-Mezza 2 Residences,"Quezon City, Metro Manila","Doña Imelda, Quezon City, Metro Manila",TRUE,
-M Place Residences,"Quezon City, Metro Manila","South Triangle, Quezon City, Metro Manila",TRUE,
-Princeton Residences,"Quezon City, Metro Manila","Mariana, Quezon City, Metro Manila",TRUE,
-Sea Residences SMDC,"Pasay, Metro Manila","Barangay 76, Pasay, Metro Manila",TRUE,
-Mezza Residences,"Quezon City, Metro Manila","Kaunlaran, Quezon City, Metro Manila",TRUE,
-Light Residences,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-Grace Residences,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-Chateau Residences,"Parañaque, Metro Manila","Don Bosco, Parañaque, Metro Manila",TRUE,
-Breeze Residences,"Pasay, Metro Manila","Barangay 76, Pasay, Metro Manila",TRUE,
-Times Square West,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Madison Park,"Taguig, Metro Manila","Bagong Tanyag, Taguig, Metro Manila",TRUE,
-One Wilson Square,"San Juan, Metro Manila","Greenhills, San Juan, Metro Manila",TRUE,
-Central Park West,"Pateros, Metro Manila","BGC, Taguig, Metro Manila",FALSE,"BGC, Taguig, Metro Manila"
-Six Senses,"Pasay, Metro Manila","Malate, Manila, Metro Manila",FALSE,"Bay Area, Pasay, Metro Manila"
-Grand Hyatt Manila Residences,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-The Grand Midori Ortigas,"Pasig, Metro Manila","San Antonio, Pasig, Metro Manila",TRUE,
-Four Season Riviera,"Manila, Metro Manila","Binondo, Manila, Metro Manila",TRUE,
-Senta,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-The Capital,"Quezon City, Metro Manila","E. Rodriguez, Quezon City, Metro Manila",TRUE,
-Paseo De Roces,"Makati, Metro Manila","Pio Del Pilar, Makati, Metro Manila",TRUE,
-Celadon Park,"Manila, Metro Manila","Santa Cruz, Manila, Metro Manila",TRUE,
-Oriental Garden,"Makati, Metro Manila","Pio Del Pilar, Makati, Metro Manila",TRUE,
-The Proscenium at Rockwell,"Makati, Metro Manila","Poblacion, Makati, Metro Manila",TRUE,
-Jazz Residences,"Makati, Metro Manila","Bel-Air, Makati, Metro Manila",TRUE,
-Green Residences,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-Blue Residences,"Quezon City, Metro Manila","Apad, Quezon, Quezon",FALSE,"Quezon City, Metro Manila"
-Field Residences,"Parañaque, Metro Manila","San Dionisio, Parañaque, Metro Manila",TRUE,
-The Sandstone at Portico,"Pasig, Metro Manila","Oranbo, Pasig, Metro Manila",TRUE,
-Fame Residences,"Mandaluyong, Metro Manila","Highway Hills, Mandaluyong, Metro Manila",TRUE,
-Air Residences,"Makati, Metro Manila","San Antonio, Makati, Metro Manila",TRUE,
-Escalades at 20th Avenue,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-Gateway Garden Ridge,"Mandaluyong, Metro Manila","Plainview, Mandaluyong, Metro Manila",TRUE,
-The Pearl Place,"Pasig, Metro Manila","Metro Manila, Pasig",FALSE,"Pasig, Metro Manila"
-City Place,"Manila, Metro Manila","San Nicolas, Manila, Metro Manila",TRUE,
-Sarasota,"Pasay, Metro Manila","Barangay 183, Pasay, Metro Manila",TRUE,
-One Central,"Makati, Metro Manila","Urdaneta, Makati, Metro Manila",TRUE,
-8 Forbestown Centre,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Vista 309 Katipunan,"Quezon City, Metro Manila","Loyola Heights, Quezon City, Metro Manila",TRUE,
-Vista Taft,"Manila, Metro Manila","Malate, Manila, Metro Manila",TRUE,
-Camella Glenmont,"Quezon City, Metro Manila","Metro Manila, Quezon City, Sauyo",FALSE,"Novaliches, Quezon City, Metro Manila"
-Morgan Suites,"Taguig, Metro Manila","Pinagsama, Taguig, Metro Manila",TRUE,
-115 Upper Mckinley,"Taguig, Metro Manila","Forbes Park North, Makati, Metro Manila",FALSE,"Taguig, Metro Manila"
-One Central Park,"Taguig, Metro Manila","Bagumbayan, Quezon City, Metro Manila",FALSE,"Eastwood City, Quezon City, Metro Manila"
-Salcedo Square,"Makati, Metro Manila","San Lorenzo, Makati, Metro Manila",TRUE,
-Vista Shaw,"Mandaluyong, Metro Manila","Addition Hills, Mandaluyong, Metro Manila",TRUE,
-Mosaic,"Makati, Metro Manila","Valenzuela, Makati, Metro Manila",TRUE,
-The Symphony Towers,"Quezon City, Metro Manila","Binagbag, Agdangan, Quezon",FALSE,"Quezon City, Metro Manila"
-The Currency,"Pasig, Metro Manila","San Antonio, Pasig, Metro Manila",TRUE,
-Laureano Di Trevi,"Makati, Metro Manila","Pio Del Pilar, Makati, Metro Manila",TRUE,
-Crown Tower,"Manila, Metro Manila","Manila, Metro Manila",TRUE,
-KL Tower,"Makati, Metro Manila","Valenzuela, Makati, Metro Manila",TRUE,
-Avant at The Fort,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Sorrento Oasis,"Pasig, Metro Manila","Rosario, Pasig, Metro Manila",TRUE,
-Maui Oasis,"Pasig, Metro Manila","Maybunga, Pasig, Metro Manila",TRUE,
-Capri Oasis,"Pasig, Metro Manila","Maybunga, Pasig, Metro Manila",TRUE,
-Bali Oasis Phase 2,"Pasig, Metro Manila","Santolan, Pasig, Metro Manila",TRUE,
-Asiana Oasis,"Parañaque, Metro Manila","Moonwalk, Parañaque, Metro Manila",TRUE,
-The Signature,"Quezon City, Metro Manila","Pag-Ibig Sa Nayon, Quezon City, Metro Manila",TRUE,
-100 West Makati,"Makati, Metro Manila","Pio Del Pilar, Makati, Metro Manila",TRUE,
-Studio A,"Quezon City, Metro Manila","Loyola Heights, Quezon City, Metro Manila",TRUE,
-Studio Zen,"Pasay, Metro Manila","Barangay 33, Pasay, Metro Manila",TRUE,
-Solemare Parksuites Phase One,"Parañaque, Metro Manila","Metro Manila, Parañaque",FALSE,"Parañaque, Metro Manila"
-Mayfair Tower,"Manila, Metro Manila","Ermita, Manila, Metro Manila",TRUE,
-Dream Tower,"Quezon City, Metro Manila","Bagumbayan, Quezon City, Metro Manila",TRUE,
-Oxford Parksuites,"Manila, Metro Manila","Metro Manila, Manila, Tondo",FALSE,"Tondo, Manila, Metro Manila"
-Princeview Parksuites,"Manila, Metro Manila","Metro Manila, Manila, Binondo",FALSE,"Binondo, Manila, Metro Manila"
-Aspire Tower,"Quezon City, Metro Manila","Pasong Tamo, Quezon City, Metro Manila",TRUE,
-Monarch Parksuites,"Parañaque, Metro Manila","Metro Manila, Parañaque, Baclaran",FALSE,"Parañaque, Metro Manila"
-The Infinity Tower,"Taguig, Metro Manila","Pinagsama, Taguig, Metro Manila",TRUE,
-Clairemont Hills,"San Juan, Metro Manila","Corazon de Jesus, San Juan, Metro Manila",TRUE,
-Solemare Parksuites Phase 2,"Parañaque, Metro Manila","Don Bosco, Parañaque, Metro Manila",TRUE,
-Fifth Avenue Place,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-McKinley Park Residences,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Robinsons Place Residence,"Manila, Metro Manila","Quiapo, Manila, Metro Manila",TRUE,
-The Fort Residences,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-Three Adriatico Place,"Manila, Metro Manila","Ermita, Manila, Metro Manila",TRUE,
-Vimana Verde Residences,"Pasig, Metro Manila","Oranbo, Pasig, Metro Manila",TRUE,
-Two Adriatico Place,"Manila, Metro Manila","Quiapo, Manila, Metro Manila",TRUE,
-One Gateway Place,"Mandaluyong, Metro Manila","Barangka Ilaya, Mandaluyong, Metro Manila",TRUE,
-East Of Galeria,"Pasig, Metro Manila","San Antonio, Pasig, Metro Manila",TRUE,
-One Adriatico Place,"Manila, Metro Manila","Quiapo, Manila, Metro Manila",TRUE,
-Gateway Regency Studios,"Mandaluyong, Metro Manila","Barangka Ilaya, Mandaluyong, Metro Manila",TRUE,
-The Trion Towers III,"Taguig, Metro Manila","BGC, Taguig, Metro Manila",TRUE,
-The Radiance Manila Bay,"Pasay, Metro Manila","Barangay 3, Pasay, Metro Manila",TRUE,
-The Magnolia Residences,"Quezon City, Metro Manila","Kaunlaran, Quezon City, Metro Manila",TRUE,
-The Sapphire Bloc  – South Tower,"Pasig, Metro Manila","San Antonio, Pasig, Metro Manila",TRUE,
-Gateway Garden Heights,"Mandaluyong, Metro Manila","Barangka Ilaya, Mandaluyong, Metro Manila",TRUE,
+﻿project_name,location
+100 West,"Pio Del Pilar, Makati, Metro Manila"
+100 West Makati,"Pio Del Pilar, Makati, Metro Manila"
+1001 Parkway Residences,"Muntinlupa, Metro Manila"
+101 Newport BLVD,"Pasay, Metro Manila"
+101 Xavierville,"Loyola Heights, Quezon City, Metro Manila"
+110 Benavidez,"San Lorenzo, Makati, Metro Manila"
+115 Upper Mckinley,"Taguig, Metro Manila"
+12 Luxury Flats,"Little Baguio, San Juan, Metro Manila"
+1322 Golden Empire Tower,"Ermita, Manila, Metro Manila"
+150 Newport BLVD,"Barangay 183, Pasay, Metro Manila"
+205 Santolan by Rockwell,"Valencia, Quezon City, Metro Manila"
+2Torre Lorenzo,"Malate, Manila, Metro Manila"
+329 Armstrong,"Parañaque, Metro Manila"
+3Torre Lorenzo,"Malate, Manila, Metro Manila"
+53 Benitez,"Cubao, Quezon City, Metro Manila"
+55 Kalayaan Suites,"Quezon Avenue, Quezon City, Metro Manila"
+8 ADRIATICO,"Malate, Manila, Metro Manila"
+8 Benitez Suites,"Horseshoe, Quezon City, Metro Manila"
+8 Forbestown Centre,"BGC, Taguig, Metro Manila"
+8 Forbestown Road,"Fort Bonifacio, Taguig, Metro Manila"
+8 Wack Wack Road,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+81 Newport BLVD,"Barangay 183, Pasay, Metro Manila"
+81 Newport Boulevard,"Newport City, Pasay, Metro Manila"
+81 Xavier Residences,"Greenhills, San Juan, Metro Manila"
+878 España,"Sampaloc, Manila, Metro Manila"
+ADB Avenue Tower,"Bagong Ilog, Pasig, Metro Manila"
+ADRIATICO RESIDENCES,"Quiapo, Manila, Metro Manila"
+ALPHA SALCEDO,"Bel-Air, Makati, Metro Manila"
+AMA TOWER RESIDENCES,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+AMAIA SKIES AVENIDA,"Quiapo, Manila, Metro Manila"
+AMAIA STEPS SUCAT,"Parañaque, Metro Manila"
+ANUVA CONDO,"Alabang, Muntinlupa, Metro Manila"
+ASIA Enclaves Alabang,"Alabang, Muntinlupa, Metro Manila"
+AURORA GARDENS,"Addition Hills, Mandaluyong, Metro Manila"
+Acacia Escalades,"Manggahan, Pasig, Metro Manila"
+Acacia Escalades – Building B,"Manggahan, Pasig, Metro Manila"
+Acqua Living Stone,"Hulo, Mandaluyong, Metro Manila"
+Acqua Private Residences,"Hulo, Mandaluyong, Metro Manila"
+Activa Flex,"E. Rodriguez, Quezon City, Metro Manila"
+Admiral Baysuites,"Malate, Manila, Metro Manila"
+Adriatico Gardens,"Malate, Manila, Metro Manila"
+Adriatico Place,"Malate, Manila, Metro Manila"
+Aguada Residences,"Amparo, Caloocan, Metro Manila"
+Aic Gold Tower,"Bagong Ilog, Pasig, Metro Manila"
+Air Residences,"San Antonio, Makati, Metro Manila"
+Al Khor Town Homes,"Batis, San Juan, Metro Manila"
+Alabang West Village,"Almanza Dos, Las Piñas, Metro Manila"
+Alder Residences,"San Miguel, Taguig, Metro Manila"
+Alea Residences,"Las Piñas, Metro Manila"
+Alexandra,"Bagong Ilog, Pasig, Metro Manila"
+Alfaro Place,"Bel-Air, Makati, Metro Manila"
+Allegra Garden Place,"Bagong Ilog, Pasig, Metro Manila"
+Almanza Metropolis,"Almanza Dos, Las Piñas, Metro Manila"
+Almanza Metropolis Condominium,"Almanza Uno, Las Piñas, Metro Manila"
+Alpha Grandview,"Malate, Manila, Metro Manila"
+Alphaland Makati Place,"Bangkal, Makati, Metro Manila"
+Alta Spatial,"Karuhatan, Valenzuela, Metro Manila"
+Amaia Skies Avenida - North Tower,"Quiapo, Manila, Metro Manila"
+Amaia Skies Cubao,"Pasong Tamo, Quezon City, Metro Manila"
+Amaia Skies Shaw,"Highway Hills, Mandaluyong, Metro Manila"
+Amaia Skies Shaw - North Tower,"Plainview, Mandaluyong, Metro Manila"
+Amaia Skies Sta. Mesa,"Santa Mesa, Manila, Metro Manila"
+Amaia Skies Sta. Mesa - South Tower,"Quiapo, Manila, Metro Manila"
+Amaia Steps Alabang,"Almanza Dos, Las Piñas, Metro Manila"
+Amaia Steps Bicutan,"Sun Valley, Parañaque, Metro Manila"
+Amaia Steps Bicutan 1,"Sun Valley, Parañaque, Metro Manila"
+Amaia Steps Nova,"Pasong Tamo, Quezon City, Metro Manila"
+Amaia Steps Novaliches,"Ramon Magsaysay, Quezon City, Metro Manila"
+Amorsolo East,"Makati, Metro Manila"
+Amorsolo Square,"Rockwell, Makati, Metro Manila"
+Amorsolo Square at Rockwell,"Rockwell, Makati, Metro Manila"
+Amorsolo West,"Makati, Metro Manila"
+Amvel Mansions,"Tugatog, Malabon, Metro Manila"
+Ananda Square,"Zapote, Las Piñas, Metro Manila"
+Andrea North Towers,"Cubao, Quezon City, Metro Manila"
+Anissa Heights,"Pasay, Metro Manila"
+Antel Platinum Tower,"Bel-Air, Makati, Metro Manila"
+Antel Seaview,"Pasay, Metro Manila"
+Antel Seaview Towers,"Pasay, Metro Manila"
+Antel Spa Residences,"Bangkal, Makati, Metro Manila"
+Antel Spa Suites,"Poblacion, Makati, Metro Manila"
+Anuva,"Sucat, Muntinlupa, Metro Manila"
+Anuva Residences,"Muntinlupa, Metro Manila"
+Aqua Iguazu,"Addition Hills, Mandaluyong, Metro Manila"
+Arbor Lanes,"Western Bicutan, Taguig, Metro Manila"
+Arca South,"Taguig, Metro Manila"
+Arezzo Place,"Bagong Ilog, Pasig, Metro Manila"
+Arezzo Place Pasig,"San Joaquin, Pasig, Metro Manila"
+Arista Place,"Santo Niño, Parañaque, Metro Manila"
+Arya Residences,"Fort Bonifacio, Taguig, Metro Manila"
+Arya Residences Tower 1,"BGC, Taguig, Metro Manila"
+Arya Residences Tower 2,"BGC, Taguig, Metro Manila"
+Asia Crest Mansion,"Pasadeña, San Juan, Metro Manila"
+Asia Enclaves,"Alabang, Muntinlupa, Metro Manila"
+Asiana Oasis,"Moonwalk, Parañaque, Metro Manila"
+"Asiana Oasis, Parañaque City","Parañaque, Metro Manila"
+Aspen Towers,"Muntinlupa, Metro Manila"
+Aspire Tower,"Pasong Tamo, Quezon City, Metro Manila"
+Astela,"Makati, Metro Manila"
+Astela at Circuit Makati,"Makati, Metro Manila"
+Asteria Residences,"San Isidro, Parañaque, Metro Manila"
+Aston at Two Serendra,"Bagong Tanyag, Taguig, Metro Manila"
+Aurelia Residences,"Fort Bonifacio, Taguig, Metro Manila"
+Aurora Escalades,"Cubao, Quezon City, Metro Manila"
+Aurora Escalades_,"San Roque, Quezon City, Metro Manila"
+Avalon Condominium,"Greenhills, San Juan, Metro Manila"
+Avant at The Fort,"BGC, Taguig, Metro Manila"
+Avida CityFlex Towers BGC,"Fort Bonifacio, Taguig, Metro Manila"
+Avida Cityflex Towers,"Fort Bonifacio, Taguig, Metro Manila"
+Avida Cityflex Towers BGC,"Taguig, Metro Manila"
+Avida Sola Tower 2,"Bagong Pag-Asa, Quezon City, Metro Manila"
+Avida Tower Alabang,"Alabang, Muntinlupa, Metro Manila"
+Avida Towers 34th Street,"Taguig, Metro Manila"
+Avida Towers Alabang,"Muntinlupa, Metro Manila"
+Avida Towers Altura,"Muntinlupa, Metro Manila"
+Avida Towers Ardane,"Alabang, Muntinlupa, Metro Manila"
+Avida Towers Asten,"San Antonio, Makati, Metro Manila"
+Avida Towers Astrea,"Novaliches, Quezon City, Metro Manila"
+Avida Towers BGC 9TH Avenue,"Taguig, Metro Manila"
+Avida Towers BGC 9th Avenue,"Taguig, Metro Manila"
+Avida Towers Centera,"Highway Hills, Mandaluyong, Metro Manila"
+Avida Towers Cloverleaf,"Balingasa, Quezon City, Metro Manila"
+Avida Towers Davao,"Metro Manila, Metro Manila"
+Avida Towers Intima,"Paco, Manila, Metro Manila"
+Avida Towers Makati West,"San Antonio, Makati, Metro Manila"
+Avida Towers One Union Place,"Taguig, Metro Manila"
+Avida Towers Prime Taft,"Barangay 36, Pasay, Metro Manila"
+Avida Towers San Lazaro,"Santa Cruz, Manila, Metro Manila"
+Avida Towers San Lorenzo,"Bangkal, Makati, Metro Manila"
+Avida Towers Sola,"North Avenue, Quezon City, Metro Manila"
+Avida Towers Sucat,"Parañaque, Metro Manila"
+Avida Towers Turf,"BGC, Taguig, Metro Manila"
+Avida Towers Turf BGC,"Fort Bonifacio, Taguig, Metro Manila"
+Avida Towers Verge,"Highway Hills, Mandaluyong, Metro Manila"
+Avida Towers Verte,"BGC, Taguig, Metro Manila"
+Avida Towers Vireo,"Taguig, Metro Manila"
+Avida Towers Vita,"Quezon City, Metro Manila"
+Avignon Tower,"Bel-Air, Makati, Metro Manila"
+Avila Tower at Circulo Verde,"Bagumbayan, Quezon City, Metro Manila"
+Avila at Circulo Verde,"Bagumbayan, Quezon City, Metro Manila"
+Axis Residences,"Highway Hills, Mandaluyong, Metro Manila"
+Ayala Southvale Sonera,"Almanza Dos, Las Piñas, Metro Manila"
+Azure Urban Resort Residences,"Marcelo Green Village, Parañaque, Metro Manila"
+Azure Urban Resort Residences Parañaque,"Marcelo Green Village, Parañaque, Metro Manila"
+"Azure Urban Resort Residences, Century Properties Management Inc","Marcelo Green Village, Parañaque, Metro Manila"
+BAYWATCH TOWER,"Malate, Manila, Metro Manila"
+BELTON PLACE,"Bangkal, Makati, Metro Manila"
+BF Homes Executive Village,"Parañaque, Metro Manila"
+BLUE SAPPHIRE RESIDENCES,"Pinagsama, Taguig, Metro Manila"
+BRESCIA RESIDENCES,"Pasong Tamo, Quezon City, Metro Manila"
+BSA Mansion,"Legazpi Village, Makati, Metro Manila"
+BSA Suites,"Legazpi Village, Makati, Metro Manila"
+BSA Tower,"Bangkal, Makati, Metro Manila"
+BSA Twin Tower,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+BSA Twin Towers,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+Bali Oasis Phase,"Bagong Ilog, Pasig, Metro Manila"
+Bali Oasis Phase 2,"Santolan, Pasig, Metro Manila"
+Baron 3 Gardens,"Addition Hills, San Juan, Metro Manila"
+Baron Tower,"San Juan, Metro Manila"
+Bay Area Suites Condominium,"Quiapo, Manila, Metro Manila"
+Bay Garden,"Barangay 76, Pasay, Metro Manila"
+Bay Garden Club and Residences,"Pasay, Metro Manila"
+Bayport West NAIA Garden Residences,"Tambo, Parañaque, Metro Manila"
+Bayshore Residential Resort,"Tambo, Parañaque, Metro Manila"
+Bayview International Tower,"Tambo, Parañaque, Metro Manila"
+Beaufort East Condo,"Bagong Tanyag, Taguig, Metro Manila"
+Belize Oasis,"Alabang, Muntinlupa, Metro Manila"
+Bellagio Towers,"BGC, Taguig, Metro Manila"
+Belmont Hotel Pasay,"Pasay, Metro Manila"
+Belton Place Condo,"Bangkal, Makati, Metro Manila"
+Berkeley Residences,"Loyola Heights, Quezon City, Metro Manila"
+Birch Tower,"Malate, Manila, Metro Manila"
+Bloom Residences,"San Antonio, Parañaque, Metro Manila"
+Blue Residences,"Quezon City, Metro Manila"
+Bonifacio Heights,"Bagong Tanyag, Taguig, Metro Manila"
+Bonifacio Ridge,"BGC, Taguig, Metro Manila"
+Botanika Nature Residences,"Alabang, Muntinlupa, Metro Manila"
+Bradbury Heights,"Santa Cruz, Quezon City, Metro Manila"
+Breeze Residences,"Barangay 76, Pasay, Metro Manila"
+Brentwood Mansion,"Santolan, Pasig, Metro Manila"
+Brio Tower,"Guadalupe Viejo, Makati, Metro Manila"
+Bristol at Parkway Place,"Muntinlupa, Metro Manila"
+Brixton Place,"Kapitolyo, Pasig, Metro Manila"
+Burgundy McKinley Place,"Don Galo, Parañaque, Metro Manila"
+CBY Tower,"Binondo, Manila, Metro Manila"
+CHERRY ORCHARD SUITES,"Ramon Magsaysay, Quezon City, Metro Manila"
+CIVIC PLACE,"Alabang, Muntinlupa, Metro Manila"
+CORINTHIAN EXECUTIVE REGENCY,"Bagong Ilog, Pasig, Metro Manila"
+COVENT GARDEN,"Santa Mesa, Manila, Metro Manila"
+Calathea Place,"San Antonio, Parañaque, Metro Manila"
+California Garden Square,"Addition Hills, Mandaluyong, Metro Manila"
+Calle Centrale,"Bagumbayan, Quezon City, Metro Manila"
+Callisto,"Makati, Metro Manila"
+Callisto 2,"Carmona, Makati, Metro Manila"
+Camella Glenmont,"Novaliches, Quezon City, Metro Manila"
+Cameron Residences,"Mariblo, Quezon City, Metro Manila"
+Capitol Park Homes,"Ramon Magsaysay, Quezon City, Metro Manila"
+Capri Oasis,"Maybunga, Pasig, Metro Manila"
+Casiana Residences,"Tambo, Parañaque, Metro Manila"
+Cedar Crest,"Taguig, Metro Manila"
+Celadon Park,"Santa Cruz, Manila, Metro Manila"
+Central Park West,"BGC, Taguig, Metro Manila"
+Centro Residences,"Kaunlaran, Quezon City, Metro Manila"
+Century Spire,"Makati, Metro Manila"
+Century Spire Makati,"Poblacion, Makati, Metro Manila"
+Cerritos East Residences,"Bagong Ilog, Pasig, Metro Manila"
+Charm Residences,"San Perfecto, San Juan, Metro Manila"
+Chateau Elysee,"Don Bosco, Parañaque, Metro Manila"
+Chateau Residences,"Don Bosco, Parañaque, Metro Manila"
+Chimes Greenhills,"Greenhills, San Juan, Metro Manila"
+Cintiley Residences,"Santa Cruz, Manila, Metro Manila"
+Circulo Verde,"Quezon City, Metro Manila"
+Circulo Verde Lleida,"Quezon City, Metro Manila"
+Cirrus,"Manggahan, Pasig, Metro Manila"
+Citadines Benavidez Makati,"Legazpi Village, Makati, Metro Manila"
+City Place,"San Nicolas, Manila, Metro Manila"
+Cityland Pasong Tamo Calle Estacion,"Makati, Metro Manila"
+Cityland Pasong Tamo Tower,"Pio Del Pilar, Makati, Metro Manila"
+Cityland Pioneer,"Addition Hills, Mandaluyong, Metro Manila"
+Cityland Rada Regency,"Bangkal, Makati, Metro Manila"
+Cityland Shaw Tower,"Addition Hills, Mandaluyong, Metro Manila"
+Clairemont Hills,"Corazon de Jesus, San Juan, Metro Manila"
+Classica Manor,"Addition Hills, San Juan, Metro Manila"
+Cleveland Tower,"Don Galo, Parañaque, Metro Manila"
+Coast Residences,"Barangay 76, Pasay, Metro Manila"
+Coastal Luxury Residences,"Tambo, Parañaque, Metro Manila"
+Copeton Baysuites,"Tambo, Parañaque, Metro Manila"
+Cortijos Condominium,"Greenhills, San Juan, Metro Manila"
+Crescent Park Residences,"Bagong Tanyag, Taguig, Metro Manila"
+Crown Tower,"Manila, Metro Manila"
+Crown Tower University Belt,"Sampaloc, Manila, Metro Manila"
+Cypress Towers,"Bagong Tanyag, Taguig, Metro Manila"
+D Ace Suites,"Bagong Ilog, Pasig, Metro Manila"
+D' University Place,"Malate, Manila, Metro Manila"
+Dansalan Garden,"Malamig, Mandaluyong, Metro Manila"
+Dansalan Gardens,"Addition Hills, Mandaluyong, Metro Manila"
+Discovery Primea,"Quiapo, Manila, Metro Manila"
+Dream Tower,"Bagumbayan, Quezon City, Metro Manila"
+Dream Tower at Nuvo District,"Bagumbayan, Quezon City, Metro Manila"
+Dynasty Tower,"Tondo, Manila, Metro Manila"
+EDADES TOWER AND GARDEN VILLAS,"Rockwell, Makati, Metro Manila"
+EIGHT FORBESTOWN ROAD,"Bagong Tanyag, Taguig, Metro Manila"
+EL JARDIN DEL PRESIDENTE 2,"South Triangle, Quezon City, Metro Manila"
+ETON EMERALD LOFTS,"San Antonio, Pasig, Metro Manila"
+East Bay Residences,"Muntinlupa, Metro Manila"
+East Bel-Air Residences,"Tondo, Manila, Metro Manila"
+East Gallery Place,"BGC, Taguig, Metro Manila"
+East Of Galeria,"San Antonio, Pasig, Metro Manila"
+East Ortigas Mansions,"Bagong Ilog, Pasig, Metro Manila"
+East Raya Garden,"Bagong Ilog, Pasig, Metro Manila"
+East of Galleria,"San Antonio, Pasig, Metro Manila"
+Easton Place,"Bel-Air, Makati, Metro Manila"
+Eastwood Excelsior,"Eastwood City, Quezon City, Metro Manila"
+Eastwood Global Plaza Luxury Residence,"Bagumbayan, Quezon City, Metro Manila"
+Eastwood Lafayette,"Eastwood City, Quezon City, Metro Manila"
+Eastwood LeGrand,"Bagumbayan, Quezon City, Metro Manila"
+Eastwood Park Residences,"Eastwood City, Quezon City, Metro Manila"
+Eastwood Parkview,"Eastwood City, Quezon City, Metro Manila"
+Echelon Tower,"Malate, Manila, Metro Manila"
+Edades Suites,"Makati, Metro Manila"
+Edades Tower,"Rockwell, Makati, Metro Manila"
+Eight Wack Wack,"Plainview, Mandaluyong, Metro Manila"
+El Jardin del Presidente,"South Triangle, Quezon City, Metro Manila"
+Elements Eco-Efficient Residences,"Kapitolyo, Pasig, Metro Manila"
+Elevé Homes Camarin,"Camarin, Caloocan, Metro Manila"
+Elizabeth Place,"Bel-Air, Makati, Metro Manila"
+Eluria,"Legazpi Village, Makati, Metro Manila"
+Entrata Urban Complex,"Alabang, Muntinlupa, Metro Manila"
+Escala Salcedo,"Bel-Air, Makati, Metro Manila"
+Escalades @20th Avenue,"San Roque, Quezon City, Metro Manila"
+Escalades East Tower,"Pasong Tamo, Quezon City, Metro Manila"
+Escalades South Metro,"Salapan, San Juan, Metro Manila"
+Escalades at 20th Avenue,"Pasong Tamo, Quezon City, Metro Manila"
+España Tower,"Sampaloc, Manila, Metro Manila"
+Essensa East Forbes,"Fort Bonifacio, Taguig, Metro Manila"
+Essensa Towers,"BGC, Taguig, Metro Manila"
+Eton Baypark Manila,"Tondo, Manila, Metro Manila"
+Eton Parkview Greenbelt,"Bangkal, Makati, Metro Manila"
+Eton Residences Greenbelt,"San Lorenzo, Makati, Metro Manila"
+Eton Tower Makati,"Legazpi Village, Makati, Metro Manila"
+F1 City Center,"Fort Bonifacio, Taguig, Metro Manila"
+Fairlane Residences,"Kapitolyo, Pasig, Metro Manila"
+Fairway Tarraces,"Villamor Airbase, Pasay, Metro Manila"
+Fairway Terraces,"Barangay 97, Pasay, Metro Manila"
+Fairways Tower,"BGC, Taguig, Metro Manila"
+Fame Residences,"Highway Hills, Mandaluyong, Metro Manila"
+Fern at Grass Residences,"Quezon City, Metro Manila"
+Field Residences,"San Dionisio, Parañaque, Metro Manila"
+Fifth Avenue Place,"BGC, Taguig, Metro Manila"
+Flair Towers,"Highway Hills, Mandaluyong, Metro Manila"
+Flora Vista,"Commonwealth, Quezon City, Metro Manila"
+Forbes Tower Condominium,"Bel-Air, Makati, Metro Manila"
+Forbestown Place at The Fort BGC,"Fort Bonifacio, Taguig, Metro Manila"
+Forbeswood Heights,"Bagong Tanyag, Taguig, Metro Manila"
+Forbeswood Parklane,"Fort Bonifacio, Taguig, Metro Manila"
+Fort Palm Spring,"Bagong Tanyag, Taguig, Metro Manila"
+Fort Victoria,"BGC, Taguig, Metro Manila"
+Fortis Residences,"Bangkal, Makati, Metro Manila"
+Fortune Hill,"Addition Hills, San Juan, Metro Manila"
+Fountain Breeze,"Tondo, Manila, Metro Manila"
+Four Season Riviera,"Binondo, Manila, Metro Manila"
+Four Seasons Riviera,"Binondo, Manila, Metro Manila"
+Francesca Tower 2,"Ramon Magsaysay, Quezon City, Metro Manila"
+Fraser Place Manila,"Bangkal, Makati, Metro Manila"
+Futura Centro,"Santa Mesa, Manila, Metro Manila"
+Future Point Plaza,"Diliman, Quezon City, Metro Manila"
+GA Tower,"Malamig, Mandaluyong, Metro Manila"
+GA Tower Two,"Addition Hills, Mandaluyong, Metro Manila"
+GATEWAY GARDEN HEIGHTS (GGH),"Quiapo, Manila, Metro Manila"
+GOLFHILL GARDENS,"Ramon Magsaysay, Quezon City, Metro Manila"
+GRAND HYATT RESIDENCES,"BGC, Taguig, Metro Manila"
+Galeria de Magallanes,"Makati, Metro Manila"
+Galleria Regency,"San Antonio, Pasig, Metro Manila"
+Garden Court,"Western Bicutan, Taguig, Metro Manila"
+Garden Towers,"San Lorenzo, Makati, Metro Manila"
+Gardencourt Residences,"Taguig, Metro Manila"
+Gardencourt Residences at Arca South,"Taguig, Metro Manila"
+Gateway Garden Heights,"Barangka Ilaya, Mandaluyong, Metro Manila"
+Gateway Garden Ridge,"Plainview, Mandaluyong, Metro Manila"
+Gateway Regency,"Barangka Ilaya, Mandaluyong, Metro Manila"
+Gateway Regency Studios,"Barangka Ilaya, Mandaluyong, Metro Manila"
+Gem Residences,"Ugong, Pasig, Metro Manila"
+Gentry Manor,"Tambo, Parañaque, Metro Manila"
+Gilmore Tower,"New Manila, Quezon City, Metro Manila"
+Glam Residences,"South Triangle, Quezon City, Metro Manila"
+Gold Residences,"Santo Niño, Parañaque, Metro Manila"
+Goldland Millenia Suites,"Greenhills, San Juan, Metro Manila"
+Goldland Plaza,"Greenhills, San Juan, Metro Manila"
+Goldland Tower,"Greenhills, San Juan, Metro Manila"
+Golf Hill Terraces,"Matandang Balara, Quezon City, Metro Manila"
+Governor's Place,"Shaw Boulevard, Mandaluyong, Metro Manila"
+Grace Residences,"Bagong Tanyag, Taguig, Metro Manila"
+Grand Central Park,"Fort Bonifacio, Taguig, Metro Manila"
+Grand Central Residences Tower I,"Highway Hills, Mandaluyong, Metro Manila"
+Grand Emerald Tower,"San Antonio, Pasig, Metro Manila"
+Grand Hamptons,"Taguig, Metro Manila"
+Grand Hyatt Manila Residences,"BGC, Taguig, Metro Manila"
+Grand Mesa Residences,"Fairview, Quezon City, Metro Manila"
+Grand Residences España 2,"Manila, Metro Manila"
+Grand Riviera Suites,"Ermita, Manila, Metro Manila"
+Grand Soho Makati,"Bel-Air, Makati, Metro Manila"
+Grand Tower,"Malate, Manila, Metro Manila"
+Grass Residences,"Alicia, Quezon City, Metro Manila"
+Green Residences,"Malate, Manila, Metro Manila"
+Greenbelt Chancellor,"San Lorenzo, Makati, Metro Manila"
+Greenbelt Excelsior,"Legazpi Village, Makati, Metro Manila"
+Greenbelt Hamilton,"Legazpi Village, Makati, Metro Manila"
+Greenbelt Hamilton 2,"San Lorenzo, Makati, Metro Manila"
+Greenbelt Hamilton Tower 2,"San Lorenzo, Makati, Metro Manila"
+Greenbelt Hamilton Two,"Bangkal, Makati, Metro Manila"
+Greenbelt Madison,"Legazpi Village, Makati, Metro Manila"
+Greenbelt Parkplace,"Urdaneta, Makati, Metro Manila"
+Greenbelt Radissons,"Legazpi Village, Makati, Metro Manila"
+Greenhills Court,"Greenhills, San Juan, Metro Manila"
+Greenhills Garden Square,"Bagong Lipunan Ng Crame, Quezon City, Metro Manila"
+Greenhills Heights,"Pedro Cruz, San Juan, Metro Manila"
+Hacienda Balai,"Barangay 177, Quezon City, Metro Manila"
+Hampton Gardens,"Bagong Ilog, Pasig, Metro Manila"
+Haraya Residences,"Project 4, Quezon City, Metro Manila"
+Harbour Park Residences,"Vergara, Mandaluyong, Metro Manila"
+Hawthorne Heights,"Loyola Heights, Quezon City, Metro Manila"
+Heart Tower,"Bel-Air, Makati, Metro Manila"
+Heritage Homes Marilao,"Bagong Silang, Caloocan, Metro Manila"
+Hidalgo Place,"Rockwell, Makati, Metro Manila"
+High Park Towers,"Diliman, Quezon City, Metro Manila"
+High Park at Vertis North,"Bagong Pag-Asa, Quezon City, Metro Manila"
+High Street South Block,"Pinagsama, Taguig, Metro Manila"
+Hill Residences,"Novaliches, Quezon City, Metro Manila"
+Hillsborough,"Alabang, Muntinlupa, Metro Manila"
+Horizon Homes,"Fort Bonifacio, Taguig, Metro Manila"
+Hotel 101 The Fort,"Pembo, Makati, Metro Manila"
+I-Land Residences,"B.F. Homes, Parañaque, Metro Manila"
+INFINA TOWERS,"Marilag, Quezon City, Metro Manila"
+Ibiza at Circulo Verde,"Quezon City, Metro Manila"
+Ice Tower,"Pasay, Metro Manila"
+Icon Plaza,"BGC, Taguig, Metro Manila"
+Icon Residences,"BGC, Taguig, Metro Manila"
+Illumina Residences,"Bagong Ilog, Pasig, Metro Manila"
+Illumina Residences Manila,"Santa Mesa, Manila, Metro Manila"
+Imperial Plaza,"Don Galo, Parañaque, Metro Manila"
+Isabelle de Valenzuela,"Isla, Valenzuela, Metro Manila"
+Ivory Wood,"Bambang, Taguig, Metro Manila"
+Jazz Residences,"Bel-Air, Makati, Metro Manila"
+Joya Lofts and Towers,"Rockwell, Makati, Metro Manila"
+Joya South Tower,"Bangkal, Makati, Metro Manila"
+Juez Residences,"Maysilo, Malabon, Metro Manila"
+KASARA Urban Resort Residences,"Ugong, Pasig, Metro Manila"
+KIRANA,"Bagong Ilog, Pasig, Metro Manila"
+KL MALVAR Residences,"Bagong Ilog, Pasig, Metro Manila"
+KL Mosaic,"Bangkal, Makati, Metro Manila"
+KL Tower,"Valenzuela, Makati, Metro Manila"
+Kai Garden Residences,"Malamig, Mandaluyong, Metro Manila"
+Kasara,"Ugong, Pasig, Metro Manila"
+Kasara Urban Resort,"Ugong, Pasig, Metro Manila"
+Kensington Place,"BGC, Taguig, Metro Manila"
+Kingswood,"La Paz, Makati, Metro Manila"
+Kingswood Square,"Bangkal, Makati, Metro Manila"
+Kizuna Heights,"Malate, Manila, Metro Manila"
+Knightsbridge Residences,"Makati, Metro Manila"
+Kosi Residences,"Sun Valley, Parañaque, Metro Manila"
+Kroma Tower,"San Lorenzo, Makati, Metro Manila"
+LAKEVIEW MANORS,"Ususan, Taguig, Metro Manila"
+LPL Center,"Salcedo Village, Makati, Metro Manila"
+LPL Greenhills,"Greenhills, San Juan, Metro Manila"
+LPL Manor,"Bel-Air, Makati, Metro Manila"
+La Nobleza Terrazas,"Malate, Manila, Metro Manila"
+La Verti Residences,"Pasay, Metro Manila"
+La Vie Flats,"Alabang, Muntinlupa, Metro Manila"
+LaVie Flat,"Alabang, Muntinlupa, Metro Manila"
+Lancaster Hotel Manila,"Shaw Boulevard, Mandaluyong, Metro Manila"
+Lancris Residences,"Don Bosco, Parañaque, Metro Manila"
+Larossa In Capitol Hills,"Matandang Balara, Quezon City, Metro Manila"
+Laureano Di Trevi,"Pio Del Pilar, Makati, Metro Manila"
+Laureano di Trevi Towers,"Bangkal, Makati, Metro Manila"
+Laurent Park,"G. Araneta Avenue, Quezon City, Metro Manila"
+Le Gran Condominium,"Greenhills, San Juan, Metro Manila"
+Leaf Residences,"Tunasan, Muntinlupa, Metro Manila"
+Lee Gardens,"Addition Hills, Mandaluyong, Metro Manila"
+Legaspi Towers 300,"Malate, Manila, Metro Manila"
+Levina Place,"Rosario, Pasig, Metro Manila"
+Light 2 Residences,"Barangka Ilaya, Mandaluyong, Metro Manila"
+Light Residences,"Addition Hills, Mandaluyong, Metro Manila"
+Lions Park Residences,"Sta Ana Dr, Parañaque, Metro Manila"
+Little Baguio Gardens,"Little Baguio, San Juan, Metro Manila"
+Little Baguio Terraces,"Ermitaño, San Juan, Metro Manila"
+Lleida Tower,"Bagumbayan, Quezon City, Metro Manila"
+Lleida Tower at Circulo Verde,"Bagumbayan, Quezon City, Metro Manila"
+Lumiere Residences,"Bagong Ilog, Pasig, Metro Manila"
+Luna Gardens,"Makati, Metro Manila"
+Lush Residences,"San Antonio, Makati, Metro Manila"
+Luxe Residences,"Bagong Tanyag, Taguig, Metro Manila"
+M PLACE,"Ramon Magsaysay, Quezon City, Metro Manila"
+M Place Residences,"South Triangle, Quezon City, Metro Manila"
+MAGNOLIA RESIDENCES,"Ramon Magsaysay, Quezon City, Metro Manila"
+MALATE BAYVIEW MANSION,"Tondo, Manila, Metro Manila"
+MANHATTAN GARDEN,"Ramon Magsaysay, Quezon City, Metro Manila"
+MANILA RESIDENCES,"Tondo, Manila, Metro Manila"
+MIRA,"Cubao, Quezon City, Metro Manila"
+MONTECITO RESIDENTIAL RESORT,"Pasay, Metro Manila"
+MPT Suites,"Makati, Metro Manila"
+MPlace South Triangle,"Pasong Tamo, Quezon City, Metro Manila"
+Madison Park,"Bagong Tanyag, Taguig, Metro Manila"
+Madison Park West,"Pinagsama, Taguig, Metro Manila"
+Magnolia Place,"Talipapa, Quezon City, Metro Manila"
+Mahogany Place - Taguig,"Taguig, Metro Manila"
+Majorca Tower,"Ramon Magsaysay, Quezon City, Metro Manila"
+Makati Cinema Square Tower,"Antonio Arnaiz Avenue, Makati, Metro Manila"
+Makati Executive Tower,"Makati, Metro Manila"
+Makati Executive Tower III,"Pio Del Pilar, Makati, Metro Manila"
+Makati Executive Tower IV,"Pio Del Pilar, Makati, Metro Manila"
+Makati Executive Towers,"Bangkal, Makati, Metro Manila"
+Makati Palace Hotel,"Makati, Metro Manila"
+Malate Crown Plaza,"Manila, Metro Manila"
+Manansala Rockwell,"Bangkal, Makati, Metro Manila"
+Manansala Tower,"Bangkal, Makati, Metro Manila"
+Mandaluyong Executive Mansion,"Vergara, Mandaluyong, Metro Manila"
+Mandaluyong Executive Mansion III,"Namayan, Mandaluyong, Metro Manila"
+Manggahan Village,"Bagong Ilog, Pasig, Metro Manila"
+Mango Tree Residences,"Pasadena, San Juan, Metro Manila"
+Manhattan Heights,"Cubao, Quezon City, Metro Manila"
+Manhattan Parkview,"Cubao, Quezon City, Metro Manila"
+Manhattan Parkway Residences,"Socorro, Quezon City, Metro Manila"
+Manhattan Plaza,"Cubao, Quezon City, Metro Manila"
+Manhattan Square,"Bangkal, Makati, Metro Manila"
+Manila Executive Regency,"Ermita, Manila, Metro Manila"
+Maple Place,"Bangkal, Makati, Metro Manila"
+Maple at Verdant Towers,"Ugong, Pasig, Metro Manila"
+Maricielo Villas,"Pulang Lupa Uno, Las Piñas, Metro Manila"
+Marquinton Residences,"Santo Niño, Marikina, Metro Manila"
+Maui Oasis,"Maybunga, Pasig, Metro Manila"
+Maven,"Oranbo, Pasig, Metro Manila"
+Mayfair Mansion,"Legazpi Village, Makati, Metro Manila"
+Mayfair Tower,"Ermita, Manila, Metro Manila"
+Mayfield Park Residences,"Rosario, Pasig, Metro Manila"
+McKinley Garden Villas,"Pinagsama, Taguig, Metro Manila"
+McKinley Park Residences,"BGC, Taguig, Metro Manila"
+Mckinley West Village,"Pinagsama, Taguig, Metro Manila"
+Melbourne Residences,"Urdaneta, Makati, Metro Manila"
+Mercedes Residences,"San Miguel, Pasig, Metro Manila"
+Mergent Residences,"Poblacion, Makati, Metro Manila"
+Mezza 2 Residences,"Doña Imelda, Quezon City, Metro Manila"
+Mezza II Residences,"Pasong Tamo, Quezon City, Metro Manila"
+Mezza Residences,"Kaunlaran, Quezon City, Metro Manila"
+Mi Casa,"Pasay, Metro Manila"
+MidPark Towers,"Baclaran, Parañaque, Metro Manila"
+Milan Residenze,"Bagbag, Quezon City, Metro Manila"
+Milan Residenze Fairview,"Fairview, Quezon City, Metro Manila"
+Mint Residences,"Urdaneta, Makati, Metro Manila"
+Mirea Residences,"Santolan, Pasig, Metro Manila"
+Molave Park Subdivision,"Parañaque, Metro Manila"
+Moldex Residences Valenzuela,"Paso de Blas, Valenzuela, Metro Manila"
+Monarch Parksuites,"Parañaque, Metro Manila"
+Mondrian Residences,"Alabang, Muntinlupa, Metro Manila"
+Monte Carlo Towers,"Longos, Malolos, Metro Manila"
+Morgan Suites,"Pinagsama, Taguig, Metro Manila"
+Morgan Suites Executive Residences,"McKinley Hill, Taguig, Metro Manila"
+Mosaic,"Valenzuela, Makati, Metro Manila"
+Mulberry Place,"Taguig, Metro Manila"
+Multinational Village,"Parañaque, Metro Manila"
+My Place at Ortigas,"Ugong, Pasig, Metro Manila"
+My Place at South Triangle,"South Triangle, Quezon City, Metro Manila"
+Neopolitan Condominium,"Ramon Magsaysay, Quezon City, Metro Manila"
+Neopolitan Condominiums,"Fairview, Quezon City, Metro Manila"
+Noble Place,"Binondo, Manila, Metro Manila"
+North Gate,"Muntinlupa, Metro Manila"
+North Residences,"Veterans Village, Quezon City, Metro Manila"
+Novotel Suites Manila,"Makati, Metro Manila"
+Number One West Tower,"Bangkal, Makati, Metro Manila"
+Nuveo at Cerca,"Almanza Uno, Las Piñas, Metro Manila"
+OLYMPIC HEIGHTS,"Ramon Magsaysay, Quezon City, Metro Manila"
+ONE BURGUNDY PLAZA,"Ramon Magsaysay, Quezon City, Metro Manila"
+ONE86 at Wilson,"Maytunas, San Juan, Metro Manila"
+Oak Harbor Residences,"Don Bosco, Parañaque, Metro Manila"
+Ocean Tower,"Malate, Manila, Metro Manila"
+Oceanaire Luxurious Residences,"Pasay, Metro Manila"
+Ohana Place,"Almanza Uno, Las Piñas, Metro Manila"
+Olympic Heights Tower,"Eastwood City, Quezon City, Metro Manila"
+Omni Gardens,"Quiapo, Manila, Metro Manila"
+One Adriatico Place,"Quiapo, Manila, Metro Manila"
+One Adriatico Residences,"Malate, Manila, Metro Manila"
+One Antonio,"San Antonio, Makati, Metro Manila"
+One Archer's Place,"Malate, Manila, Metro Manila"
+One Archers Place,"Malate, Manila, Metro Manila"
+One Beverly Place,"Greenhills, San Juan, Metro Manila"
+One Castilla Place,"Pasong Tamo, Quezon City, Metro Manila"
+One Central,"Urdaneta, Makati, Metro Manila"
+One Central Makati,"Bangkal, Makati, Metro Manila"
+One Central Park,"Eastwood City, Quezon City, Metro Manila"
+One Central Tower 1,"Urdaneta, Makati, Metro Manila"
+One Delta Terraces,"Diliman, Quezon City, Metro Manila"
+One Eastwood Avenue,"Eastwood City, Quezon City, Metro Manila"
+One Eastwood Avenue Tower 1,"Pasong Tamo, Quezon City, Metro Manila"
+One Eastwood Avenue Tower 2,"Pasong Tamo, Quezon City, Metro Manila"
+One Gateway Place,"Barangka Ilaya, Mandaluyong, Metro Manila"
+One Hidalgo,"Malate, Manila, Metro Manila"
+One Katipunan Residences,"Loyola Heights, Quezon City, Metro Manila"
+One Lafayette Square,"Bel-Air, Makati, Metro Manila"
+One Legazpi Park,"Legazpi Village, Makati, Metro Manila"
+One Maridien,"Fort Bonifacio, Taguig, Metro Manila"
+One Mckinley Place,"BGC, Taguig, Metro Manila"
+One Metropolitan Place,"Pasay, Metro Manila"
+One Nenita Place,"Ramon Magsaysay, Quezon City, Metro Manila"
+One Oasis Ortigas,"Santa Lucia, Pasig, Metro Manila"
+One Orchard Road,"Ramon Magsaysay, Quezon City, Metro Manila"
+One Palm Tree Villas,"Newport City, Pasay, Metro Manila"
+One Park Drive,"Taguig, Metro Manila"
+One Premier,"Almanza Uno, Las Piñas, Metro Manila"
+One Rockwell,"Rockwell, Makati, Metro Manila"
+One Rockwell East Tower,"Makati, Metro Manila"
+One Roxas Triangle,"Urdaneta, Makati, Metro Manila"
+One Roxas Triangle Tower,"Urdaneta, Makati, Metro Manila"
+One San Antonio Residences,"San Antonio, Makati, Metro Manila"
+One Serendra,"BGC, Taguig, Metro Manila"
+One Shangri-La Place,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+One Shangrila Place,"Ortigas Center, Mandaluyong, Metro Manila"
+One Shangrila Place Ortigas,"Ortigas Center, Mandaluyong, Metro Manila"
+One Sierra,"Highway Hills, Mandaluyong, Metro Manila"
+One Union Place,"Western Bicutan, Taguig, Metro Manila"
+One Uptown Residence,"Fort Bonifacio, Taguig, Metro Manila"
+One Uptown Residences,"Taguig, Metro Manila"
+One Wilson Square,"Greenhills, San Juan, Metro Manila"
+Orchard Towers,"Bagong Ilog, Pasig, Metro Manila"
+Orean Place,"Diliman, Quezon City, Metro Manila"
+Orean Place at Vertis North,"Bagong Pag-Asa, Quezon City, Metro Manila"
+Orient Mansions,"Bel-Air, Makati, Metro Manila"
+Oriental Garden,"Pio Del Pilar, Makati, Metro Manila"
+Oriental Garden Condominium,"Pio Del Pilar, Makati, Metro Manila"
+Oxford Parksuites,"Tondo, Manila, Metro Manila"
+PALMDALE HEIGHTS,"Bagong Ilog, Pasig, Metro Manila"
+PHINMA Metrotowne Las Piñas,"Talon Singko, Las Piñas, Metro Manila"
+PINE CREST,"Mariana, Quezon City, Metro Manila"
+PONTE SALCEDO,"Bel-Air, Makati, Metro Manila"
+PRESIDIO AT LAKEFRONT,"Sucat, Muntinlupa, Metro Manila"
+Pacific Coast Residences,"B.F. International Village, Las Piñas, Metro Manila"
+Pacific Plaza,"Urdaneta, Makati, Metro Manila"
+Pacific Plaza Condominium,"Urdaneta, Makati, Metro Manila"
+Pacific Plaza Tower,"BGC, Taguig, Metro Manila"
+Pacific Plaza Towers,"Fort Bonifacio, Taguig, Metro Manila"
+Pacific Regency Condominium,"Malate, Manila, Metro Manila"
+Pacific Skyloft,"Sampaloc, Manila, Metro Manila"
+Palawan Tower at Bay Gardens,"Pasay, Metro Manila"
+Palm Beach West,"Barangay 76, Pasay, Metro Manila"
+Palm Grove,"Don Bosco, Parañaque, Metro Manila"
+Palm Towers,"San Antonio, Makati, Metro Manila"
+Palmdale Hieghts,"Bagong Ilog, Pasig, Metro Manila"
+Palmetto Place,"Bangkal, Makati, Metro Manila"
+Panglao Oasis,"Pinagsama, Taguig, Metro Manila"
+Parc Regent,"Bangkal, Makati, Metro Manila"
+Park Avenue,"Fort Bonifacio, Taguig, Metro Manila"
+Park Cascades,"Taguig, Metro Manila"
+Park Cascades at Arca South,"Western Bicutan, Taguig, Metro Manila"
+Park Central Towers,"Urdaneta, Makati, Metro Manila"
+Park East Place,"Fort Bonifacio, Taguig, Metro Manila"
+Park McKinley West,"Taguig, Metro Manila"
+Park One,"Zapote, Las Piñas, Metro Manila"
+Park Terraces,"San Lorenzo, Makati, Metro Manila"
+Park Triangle Residences,"BGC, Taguig, Metro Manila"
+Park West,"Fort Bonifacio, Taguig, Metro Manila"
+Parkford Suites Legazpi,"San Lorenzo, Makati, Metro Manila"
+Parklinks North and South Towers,"Ugong Norte, Quezon City, Metro Manila"
+Parkway Corporate Center,"Alabang, Muntinlupa, Metro Manila"
+Parque España,"Muntinlupa, Metro Manila"
+Paseo De Roces,"Pio Del Pilar, Makati, Metro Manila"
+Paseo Heights,"Urdaneta, Makati, Metro Manila"
+Paseo Parkview Suites,"Bel-Air, Makati, Metro Manila"
+Paseo Verde,"Pulang Lupa Uno, Las Piñas, Metro Manila"
+Paseo Verde at Real,"Pulang Lupa Uno, Las Piñas, Metro Manila"
+Penhurst Park place,"Taguig, Metro Manila"
+Penhurst Parkplace,"Fort Bonifacio, Taguig, Metro Manila"
+Peninsula Garden Midtown Homes,"Paco, Manila, Metro Manila"
+Penthouse Unit in Acqua Livingstone,"Mandaluyong, Metro Manila"
+Phoenix Heights,"Bagong Ilog, Pasig, Metro Manila"
+Pine Crest Towers,"Pasong Tamo, Quezon City, Metro Manila"
+Pinecrest,"Ramon Magsaysay, Quezon City, Metro Manila"
+Pinecrest Residential Resort,"Pasay, Metro Manila"
+Pines Peak Tower I,"Highway Hills, Mandaluyong, Metro Manila"
+Pines Peak Towers,"Highway Hills, Mandaluyong, Metro Manila"
+Pioneer Heights I,"Buayang Bato, Mandaluyong, Metro Manila"
+Pioneer Highlands,"Barangka Ilaya, Mandaluyong, Metro Manila"
+Pioneer Pointe,"Highway Hills, Mandaluyong, Metro Manila"
+Pioneer Woodlands,"Barangka Ilaya, Mandaluyong, Metro Manila"
+Platinum 1000,"Greenhills, San Juan, Metro Manila"
+Plumeria Heights,"Malate, Manila, Metro Manila"
+Portico,"Oranbo, Pasig, Metro Manila"
+Portovita Condominium,"Socorro, Quezon City, Metro Manila"
+Presidio Lakefront,"Muntinlupa, Metro Manila"
+Primehomes Capitol Hills,"Matandang Balara, Quezon City, Metro Manila"
+Prince David Condominium,"Loyola Heights, Quezon City, Metro Manila"
+Princeton Residences,"Mariana, Quezon City, Metro Manila"
+Princeview Parksuites,"Binondo, Manila, Metro Manila"
+Prisma Residences,"Bagong Ilog, Pasig, Metro Manila"
+Proscenium at Rockwell,"Guadalupe Viejo, Makati, Metro Manila"
+Prosperity Heights,"Culiat, Quezon City, Metro Manila"
+Quantum Residences,"San Isidro, Pasay, Metro Manila"
+R Square Residences,"Makati, Metro Manila"
+RSG SS Residens,"San Andres, Manila, Metro Manila"
+Rada Regency,"Bangkal, Makati, Metro Manila"
+Raffles Residences,"Makati, Metro Manila"
+Rainbow Ridge,"Pinagsama, Taguig, Metro Manila"
+Raya Garden,"Merville, Parañaque, Metro Manila"
+Raya Garden Condominiums,"Merville, Parañaque, Metro Manila"
+Raya Gardens,"Merville, Parañaque, Metro Manila"
+Red Residences,"Pio Del Pilar, Makati, Metro Manila"
+Regent Parkway,"BGC, Taguig, Metro Manila"
+Renaissance Tower,"Ugong, Pasig, Metro Manila"
+Rhapsody Residences,"Buli, Muntinlupa, Metro Manila"
+Richbelt Tower,"Greenhills, San Juan, Metro Manila"
+Ridgewood Towers Taguig,"Pembo, Makati, Metro Manila"
+Ritz Towers,"Urdaneta, Makati, Metro Manila"
+Riverfront Residences,"Ugong, Pasig, Metro Manila"
+Robinsons Galleria,"Ugong Norte, Quezon City, Metro Manila"
+Robinsons Place Residence,"Quiapo, Manila, Metro Manila"
+Robinsons Place Residences,"Ermita, Manila, Metro Manila"
+Rock Fort Boutique Residences,"Pinagkaisahan, Makati, Metro Manila"
+Rosewood Pointe,"Ususan, Taguig, Metro Manila"
+Royal Palm Residences,"Ususan, Taguig, Metro Manila"
+Royal Palm Villa,"Tugatog, Malabon, Metro Manila"
+S Residences,"Barangay 76, Pasay, Metro Manila"
+SMDC Jade Residences,"Bangkal, Makati, Metro Manila"
+SMDC LIGHT RESIDENCE,"Plainview, Mandaluyong, Metro Manila"
+STRATA VIEWS,"Balong-Bato, San Juan, Metro Manila"
+SUNTRUST ADRIATICO GARDENS,"Malate, Manila, Metro Manila"
+SUNTRUST AMADEA,"Paligsahan, Quezon City, Metro Manila"
+SUNTRUST ASCENTIA,"Santa Ana, Manila, Metro Manila"
+SUNTRUST TREETOP VILLAS,"Hulo, Mandaluyong, Metro Manila"
+Sage Residences,"Mauway, Mandaluyong, Metro Manila"
+Sail Residences,"Barangay 76, Pasay, Metro Manila"
+Salcedo Park,"Bel-Air, Makati, Metro Manila"
+Salcedo Skysuites,"Bel-Air, Makati, Metro Manila"
+Salcedo Square,"San Lorenzo, Makati, Metro Manila"
+San Antonio Residence,"San Antonio, Makati, Metro Manila"
+San Benissa Garden,"Pasong Putik Proper, Quezon City, Metro Manila"
+San Lorenzo Place,"Bangkal, Makati, Metro Manila"
+San francisco Garden Condominium,"Barangka Itaas, Mandaluyong, Metro Manila"
+Sands Residences,"Malate, Manila, Metro Manila"
+Santorini at The Lakefront,"Sucat, Muntinlupa, Metro Manila"
+Sapphire Residences,"BGC, Taguig, Metro Manila"
+Sarasota,"Barangay 183, Pasay, Metro Manila"
+Sarasota Newport,"Newport City, Pasay, Metro Manila"
+Sarasota Residential Resort,"Pasay, Metro Manila"
+Satori Residences,"Santolan, Pasig, Metro Manila"
+Savoy Hotel Manila,"Newport City, Pasay, Metro Manila"
+Sea Residences,"Pasay, Metro Manila"
+Sea Residences SMDC,"Barangay 76, Pasay, Metro Manila"
+Sea Residences Tower A,"Barangay 97, Pasay, Metro Manila"
+Seibu Tower,"Bagong Tanyag, Taguig, Metro Manila"
+Senta,"San Lorenzo, Makati, Metro Manila"
+Sentrove at Cloverleaf,"Balingasa, Quezon City, Metro Manila"
+Sequoia at Two Serendra,"Fort Bonifacio, Taguig, Metro Manila"
+Serenity Suites,"Poblacion, Makati, Metro Manila"
+Seville Residences,"Bagumbayan, Quezon City, Metro Manila"
+Shang Residences Wack Wack,"Addition Hills, Mandaluyong, Metro Manila"
+Shang Residences at Wack Wack,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+Shang Salcedo Place,"Bel-Air, Makati, Metro Manila"
+Shang Summit,"Diliman, Quezon City, Metro Manila"
+Shangri-La Plaza,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+Shangri-La at The Fort,"Bagong Tanyag, Taguig, Metro Manila"
+Shaw Residenza,"Pleasant Hills, Mandaluyong, Metro Manila"
+Shell Residences,"Barangay 76, Pasay, Metro Manila"
+Sheridan Towers,"Buayang Bato, Mandaluyong, Metro Manila"
+Shine Residences,"Ugong, Pasig, Metro Manila"
+Shore 2 Residences,"Pasay, Metro Manila"
+Shore 3 Residences,"Barangay 76, Pasay, Metro Manila"
+Shore Residences,"Barangay 76, Pasay, Metro Manila"
+Siena Park Residences,"Sun Valley, Parañaque, Metro Manila"
+Siena Tower,"Marikina, Metro Manila"
+Siena Towers,"Santo Niño, Marikina, Metro Manila"
+Signa Designer Residences,"Bel-Air, Makati, Metro Manila"
+Six Senses,"Bay Area, Pasay, Metro Manila"
+Six Senses Residences,"Pasay, Metro Manila"
+Sky Arts Manila,"Malate, Manila, Metro Manila"
+Sky Villas,"Kaunlaran, Quezon City, Metro Manila"
+SkyVillas at One Balete,"Horseshoe, Quezon City, Metro Manila"
+Skyland Plaza,"San Antonio, Makati, Metro Manila"
+Skyline Premiere at One Balete,"Cubao, Quezon City, Metro Manila"
+Skyway Twin Towers,"Oranbo, Pasig, Metro Manila"
+Sofia Bellevue,"Ramon Magsaysay, Quezon City, Metro Manila"
+Soho Central,"Highway Hills, Mandaluyong, Metro Manila"
+Solano Hills,"Alabang, Muntinlupa, Metro Manila"
+Solano Hills Sucat,"Alabang, Muntinlupa, Metro Manila"
+SoleMare Parksuites,"Baclaran, Parañaque, Metro Manila"
+Solemare Parksuites,"Parañaque, Metro Manila"
+Solemare Parksuites Phase 2,"Don Bosco, Parañaque, Metro Manila"
+Solemare Parksuites Phase One,"Parañaque, Metro Manila"
+Solstice Towers,"Makati, Metro Manila"
+Solstice at Circuit Makati,"Carmona, Makati, Metro Manila"
+Sonata Private Residences,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+Sonora Garden Residences,"Las Piñas, Metro Manila"
+Sonria,"Alabang, Muntinlupa, Metro Manila"
+Sorrel Residences,"Sampaloc, Manila, Metro Manila"
+Sorrento Oasis,"Rosario, Pasig, Metro Manila"
+South 2 Residences,"Almanza Uno, Las Piñas, Metro Manila"
+South Beach Place,"Tambo, Parañaque, Metro Manila"
+South Insula,"Sacred Heart, Quezon City, Metro Manila"
+South Residences,"Almanza Dos, Las Piñas, Metro Manila"
+South of Market,"Fort Bonifacio, Taguig, Metro Manila"
+South of Market Private Residences (SOMA),"Bagong Tanyag, Taguig, Metro Manila"
+Southkey Place,"Alabang, Muntinlupa, Metro Manila"
+Space Taft,"Malate, Manila, Metro Manila"
+Spazio Bernardo West Villas,"Gulod, Quezon City, Metro Manila"
+Spring Residences,"Don Bosco, Parañaque, Metro Manila"
+St. Francis Shangri-La Place,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+St. Mark Residences,"Pinagsama, Taguig, Metro Manila"
+St. Moritz Private Estate,"Makati, Metro Manila"
+Stamford Executive Residences,"Bagong Tanyag, Taguig, Metro Manila"
+Stellar Place,"Bahay Toro, Quezon City, Metro Manila"
+Strata Suites Condominium,"Santa Lucia, San Juan, Metro Manila"
+Studio 7,"South Triangle, Quezon City, Metro Manila"
+Studio A,"Loyola Heights, Quezon City, Metro Manila"
+Studio City,"Alabang, Muntinlupa, Metro Manila"
+Studio N,"Alabang, Muntinlupa, Metro Manila"
+Studio One,"Muntinlupa, Metro Manila"
+Studio Zen,"Barangay 33, Pasay, Metro Manila"
+Studio Zen Taft,"Pasay, Metro Manila"
+Sun Residences,"Salvacion, Quezon City, Metro Manila"
+Sunny Ridge Residences,"Namayan, Mandaluyong, Metro Manila"
+Sunny Villas,"Gulod, Quezon City, Metro Manila"
+Sunset View Towers,"Pasay, Metro Manila"
+Sunshine 100 City Plaza,"Buayang Bato, Mandaluyong, Metro Manila"
+Suntrust Asmara,"Damayang Lagi, Quezon City, Metro Manila"
+Suntrust Capitol Plaza,"Central, Quezon City, Metro Manila"
+Suntrust Parkview,"Ermita, Manila, Metro Manila"
+Suntrust Shanata,"Talipapa, Quezon City, Metro Manila"
+Suntrust Solana,"Ermita, Manila, Metro Manila"
+Swire Elan Suites,"Greenhills, San Juan, Metro Manila"
+Sycamore Tower Dansalan Gardens,"Malamig, Mandaluyong, Metro Manila"
+THE AVANT AT THE FORT,"Bagong Tanyag, Taguig, Metro Manila"
+THE CELANDINE,"Balingasa, Quezon City, Metro Manila"
+THE COLONADE RESIDENCES,"Bangkal, Makati, Metro Manila"
+THE COLUMNS LEGAZPI VILLAGE,"San Lorenzo, Makati, Metro Manila"
+THE GRAND MIDORI MAKATI,"San Lorenzo, Makati, Metro Manila"
+THE SHANG GRAND TOWER,"San Lorenzo, Makati, Metro Manila"
+The A.Venue Suites,"Bangkal, Makati, Metro Manila"
+The Address at Wack Wack,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+The Albany,"Taguig, Metro Manila"
+The Alpha Suites,"San Antonio, Makati, Metro Manila"
+The Amaryllis,"Mariana, Quezon City, Metro Manila"
+The Amvel Mansions,"San Dionisio, Parañaque, Metro Manila"
+The Arton,"Loyola Heights, Quezon City, Metro Manila"
+The Arton by Rockwell,"Loyola Heights, Quezon City, Metro Manila"
+The Aston At Two Serendra,"Bagong Tanyag, Taguig, Metro Manila"
+The Aston Place,"Malate, Manila, Metro Manila"
+The Atherton,"San Antonio, Parañaque, Metro Manila"
+The Avenue Residences,"Talipapa, Quezon City, Metro Manila"
+The Balmori Suites,"Makati, Metro Manila"
+The Beacon,"Bangkal, Makati, Metro Manila"
+The Beaufort,"Fort Bonifacio, Taguig, Metro Manila"
+The Belize Tower at Two Serendra,"Fort Bonifacio, Taguig, Metro Manila"
+The Bellagio,"Fort Bonifacio, Taguig, Metro Manila"
+The Bellagio 2,"Pinagsama, Taguig, Metro Manila"
+The Bellagio 3,"BGC, Taguig, Metro Manila"
+The Birchwood,"Ususan, Taguig, Metro Manila"
+The Bonifacio Residences,"Addition Hills, Mandaluyong, Metro Manila"
+The Calinea Tower,"Grace Park East, Caloocan, Metro Manila"
+The Camden Place,"Malate, Manila, Metro Manila"
+The Capital,"E. Rodriguez, Quezon City, Metro Manila"
+The Capital Towers,"Kalusugan, Quezon City, Metro Manila"
+The Columns,"Bangkal, Makati, Metro Manila"
+The Columns At Legaspi Village,"San Lorenzo, Makati, Metro Manila"
+The Columns Ayala Avenue,"Bel-Air, Makati, Metro Manila"
+The Columns Legaspi Village,"Bangkal, Makati, Metro Manila"
+The Connor at Greenhhills,"Little Baguio, San Juan, Metro Manila"
+The Connor at Greenhills,"Greenhills, San Juan, Metro Manila"
+The Courtyard at the Pacific Residences,"Taguig, Metro Manila"
+The Crestmont,"South Triangle, Quezon City, Metro Manila"
+The Currency,"San Antonio, Pasig, Metro Manila"
+The Currency - Commercial and Office Units for Sale,"San Antonio, Pasig, Metro Manila"
+The Ellis,"Bel-Air, Makati, Metro Manila"
+The Encino at Two Serendra,"Fort Bonifacio, Taguig, Metro Manila"
+The Erin Heights,"Matandang Balara, Quezon City, Metro Manila"
+The Estate Makati,"Urdaneta, Makati, Metro Manila"
+The Eton Residences Greenbelt,"Legazpi Village, Makati, Metro Manila"
+The Fifth Avenue Place,"BGC, Taguig, Metro Manila"
+The Florence,"McKinley Hill, Taguig, Metro Manila"
+The Florence Residence,"Bagong Tanyag, Taguig, Metro Manila"
+The Forbes Hall,"Manila, Metro Manila"
+The Fort Residences,"BGC, Taguig, Metro Manila"
+The Frabella I,"Legazpi Village, Makati, Metro Manila"
+The Gentry Residences,"Bel-Air, Makati, Metro Manila"
+The Gramercy Residences,"Poblacion, Makati, Metro Manila"
+The Grand Eastwood Palazzo,"Eastwood City, Quezon City, Metro Manila"
+The Grand Hamptons,"Fort Bonifacio, Taguig, Metro Manila"
+The Grand Midori Ortigas,"San Antonio, Pasig, Metro Manila"
+The Grand Quartier,"Tugatog, Malabon, Metro Manila"
+The Grand Towers Manila,"Malate, Manila, Metro Manila"
+The Grove,"Ugong, Pasig, Metro Manila"
+The Hermosa,"Pulang Lupa Uno, Las Piñas, Metro Manila"
+The Hotel Residences at Acqua,"Hulo, Mandaluyong, Metro Manila"
+The Icon,"Tondo, Manila, Metro Manila"
+The Icon Residences,"Fort Bonifacio, Taguig, Metro Manila"
+The Imperium at Capitol Commons,"Oranbo, Pasig, Metro Manila"
+The Infinity,"Pinagsama, Taguig, Metro Manila"
+The Infinity BGC,"Fort Bonifacio, Taguig, Metro Manila"
+The Infinity Tower,"Pinagsama, Taguig, Metro Manila"
+The Larsen Tower at East Bay Residences,"Sucat, Muntinlupa, Metro Manila"
+The Lattice at Parklinks,"Pasig, Metro Manila"
+The Lerato,"Bel-Air, Makati, Metro Manila"
+The Levels,"Alabang, Muntinlupa, Metro Manila"
+The Linear,"San Antonio, Makati, Metro Manila"
+The Magnolia Residences,"Kaunlaran, Quezon City, Metro Manila"
+"The Magnolia residences – Tower A, B, and C","Kaunlaran, Quezon City, Metro Manila"
+The Magnolia residences – Tower D,"Kaunlaran, Quezon City, Metro Manila"
+The Makati Tuscany,"Ayala Avenue, Makati, Metro Manila"
+The Manansala,"Makati, Metro Manila"
+The Manila Residences,"Malate, Manila, Metro Manila"
+The Manila Residences Bocobo,"Ermita, Manila, Metro Manila"
+The Manila Residences Tower I,"Malate, Manila, Metro Manila"
+The Manila Residences Tower II,"Malate, Manila, Metro Manila"
+The Manors at Celebrity Place,"Ramon Magsaysay, Quezon City, Metro Manila"
+The Manors at North Belton Communities,"Grace Park East, Manila, Metro Manila"
+The Meranti at Two Serendra,"Fort Bonifacio, Taguig, Metro Manila"
+The Milano Residences,"Poblacion, Makati, Metro Manila"
+The Mondrian Residences,"Alabang, Muntinlupa, Metro Manila"
+The Montane,"Fort Bonifacio, Taguig, Metro Manila"
+The Nobel Plaza,"Bel-Air, Makati, Metro Manila"
+The Observatory,"Buayang Bato, Mandaluyong, Metro Manila"
+The Olive Place,"Plainview, Mandaluyong, Metro Manila"
+The Orabella,"Pasong Tamo, Quezon City, Metro Manila"
+The Oriana,"Marilag, Quezon City, Metro Manila"
+The Oriental Place,"Pio Del Pilar, Makati, Metro Manila"
+The Paddington Place,"Shaw Boulevard, Mandaluyong, Metro Manila"
+The Palm Tree,"Barangay 183, Pasay, Metro Manila"
+The Palm Tree 2,"Pasay, Metro Manila"
+The Palmtree at NewPort City,"Newport Blvd, Pasay, Metro Manila"
+The Parkside Villa,"Pasay, Metro Manila"
+The Parkside Villas,"Barangay 183, Pasay, Metro Manila"
+The Peak Tower,"Bel-Air, Makati, Metro Manila"
+The Pearl Place,"Pasig, Metro Manila"
+The Proscenium,"Bangkal, Makati, Metro Manila"
+The Proscenium at Rockwell,"Poblacion, Makati, Metro Manila"
+The Radiance Manila Bay,"Barangay 3, Pasay, Metro Manila"
+The Radiance Manila Bay – North Tower,"Barangay 2, Pasay, Metro Manila"
+The Radiance Manila Bay – South Tower,"Barangay 2, Pasay, Metro Manila"
+The Residences at Bonifacio Civic Center,"BGC, Taguig, Metro Manila"
+The Residences at Bonifacio Civic Center Tower,"Fort Bonifacio, Taguig, Metro Manila"
+The Residences at Commonwealth,"Matandang Balara, Quezon City, Metro Manila"
+The Residences at Commonwealth Quezon City,"Batasan Hills, Quezon City, Metro Manila"
+The Residences at Greenbelt,"San Lorenzo, Makati, Metro Manila"
+The Residences at The Westin Manila Sonata Place,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+The Residential Resort At Newport City,"Pasay, Metro Manila"
+The Rise Makati,"San Antonio, Makati, Metro Manila"
+The Rise Makati By Shangrila,"San Antonio, Makati, Metro Manila"
+The Ritz Tower,"Bel-Air, Makati, Metro Manila"
+The Rochester,"San Joaquin, Pasig, Metro Manila"
+The Royalton,"Oranbo, Pasig, Metro Manila"
+The Royalton at Capitol Commons,"Oranbo, Pasig, Metro Manila"
+The Saint Francis Shangri-la Place,"Highway Hills, Mandaluyong, Metro Manila"
+The Salcedo Park,"Bel-Air, Makati, Metro Manila"
+The Salcedo Park Condominum,"Bel-Air, Makati, Metro Manila"
+The Sandstone at Portico,"Oranbo, Pasig, Metro Manila"
+The Sapphire Bloc  – South Tower,"San Antonio, Pasig, Metro Manila"
+The Sapphire Bloc – East Tower,"San Antonio, Pasig, Metro Manila"
+The Seasons Residences,"Fort Bonifacio, Taguig, Metro Manila"
+The Signature,"Pag-Ibig Sa Nayon, Quezon City, Metro Manila"
+The Spectrum,"Ortigas Center, Pasig, Metro Manila"
+The St. Francis Shangri-La Place,"Addition Hills, Mandaluyong, Metro Manila"
+The Steps - Quezon City,"Matalahib, Quezon City, Metro Manila"
+The Suites at One Bonifacio High Street,"Pinagsama, Taguig, Metro Manila"
+The Symphony Towers,"Quezon City, Metro Manila"
+The TREVI TOWERS,"Tugatog, Malabon, Metro Manila"
+The Trion Towers,"Makati, Metro Manila"
+The Trion Towers I,"BGC, Taguig, Metro Manila"
+The Trion Towers II,"BGC, Taguig, Metro Manila"
+The Trion Towers III,"BGC, Taguig, Metro Manila"
+The Velaris Residences,"Manggahan, Pasig, Metro Manila"
+The Venice,"Bagong Tanyag, Taguig, Metro Manila"
+The Venice Luxury Residences,"McKinley Hill, Taguig, Metro Manila"
+The Veranda BGC,"Highway Hills, Mandaluyong, Metro Manila"
+The Versailles Cove,"Don Bosco, Parañaque, Metro Manila"
+The Viceroy,"McKinley Hill, Taguig, Metro Manila"
+The Viceroy Residences,"Bagong Tanyag, Taguig, Metro Manila"
+The Xavier Hills,"New Manila, Quezon City, Metro Manila"
+The barons place,"Balong-Bato, San Juan, Metro Manila"
+Three Adriatico Place,"Ermita, Manila, Metro Manila"
+Three Central,"Bel-Air, Makati, Metro Manila"
+Three Salcedo Place,"Bel-Air, Makati, Metro Manila"
+Tiffany Mansion,"Greenhills, San Juan, Metro Manila"
+Time Square West,"Fort Bonifacio, Taguig, Metro Manila"
+Times Square West,"BGC, Taguig, Metro Manila"
+Tivoli Garden Residences,"Hulo, Mandaluyong, Metro Manila"
+Tivoli Gardens Residences,"Addition Hills, Mandaluyong, Metro Manila"
+Torre Central,"Manila, Metro Manila"
+Torre De Florencia,"Grace Park West, Caloocan, Metro Manila"
+Torre De Manila,"Ermita, Manila, Metro Manila"
+Torre Lorenzo Central,"Sampaloc, Manila, Metro Manila"
+Torre Lorenzo Loyola,"Loyola Heights, Quezon City, Metro Manila"
+Torre Lorenzo Malate,"Malate, Manila, Metro Manila"
+Torre Lorenzo Sur,"Zapote, Las Piñas, Metro Manila"
+Trees Residences,"Kaligayahan, Quezon City, Metro Manila"
+Tres Palmas,"Bagong Tanyag, Taguig, Metro Manila"
+Tribeca Private Residences,"Tondo, Manila, Metro Manila"
+Tropical Palms,"Legazpi Village, Makati, Metro Manila"
+Trump Tower,"Makati, Metro Manila"
+Trump Tower Manila,"Makati, Metro Manila"
+Trump Towers,"Poblacion, Makati, Metro Manila"
+Tuscany Private Estate,"McKinley Hill, Taguig, Metro Manila"
+Tuscany Private Estates,"Pinagsama, Taguig, Metro Manila"
+Twelve Luxury Flats,"Little Baguio, San Juan, Metro Manila"
+Twin Oaks Place,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+Twin Residences,"Talon Tres, Las Piñas, Metro Manila"
+Twin Towers,"Urdaneta, Makati, Metro Manila"
+Two Adriatico Place,"Quiapo, Manila, Metro Manila"
+Two Central,"Bel-Air, Makati, Metro Manila"
+Two Lafayette Square,"Bel-Air, Makati, Metro Manila"
+Two Maridien,"BGC, Taguig, Metro Manila"
+Two Palm Tree Villas,"Newport City, Pasay, Metro Manila"
+Two Premier,"Almanza Uno, Las Piñas, Metro Manila"
+Two Roxas Triangle,"Urdaneta, Makati, Metro Manila"
+Two Salcedo Place,"Bel-Air, Makati, Metro Manila"
+Two Serendra,"BGC, Taguig, Metro Manila"
+University Tower,"Bangkal, Makati, Metro Manila"
+University Tower España,"Sampaloc, Manila, Metro Manila"
+University Tower P. Noval,"Sampaloc, Manila, Metro Manila"
+Uptown Arts Residence,"Fort Bonifacio, Taguig, Metro Manila"
+Uptown Parksuites,"BGC, Taguig, Metro Manila"
+Uptown Ritz Residence,"Fort Bonifacio, Taguig, Metro Manila"
+Urban Deca Homes Campville,"Cupang, Muntinlupa, Metro Manila"
+Urban Deca Homes Manila,"Manila, Metro Manila"
+Urban Oasis,"Matandang Balara, Quezon City, Metro Manila"
+Valencia Hills,"Valencia, Quezon City, Metro Manila"
+Venice Luxury Residences,"Venice Grand Canal Mall, Taguig, Metro Manila"
+Verano Greenhills,"Greenhills, San Juan, Metro Manila"
+Verawood Residences,"Bambang, Taguig, Metro Manila"
+Verde De Pasadena,"Pasadeña, San Juan, Metro Manila"
+Verde Spatial,"Commonwealth, Quezon City, Metro Manila"
+Verve Residences,"BGC, Taguig, Metro Manila"
+Viceroy,"Bagong Tanyag, Taguig, Metro Manila"
+Viceroy Residences,"Bagong Tanyag, Taguig, Metro Manila"
+Victoria De Manila 2,"Malate, Manila, Metro Manila"
+Victoria Sports Tower,"South Triangle, Quezon City, Metro Manila"
+Victoria Towers,"Paligsahan, Quezon City, Metro Manila"
+Victoria de Makati,"Pio Del Pilar, Makati, Metro Manila"
+Victoria de Malate,"Malate, Manila, Metro Manila"
+Victoria de Manila,"Malate, Manila, Metro Manila"
+Victoria de Morato,"Ramon Magsaysay, Quezon City, Metro Manila"
+Viento at Cerca,"Almanza Uno, Las Piñas, Metro Manila"
+Viera Residences,"Obrero, Quezon City, Metro Manila"
+Vimana Verde Residences,"Oranbo, Pasig, Metro Manila"
+Vine Residences,"San Bartolome, Quezon City, Metro Manila"
+Vinia Residences,"Phil-Am, Quezon City, Metro Manila"
+Vion Tower,"Magallanes, Makati, Metro Manila"
+Viridian in Greenhills,"Greenhills, San Juan, Metro Manila"
+Vista 309 Katipunan,"Loyola Heights, Quezon City, Metro Manila"
+Vista GL Taft,"Ermita, Manila, Metro Manila"
+Vista Pointe,"Katipunan, Quezon City, Metro Manila"
+Vista Pointe Katipunan,"Loyola Heights, Quezon City, Metro Manila"
+Vista Recto,"Quiapo, Manila, Metro Manila"
+Vista Shaw,"Addition Hills, Mandaluyong, Metro Manila"
+Vista Taft,"Malate, Manila, Metro Manila"
+Vivaldi Residences,"Ramon Magsaysay, Quezon City, Metro Manila"
+Vivaldi Residences - Cubao,"Socorro, Quezon City, Metro Manila"
+Vivant Flats,"Alabang, Muntinlupa, Metro Manila"
+Vivere Hotel & Resorts,"Alabang, Muntinlupa, Metro Manila"
+W.H. Taft Residences,"Malate, Manila, Metro Manila"
+WILL TOWER,"Ramon Magsaysay, Quezon City, Metro Manila"
+WOODSVILLE RESIDENCES,"Parañaque, Metro Manila"
+Wack Wack Twin Towers,"Wack-Wack Greenhills, Mandaluyong, Metro Manila"
+Washington Tower,"Don Galo, Parañaque, Metro Manila"
+West Gallery Place,"BGC, Taguig, Metro Manila"
+West Parc,"Alabang, Muntinlupa, Metro Manila"
+West Parc at Brentville,"Muntinlupa, Metro Manila"
+West of Ayala,"Pio Del Pilar, Makati, Metro Manila"
+Westgate Tower,"Alabang, Muntinlupa, Metro Manila"
+Windsor Mansion,"Santolan, Pasig, Metro Manila"
+Woodsville Crest,"Parañaque, Metro Manila"
+Woodsville Crest 3,"Merville, Parañaque, Metro Manila"
+Woodsville Viverde Mansion,"Tondo, Manila, Metro Manila"
+Woodsville Viverde Mansions,"Merville, Parañaque, Metro Manila"
+Xanland Place,"Loyola Heights, Quezon City, Metro Manila"
+Zinnia Towers,"Katipunan, Quezon City, Metro Manila"
+Zitan,"Addition Hills, Mandaluyong, Metro Manila"
+dakotaresidences,"Tugatog, Malabon, Metro Manila"
+mckinley hill garden villas,"Bagong Tanyag, Taguig, Metro Manila"
+oriental gardens makati,"Bangkal, Makati, Metro Manila"
+symfoni kamias,"Ramon Magsaysay, Quezon City, Metro Manila"
+trump tower,"Makati, Metro Manila"
