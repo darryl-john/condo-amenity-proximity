@@ -1,0 +1,331 @@
+hospital,beds,category,street,city,sec,full_address,cleaned_query,fallback_query,lat,lon,geocode_provider,formatted_address,quality_note
+"ALLIED CARE EXPERTS (ACE) MEDICAL
+CENTER - QUEZON CITY, INC.",100,LEVEL 2,"NO. 20 SEMINARY ROAD, BAHAY TORO,
+PROJECT 8",QUEZON CITY,P,"ALLIED CARE EXPERTS (ACE) MEDICAL
+CENTER - QUEZON CITY, INC., QUEZON CITY, Metro Manila, Philippines",allied care experts (ace) medical center - quezon city inc. quezon city metro manila philippines,"ALLIED CARE EXPERTS (ACE) MEDICAL
+CENTER - QUEZON CITY, INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+AMANG RODRIGUEZ MEMORIAL MEDICAL CENTER,300,LEVEL 3,"SUMULONG HIWAY, BRGY. STO. NIÑO,",MARIKINA,G,"AMANG RODRIGUEZ MEMORIAL MEDICAL CENTER, MARIKINA, Metro Manila, Philippines",amang rodriguez memorial medical center marikina metro manila philippines,,14.6361206,121.0984332,google,"J3PX+C9V, Sumulong Hwy, Marikina, 1800 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+BERNARDINO GENERAL HOSPITAL I,80,LEVEL 2,"680 QUIRINO HIGHWAY, SAN
+BARTOLOME, NOVALICHES,",QUEZON CITY,P,"BERNARDINO GENERAL HOSPITAL I, QUEZON CITY, Metro Manila, Philippines",bernardino general hospital i quezon city metro manila philippines,"BERNARDINO GENERAL HOSPITAL I, QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+BERNARDINO GENERAL HOSPITAL II,35,LEVEL 1,"B1 L2 NORTH OLYMPUS SUBD., ZABARTE ROAD, BRGY. KALIGAYAHAN,
+NOVALICHES,",QUEZON CITY,P,"BERNARDINO GENERAL HOSPITAL II, QUEZON CITY, Metro Manila, Philippines",bernardino general hospital ii quezon city metro manila philippines,,14.740122,121.0467104,google,"North Olympus Subdivision, Zabarte Rd, Novaliches, Quezon City, Metro Manila, Philippines",CLEANED|ROOFTOP
+"CABARLES MATERNITY (LYING-IN), MEDICAL AND CHILDREN'S CLINIC",9,INF/DISP,"2 HEAVENLY DRIVE, CORNER SUSANO ROAD, SAN AGUSTIN, NOVALICHES",QUEZON CITY,P,"CABARLES MATERNITY (LYING-IN), MEDICAL AND CHILDREN'S CLINIC, QUEZON CITY, Metro Manila, Philippines",cabarles maternity (lying-in) medical and children's clinic quezon city metro manila philippines,"CABARLES MATERNITY (LYING-IN), MEDICAL AND CHILDREN'S CLINIC, QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"CAMP GENERAL EMILIO AGUINALDO STATION
+HOSPITAL",25,INF/DISP,"CAMP GEN. EMILIO AGUINALDO,
+MURPHY,",QUEZON CITY,G,"CAMP GENERAL EMILIO AGUINALDO STATION
+HOSPITAL, QUEZON CITY, Metro Manila, Philippines",camp general emilio aguinaldo station hospital quezon city metro manila philippines,"CAMP GENERAL EMILIO AGUINALDO STATION
+HOSPITAL, QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"CAPITOL MEDICAL CENTER, INC.",200,LEVEL 3,"QUEZON AVE. COR. SCT. MAGBANUA, BRGY. PALIGSAHAN,",QUEZON CITY,P,"CAPITOL MEDICAL CENTER, INC., QUEZON CITY, Metro Manila, Philippines",capitol medical center inc. quezon city metro manila philippines,,14.6342467,121.0228414,google,"Quezon Avenue, corner Scout Magbanua Street, Diliman, Quezon City, 1103 Metro Manila, Philippines",CLEANED|ROOFTOP
+CARDINAL SANTOS MEDICAL CENTER,297,LEVEL 3,"10 WILSON ST., GREENHILLS,",SAN JUAN,P,"CARDINAL SANTOS MEDICAL CENTER, SAN JUAN, Metro Manila, Philippines",cardinal santos medical center san juan metro manila philippines,,14.5977862,121.0455347,google,"10 Wilson, Greenhills West, San Juan City, 1502 Metro Manila, Philippines",CLEANED|ROOFTOP
+COMMONWEALTH HOSPITAL AND MEDICAL CENTER,148,LEVEL 2,"LOT 3 & 4, BLK 3, NEOPOLITAN BUSINESS PARK, BRGY. GREATER
+LAGRO, NOVALICHES,",QUEZON CITY,P,"COMMONWEALTH HOSPITAL AND MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines",commonwealth hospital and medical center quezon city metro manila philippines,,14.7315309,121.0608457,google,"Regalado Hwy, Novaliches, Quezon City, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"CRUZ-DALIDA  HOSPITAL, INC.",8,INF/DISP,"1025 F. SALVADOR AVE., JORDAN PLAINS SUBD., BRGY. STA. MONICA,
+NOVALICHES,",QUEZON CITY,P,"CRUZ-DALIDA  HOSPITAL, INC., QUEZON CITY, Metro Manila, Philippines",cruz-dalida hospital inc. quezon city metro manila philippines,,14.7233991,121.0439587,google,"Jordan Plaines Subdivision, 1025 F Salvador Ave, Novaliches, Quezon City, Metro Manila, Philippines",CLEANED|ROOFTOP
+DE LOS SANTOS MEDICAL CENTER,150,LEVEL 3,"201 E. RODRIGUEZ SR. BLVD.,",QUEZON CITY,P,"DE LOS SANTOS MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines",de los santos medical center quezon city metro manila philippines,,14.6201181,121.0174251,google,"201 E Rodriguez Sr. Ave, Quezon City, 1112 Metro Manila, Philippines",CLEANED|ROOFTOP
+"DILIMAN DOCTORS HOSPITAL, INC.",130,LEVEL 2,"251 COMMONWEALTH AVENUE,
+MATANDANG BALARA,",QUEZON CITY,P,"DILIMAN DOCTORS HOSPITAL, INC., QUEZON CITY, Metro Manila, Philippines",diliman doctors hospital inc. quezon city metro manila philippines,"DILIMAN DOCTORS HOSPITAL, INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+DR. FE DEL MUNDO MEDICAL CENTER,25,LEVEL 2,"11 BANAWE ST., BRGY. DOÑA JOSEFA,",QUEZON CITY,P,"DR. FE DEL MUNDO MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines",dr. fe del mundo medical center quezon city metro manila philippines,,14.6204717,121.009294,google,"11 Banawe St, Quezon City, 1113 Metro Manila, Philippines",CLEANED|ROOFTOP
+DR. JESUS C. DELGADO MEMORIAL HOSPITAL,65,LEVEL 2,"7 KAMUNING ROAD,",QUEZON CITY,P,"DR. JESUS C. DELGADO MEMORIAL HOSPITAL, QUEZON CITY, Metro Manila, Philippines",dr. jesus c. delgado memorial hospital quezon city metro manila philippines,,14.6278031,121.0347032,google,"7 Kamuning Rd, Diliman, Quezon City, Metro Manila, Philippines",CLEANED|ROOFTOP
+"DR. MONTANO G. RAMOS GENERAL
+HOSPITAL CORPORATION",25,LEVEL 1,"46 BUKIDNON ST., BAGO BANTAY,",QUEZON CITY,P,"DR. MONTANO G. RAMOS GENERAL
+HOSPITAL CORPORATION, QUEZON CITY, Metro Manila, Philippines",dr. montano g. ramos general hospital corporation quezon city metro manila philippines,"DR. MONTANO G. RAMOS GENERAL
+HOSPITAL CORPORATION, QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+EAST AVENUE MEDICAL CENTER,1000,LEVEL 3,"EAST AVENUE, DILIMAN,",QUEZON CITY,G,"EAST AVENUE MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines",east avenue medical center quezon city metro manila philippines,,14.6421432,121.0479837,google,"J2RX+V55, East Ave, Diliman, Quezon City, 1100 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"F.Y. MANALO MEDICAL FOUNDATION, INC.",100,LEVEL 2,"COMMONWEALTH AVE., COR. TANDANG SORA AVE.,",QUEZON CITY,P,"F.Y. MANALO MEDICAL FOUNDATION, INC., QUEZON CITY, Metro Manila, Philippines",f.y. manalo medical foundation inc. quezon city metro manila philippines,"F.Y. MANALO MEDICAL FOUNDATION, INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"FAIRVIEW GENERAL HOSPITAL, INC.",30,LEVEL 1,"LOT 20 COR. MERCURY ST., FAIRVIEW,",QUEZON CITY,P,"FAIRVIEW GENERAL HOSPITAL, INC., QUEZON CITY, Metro Manila, Philippines",fairview general hospital inc. quezon city metro manila philippines,"FAIRVIEW GENERAL HOSPITAL, INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"FEU-DR. NICANOR REYES MEDICAL
+FOUNDATION, INC.",300,LEVEL 3,"REGALADO AVENUE COR. DAHLIA,
+WEST FAIRVIEW,",QUEZON CITY,P,"FEU-DR. NICANOR REYES MEDICAL
+FOUNDATION, INC., QUEZON CITY, Metro Manila, Philippines",feu-dr. nicanor reyes medical foundation inc. quezon city metro manila philippines,"FEU-DR. NICANOR REYES MEDICAL
+FOUNDATION, INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+GARCIA GENERAL HOSPITAL,24,LEVEL 1,"49 BAYAN-BAYANAN AVE., MARIKINA HEIGHTS, CONCEPCION,",MARIKINA,P,"GARCIA GENERAL HOSPITAL, MARIKINA, Metro Manila, Philippines",garcia general hospital marikina metro manila philippines,,14.6512038,121.1110689,google,"49 Bayan-Bayanan Ave, Marikina, 1800 Metro Manila, Philippines",CLEANED|ROOFTOP
+"GEN. MIGUEL MALVAR MEDICAL RESEARCH
+FOUNDATION, INC.",46,LEVEL 1,"531 COMMONWEALTH AVENUE,",QUEZON CITY,P,"GEN. MIGUEL MALVAR MEDICAL RESEARCH
+FOUNDATION, INC., QUEZON CITY, Metro Manila, Philippines",gen. miguel malvar medical research foundation inc. quezon city metro manila philippines,"GEN. MIGUEL MALVAR MEDICAL RESEARCH
+FOUNDATION, INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+LUNG CENTER OF THE PHILIPPINES,237,LEVEL 3,"QUEZON AVENUE,",QUEZON CITY,G,"LUNG CENTER OF THE PHILIPPINES, QUEZON CITY, Metro Manila, Philippines",lung center of the philippines quezon city metro manila philippines,,14.6477279,121.0452136,google,"Quezon Ave, Diliman, Quezon City, 1100 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"MARIKINA ST. VINCENT GENERAL HOSPITAL,
+INC.",90,LEVEL 2,"35 BAYAN-BAYANAN AVENUE,
+CONCEPCION UNO,",MARIKINA,P,"MARIKINA ST. VINCENT GENERAL HOSPITAL,
+INC., MARIKINA, Metro Manila, Philippines",marikina street. vincent general hospital inc. marikina metro manila philippines,"MARIKINA ST. VINCENT GENERAL HOSPITAL,
+INC., MARIKINA, Metro Manila, Philippines, Metro Manila, Philippines",14.6511832,121.1073128,google,"35 Bayan-Bayanan Ave, Marikina, 1800 Metro Manila, Philippines",FALLBACK_FULL|ROOFTOP
+MARIKINA VALLEY MEDICAL CENTER,151,LEVEL 2,"SUMULONG HIGHWAY COR.
+AGUINALDO ST., BRGY. STO. NIÑO,",MARIKINA,P,"MARIKINA VALLEY MEDICAL CENTER, MARIKINA, Metro Manila, Philippines",marikina valley medical center marikina metro manila philippines,,14.6347295,121.1039907,google,"Sumulong Hwy, Marikina, 1800 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"METRO NORTH MEDICAL CENTER AND HOSPITAL, INC.",80,LEVEL 2,"1001 MINDANAO AVE., BRGY. BAHAY TORO,",QUEZON CITY,P,"METRO NORTH MEDICAL CENTER AND HOSPITAL, INC., QUEZON CITY, Metro Manila, Philippines",metro north medical center and hospital inc. quezon city metro manila philippines,"METRO NORTH MEDICAL CENTER AND HOSPITAL, INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+NATIONAL CHILDREN'S HOSPITAL,250,LEVEL 3,"264 E. RODRIGUEZ SR. BOULEVARD,",QUEZON CITY,G,"NATIONAL CHILDREN'S HOSPITAL, QUEZON CITY, Metro Manila, Philippines",national children's hospital quezon city metro manila philippines,,14.6204405,121.0208118,google,"264 E Rodriguez Sr. Ave, Quezon City, 1113 Metro Manila, Philippines",CLEANED|ROOFTOP
+"NATIONAL KIDNEY AND TRANSPLANT
+INSTITUTE",315,LEVEL 3,"EAST AVENUE, DILIMAN,",QUEZON CITY,G,"NATIONAL KIDNEY AND TRANSPLANT
+INSTITUTE, QUEZON CITY, Metro Manila, Philippines",national kidney and transplant institute quezon city metro manila philippines,,14.6473447,121.0473288,google,"J2WW+WWP, East Ave, Diliman, Quezon City, 1101 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+NOVALICHES DISTRICT HOSPITAL,30,LEVEL 1,"QUIRINO HIGHWAY, SAN BARTOLOME,
+NOVALICHES,",QUEZON CITY,G,"NOVALICHES DISTRICT HOSPITAL, QUEZON CITY, Metro Manila, Philippines",novaliches district hospital quezon city metro manila philippines,,14.700472,121.034431,google,"680 Quirino Hwy, Novaliches, Quezon City, 1116 Metro Manila, Philippines",CLEANED|ROOFTOP
+"NOVALICHES GENERAL HOSPITAL AND
+MEDICAL CENTER, INC.",60,LEVEL 2,"793 QUIRINO HIGHWAY, BRGY.
+GULOD, NOVALICHES,",QUEZON CITY,P,"NOVALICHES GENERAL HOSPITAL AND
+MEDICAL CENTER, INC., QUEZON CITY, Metro Manila, Philippines",novaliches general hospital and medical center inc. quezon city metro manila philippines,"NOVALICHES GENERAL HOSPITAL AND
+MEDICAL CENTER, INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"P. GONZALES MEMORIAL HOSPITAL, INC",8,INF/DISP,"582 J.P. RIZAL ST., LAMUAN,
+MALANDAY,",MARIKINA,P,"P. GONZALES MEMORIAL HOSPITAL, INC, MARIKINA, Metro Manila, Philippines",p. gonzales memorial hospital inc marikina metro manila philippines,,14.6491787,121.0985024,google,"582 J. P. Rizal St, Marikina, 1805 Metro Manila, Philippines",CLEANED|ROOFTOP
+"PACIFIC GLOBAL MEDICAL CENTER, INC.",100,LEVEL 2,"LOT 2B, MINDANAO AVENUE, BRGY.
+TALIPAPA, NOVALICHES,",QUEZON CITY,P,"PACIFIC GLOBAL MEDICAL CENTER, INC., QUEZON CITY, Metro Manila, Philippines",pacific global medical center inc. quezon city metro manila philippines,"PACIFIC GLOBAL MEDICAL CENTER, INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+PASCUAL GENERAL HOSPITAL,12,INF/DISP,"130 M. PASCUAL ST., QUIRINO
+HIGHWAY, BAESA,",QUEZON CITY,P,"PASCUAL GENERAL HOSPITAL, QUEZON CITY, Metro Manila, Philippines",pascual general hospital quezon city metro manila philippines,,14.666991,121.0090838,google,"130 Quirino Hwy, Quezon City, 1106 Metro Manila, Philippines",CLEANED|ROOFTOP
+PHILIPPINE CHILDREN'S MEDICAL CENTER,200,LEVEL 3,"QUEZON AVENUE CORNER AGHAM ROAD, DILIMAN,",QUEZON CITY,G,"PHILIPPINE CHILDREN'S MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines",philippine children's medical center quezon city metro manila philippines,"PHILIPPINE CHILDREN'S MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",14.6476963,121.0411248,google,"Quezon Avenue, cor Senator Miriam P. Defensor-Santiago Ave, Bagong Pag-asa, Quezon City, 1101 Metro Manila, Philippines",FALLBACK_FULL|ROOFTOP
+PHILIPPINE HEART CENTER,574,LEVEL 3,"EAST AVENUE, DILIMAN,",QUEZON CITY,G,"PHILIPPINE HEART CENTER, QUEZON CITY, Metro Manila, Philippines",philippine heart center quezon city metro manila philippines,,14.6441499,121.0481468,google,"J2VX+M72, East Ave, Diliman, Quezon City, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+PHILIPPINE ORTHOPEDIC CENTER,700,LEVEL 3,"MA. CLARA ST. COR. BANAWE STS.,",QUEZON CITY,G,"PHILIPPINE ORTHOPEDIC CENTER, QUEZON CITY, Metro Manila, Philippines",philippine orthopedic center quezon city metro manila philippines,,14.6280361,121.0033881,google,"78-A Maria Clara St, Santa Mesa Heights, Quezon City, 1114 Metro Manila, Philippines",CLEANED|ROOFTOP
+PNP GENERAL HOSPITAL,176,LEVEL 2,"CAMP CRAME,",QUEZON CITY,G,"PNP GENERAL HOSPITAL, QUEZON CITY, Metro Manila, Philippines",pnp general hospital quezon city metro manila philippines,,14.6156163,121.0519252,google,"Camp Panopio, P. Tuazon Blvd. Corner EDSA Main Avenue, Kaunlaran, Cubao, Quezon City, 1111 Metro Manila, Philippines",CLEANED|ROOFTOP
+"PROVIDENCE HOSPITAL, INC.",75,LEVEL 2,"1515 QUEZON AVENUE, WEST
+TRIANGLE,",QUEZON CITY,P,"PROVIDENCE HOSPITAL, INC., QUEZON CITY, Metro Manila, Philippines",providence hospital inc. quezon city metro manila philippines,"PROVIDENCE HOSPITAL, INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+QUEZON CITY GENERAL HOSPITAL,250,LEVEL 3,"SEMINARY ROAD, BRGY. BAHAY TORO, PROJECT 8, EDSA",QUEZON CITY,G,"QUEZON CITY GENERAL HOSPITAL, QUEZON CITY, Metro Manila, Philippines",quezon city general hospital quezon city metro manila philippines,,14.6611599,121.018209,google,"M269+F78, Seminary Rd, Project 8, Quezon City, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+QUIRINO MEMORIAL MEDICAL CENTER,599,LEVEL 3,"KATIPUNAN ROAD, PROJECT 4,",QUEZON CITY,G,"QUIRINO MEMORIAL MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines",quirino memorial medical center quezon city metro manila philippines,,14.6222558,121.0728482,google,"J3CF+W45, J.P. Rizal, Project 4, Quezon City, 1109 Kalakhang Maynila, Philippines",CLEANED|GEOMETRIC_CENTER
+"ROSARIO MACLANG BAUTISTA GENERAL
+HOSPITAL",107,LEVEL 2,"IBP ROAD, BATASAN HILLS, DISTRICT 2,",QUEZON CITY,G,"ROSARIO MACLANG BAUTISTA GENERAL
+HOSPITAL, QUEZON CITY, Metro Manila, Philippines",rosario maclang bautista general hospital quezon city metro manila philippines,,14.6860552,121.0890724,google,"M3PQ+CJG, Batasan Rd, Quezon City, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+SAN JUAN MEDICAL CENTER,150,LEVEL 2,"N. DOMINGO ST.,",SAN JUAN,G,"SAN JUAN MEDICAL CENTER, SAN JUAN, Metro Manila, Philippines",san juan medical center san juan metro manila philippines,,14.6063348,121.0235621,google,"71 N. Domingo, San Juan City, 1500 Metro Manila, Philippines",CLEANED|ROOFTOP
+"SAN LORENZO HOSPITAL HEALTH
+MANAGEMENT CO., INC.",18,LEVEL 1,"QUIRINO HIGHWAY, BRGY. PASONG
+PUTIK, NOVALICHES,",QUEZON CITY,P,"SAN LORENZO HOSPITAL HEALTH
+MANAGEMENT CO., INC., QUEZON CITY, Metro Manila, Philippines",san lorenzo hospital health management co. inc. quezon city metro manila philippines,"SAN LORENZO HOSPITAL HEALTH
+MANAGEMENT CO., INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"SDS MEDICAL CENTER, INC.",22,LEVEL 1,"KATIPUNAN RD. COR. PIO DEL PILAR
+ST., CONCEPCION 2,",MARIKINA,P,"SDS MEDICAL CENTER, INC., MARIKINA, Metro Manila, Philippines",sds medical center inc. marikina metro manila philippines,,14.6394204,121.1099639,google,"61 Katipunan St, Marikina, 1800 Metro Manila, Philippines",CLEANED|ROOFTOP
+"ST. ANTHONY MEDICAL CENTER OF
+MARIKINA, INC.",34,LEVEL 2,"32 STA. ANA EXT. COR. BETELNUT, SAN
+ROQUE,",MARIKINA,P,"ST. ANTHONY MEDICAL CENTER OF
+MARIKINA, INC., MARIKINA, Metro Manila, Philippines",street. anthony medical center of marikina inc. marikina metro manila philippines,"ST. ANTHONY MEDICAL CENTER OF
+MARIKINA, INC., MARIKINA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+ST. LUKE'S MEDICAL CENTER,509,LEVEL 3,"279 E. RODRIGUEZ SR. BLVD.,",QUEZON CITY,P,"ST. LUKE'S MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines",street. luke's medical center quezon city metro manila philippines,"ST. LUKE'S MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",14.6225328,121.0232452,google,"279 E Rodriguez Sr. Ave, Quezon City, 1112 Metro Manila, Philippines",FALLBACK_FULL|ROOFTOP
+ST. VICTORIA HOSPITAL,30,LEVEL 1,"444 J.P. RIZAL ST., BRGY. STO. NIÑO,
+DISTRICT 1,",MARIKINA,P,"ST. VICTORIA HOSPITAL, MARIKINA, Metro Manila, Philippines",street. victoria hospital marikina metro manila philippines,"ST. VICTORIA HOSPITAL, MARIKINA, Metro Manila, Philippines, Metro Manila, Philippines",14.6422207,121.0945705,google,"444 J. P. Rizal St, Marikina, 1800 Metro Manila, Philippines",FALLBACK_FULL|ROOFTOP
+UNITED DOCTORS MEDICAL CENTER,30,LEVEL 2,"6 N. RAMIREZ ST., BRGY. DON
+MANUEL,",QUEZON CITY,P,"UNITED DOCTORS MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines",united doctors medical center quezon city metro manila philippines,,14.6170544,121.0019352,google,"6 Nicanor Ramirez, Sampaloc, Quezon City, 1008 Kalakhang Maynila, Philippines",CLEANED|ROOFTOP
+"UNIVERSITY OF THE EAST RAMON
+MAGSAYSAY MEMORIAL MEDICAL CENTER, INC.",307,LEVEL 3,"AURORA BLVD.,",QUEZON CITY,P,"UNIVERSITY OF THE EAST RAMON
+MAGSAYSAY MEMORIAL MEDICAL CENTER, INC., QUEZON CITY, Metro Manila, Philippines",university of the east ramon magsaysay memorial medical center inc. quezon city metro manila philippines,"UNIVERSITY OF THE EAST RAMON
+MAGSAYSAY MEMORIAL MEDICAL CENTER, INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+UP HEALTH SERVICE,25,INF/DISP,"J.P. LAUREL ST., U.P. CAMPUS,
+DILIMAN,",QUEZON CITY,G,"UP HEALTH SERVICE, QUEZON CITY, Metro Manila, Philippines",up health service quezon city metro manila philippines,,14.659808,121.0708626,google,"University Health Service, Laurel Ave, Diliman, Quezon City, Metro Manila, Philippines",CLEANED|ROOFTOP
+"UROLOGY CENTER OF THE PHILIPPINES, INC.",16,LEVEL 1,"62 MAGINOO ST., DILIMAN,",QUEZON CITY,P,"UROLOGY CENTER OF THE PHILIPPINES, INC., QUEZON CITY, Metro Manila, Philippines",urology center of the philippines inc. quezon city metro manila philippines,,14.6420486,121.0535458,google,"62 Maginoo, Diliman, Quezon City, Metro Manila, Philippines",CLEANED|ROOFTOP
+VETERANS MEMORIAL MEDICAL CENTER,766,LEVEL 3,"NORTH AVENUE, DILIMAN,",QUEZON CITY,G,"VETERANS MEMORIAL MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines",veterans memorial medical center quezon city metro manila philippines,,14.6561184,121.0400556,google,"M24R+C2V, North Ave, Diliman, Quezon City, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+VIAN FAMILY HOSPITAL II,6,INF/DISP,"411 QUIRINO HIGHWAY, TALIPAPA,
+NOVALICHES,",QUEZON CITY,P,"VIAN FAMILY HOSPITAL II, QUEZON CITY, Metro Manila, Philippines",vian family hospital ii quezon city metro manila philippines,,14.6828566,121.0209514,google,"411 Quirino Hwy, Novaliches, Quezon City, 1116 Metro Manila, Philippines",CLEANED|ROOFTOP
+VICTORIANO LUNA MEDICAL CENTER,1200,LEVEL 3,"V. LUNA ROAD, PINYAHAN",QUEZON CITY,G,"VICTORIANO LUNA MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines",victoriano luna medical center quezon city metro manila philippines,,14.6347649,121.0524293,google,"J3M2+WX3, V. Luna Ave, Diliman, Quezon City, 1100 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"VILLAROSA HOSPITAL, INC.",10,INF/DISP,"11 SALALILLA ST., PROJECT 4,",QUEZON CITY,P,"VILLAROSA HOSPITAL, INC., QUEZON CITY, Metro Manila, Philippines",villarosa hospital inc. quezon city metro manila philippines,"VILLAROSA HOSPITAL, INC., QUEZON CITY, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"VILLON-TANSINSIN HOSPITAL, INC.",20,LEVEL 1,"3 TOYOTA AVE. COR. GUERILLA ST.,
+STO. NIÑO,",MARIKINA,P,"VILLON-TANSINSIN HOSPITAL, INC., MARIKINA, Metro Manila, Philippines",villon-tansinsin hospital inc. marikina metro manila philippines,,14.637248,121.0994787,google,"Toyota Ave., Cor. Guerilla St., J3PX+VQX, Marikina, 1800 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"WORD OF HOPE GENERAL HOSPITAL
+FOUNDATION, INC.",30,LEVEL 1,"23 BUENAMAR ST., NOVALICHES,",QUEZON CITY,P,"WORD OF HOPE GENERAL HOSPITAL
+FOUNDATION, INC., QUEZON CITY, Metro Manila, Philippines",word of hope general hospital foundation inc. quezon city metro manila philippines,,14.7192817,121.0390506,google,"23 Buenamar Dr, Quezon City, 1121 Metro Manila, Philippines",CLEANED|ROOFTOP
+WORLD CITI MEDICAL CENTER,122,LEVEL 3,"960 AURORA BLVD., BRGY. BAGONG
+BUHAY,",QUEZON CITY,P,"WORLD CITI MEDICAL CENTER, QUEZON CITY, Metro Manila, Philippines",world citi medical center quezon city metro manila philippines,,14.6272442,121.0633398,google,"960 Aurora Blvd, Project 4, Quezon City, Metro Manila, Philippines",CLEANED|ROOFTOP
+ACEBEDO GENERAL HOSPITAL,16,LEVEL 1,"849 GENERAL LUIS ST., BAGBAGUIN,",CALOOCAN,P,"ACEBEDO GENERAL HOSPITAL, CALOOCAN, Metro Manila, Philippines",acebedo general hospital caloocan metro manila philippines,,14.7187229,121.0050807,google,"300 General Luis, Caloocan, 1420 Metro Manila, Philippines",CLEANED|ROOFTOP
+"ALLIED CARE EXPERTS (ACE) MEDICAL
+CENTER MANDALUYONG, INC.",55,LEVEL 2,"145 HAIG ST., BRGY. DAANG BAKAL,",MANDALUYONG,P,"ALLIED CARE EXPERTS (ACE) MEDICAL
+CENTER MANDALUYONG, INC., MANDALUYONG, Metro Manila, Philippines",allied care experts (ace) medical center mandaluyong inc. mandaluyong metro manila philippines,"ALLIED CARE EXPERTS (ACE) MEDICAL
+CENTER MANDALUYONG, INC., MANDALUYONG, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"ALLIED CARE EXPERTS (ACE) MEDICAL
+CENTER VALENZUELA, INC.",82,LEVEL 2,"548 MC ARTHUR HIGHWAY,
+MALANDAY,",VALENZUELA,P,"ALLIED CARE EXPERTS (ACE) MEDICAL
+CENTER VALENZUELA, INC., VALENZUELA, Metro Manila, Philippines",allied care experts (ace) medical center valenzuela inc. valenzuela metro manila philippines,"ALLIED CARE EXPERTS (ACE) MEDICAL
+CENTER VALENZUELA, INC., VALENZUELA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"BERMUDEZ POLYMEDIC HOSPITAL, INC.",20,LEVEL 1,"391 MALARIA ROAD, BRGY. 185, ZONE
+16, DISTRICT 1, TALA,",CALOOCAN,P,"BERMUDEZ POLYMEDIC HOSPITAL, INC., CALOOCAN, Metro Manila, Philippines",bermudez polymedic hospital inc. caloocan metro manila philippines,"BERMUDEZ POLYMEDIC HOSPITAL, INC., CALOOCAN, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+CALOOCAN CITY MEDICAL CENTER,82,LEVEL 1,"450 A. MABINI ST.,",CALOOCAN,G,"CALOOCAN CITY MEDICAL CENTER, CALOOCAN, Metro Manila, Philippines",caloocan city medical center caloocan metro manila philippines,,14.6483271,120.9736139,google,"450 A. Mabini St, Poblacion, Caloocan, 1400 Metro Manila, Philippines",CLEANED|ROOFTOP
+CALOOCAN CITY NORTH MEDICAL CENTER,50,LEVEL 1,"SUSANO ROAD, BRGY. 177, CAMARIN,",CALOOCAN,G,"CALOOCAN CITY NORTH MEDICAL CENTER, CALOOCAN, Metro Manila, Philippines",caloocan city north medical center caloocan metro manila philippines,,14.7563848,121.0502375,google,"Q342+H35, Camarin Rd, Caloocan, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+CAMARIN DOCTORS HOSPITAL,105,LEVEL 2,"NO. 1 CAMARIN ROAD, BRGY. 172,
+CAMARIN",CALOOCAN,P,"CAMARIN DOCTORS HOSPITAL, CALOOCAN, Metro Manila, Philippines",camarin doctors hospital caloocan metro manila philippines,,14.7533215,121.0400418,google,"1 Camarin Rd, Caloocan, Metro Manila, Philippines",CLEANED|ROOFTOP
+CHINESE GENERAL HOSPITAL & MEDICAL CENTER,592,LEVEL 3,"#286 BLUMENTRITT ST.,","SANTA CRUZ, MANILA",P,"CHINESE GENERAL HOSPITAL & MEDICAL CENTER, SANTA CRUZ, MANILA, Metro Manila, Philippines",chinese general hospital & medical center santa cruz manila metro manila philippines,,14.6263316,120.9877647,google,"286 Blumentritt Rd, Santa Cruz, Manila, 1014 Metro Manila, Philippines",CLEANED|ROOFTOP
+CURE AND CARE MATERNITY HOSPITAL OPC,18,LEVEL 1,"1068 HERMOSA ST., MANUGUIT,","TONDO, MANILA",P,"CURE AND CARE MATERNITY HOSPITAL OPC, TONDO, MANILA, Metro Manila, Philippines",cure and care maternity hospital opc tondo manila metro manila philippines,"CURE AND CARE MATERNITY HOSPITAL OPC, TONDO, MANILA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+DE OCAMPO MEMORIAL MEDICAL CENTER,20,LEVEL 1,"2921 NAGTAHAN ST.,","SANTA MESA, MANILA",P,"DE OCAMPO MEMORIAL MEDICAL CENTER, SANTA MESA, MANILA, Metro Manila, Philippines",de ocampo memorial medical center santa mesa manila metro manila philippines,,14.5999326,120.9996775,google,"De Ocampo Memorial Medical Center, 2921 Nagtahan St, Santa Mesa, Manila, 1016 Metro Manila, Philippines",CLEANED|ROOFTOP
+DR. JOSE FABELLA MEMORIAL HOSPITAL,700,LEVEL 3,"SAN LAZARO COMPOUND, TAYUMAN
+ST.","SANTA CRUZ, MANILA",G,"DR. JOSE FABELLA MEMORIAL HOSPITAL, SANTA CRUZ, MANILA, Metro Manila, Philippines",dr. jose fabella memorial hospital santa cruz manila metro manila philippines,,14.6062156,120.9842759,google,"1003 Lope de Vega St, Santa Cruz, Manila, 1003 Metro Manila, Philippines",CLEANED|ROOFTOP
+DR. JOSE N. RODRIGUEZ MEMORIAL HOSPITAL AND SANITARIUM,459,LEVEL 3,"ST. JOSEPH AVENUE (DR. UYGUANCO STREET), ADMINISTRATION SITE, TALA,",CALOOCAN,G,"DR. JOSE N. RODRIGUEZ MEMORIAL HOSPITAL AND SANITARIUM, CALOOCAN, Metro Manila, Philippines",dr. jose n. rodriguez memorial hospital and sanitarium caloocan metro manila philippines,,14.766534,121.0657354,google,"Saint Joseph Avenue, Tala, Caloocan, 1427 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"DR. VICTOR R. POTENCIANO MEDICAL
+CENTER",170,LEVEL 3,"163 EDSA,",MANDALUYONG,P,"DR. VICTOR R. POTENCIANO MEDICAL
+CENTER, MANDALUYONG, Metro Manila, Philippines",dr. victor r. potenciano medical center mandaluyong metro manila philippines,,14.5769636,121.0497818,google,"163 E. De Los Santos Avenue, East Edsa, Mandaluyong City, Mandaluyong City, 1550 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"FATIMA UNIVERSITY MEDICAL CENTER
+CORPORATION",150,LEVEL 3,"120 MC ARTHUR HIGHWAY, MARULAS",VALENZUELA,P,"FATIMA UNIVERSITY MEDICAL CENTER
+CORPORATION, VALENZUELA, Metro Manila, Philippines",fatima university medical center corporation valenzuela metro manila philippines,"FATIMA UNIVERSITY MEDICAL CENTER
+CORPORATION, VALENZUELA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+GAT ANDRES BONIFACIO MEDICAL CENTER,150,LEVEL 1,"8001 DELPAN ST.,","TONDO, MANILA",G,"GAT ANDRES BONIFACIO MEDICAL CENTER, TONDO, MANILA, Metro Manila, Philippines",gat andres bonifacio medical center tondo manila metro manila philippines,,14.6010315,120.9647023,google,"924 Delpan St, Tondo, Manila, 1012 Metro Manila, Philippines",CLEANED|ROOFTOP
+"HOSPITAL OF THE INFANT JESUS MEDICAL
+CENTER",140,LEVEL 3,"1556 LAON LAAN ROAD,","SAMPALOC, MANILA",P,"HOSPITAL OF THE INFANT JESUS MEDICAL
+CENTER, SAMPALOC, MANILA, Metro Manila, Philippines",hospital of the infant jesus medical center sampaloc manila metro manila philippines,,14.6142047,120.9892005,google,"1556 Laong Laan, Lacson Ave, Sampaloc, Manila, 1008 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+JOSE R. REYES MEMORIAL MEDICAL CENTER,450,LEVEL 3,"SAN LAZARO COMPOUD, RIZAL
+AVENUE,","SANTA CRUZ, MANILA",G,"JOSE R. REYES MEMORIAL MEDICAL CENTER, SANTA CRUZ, MANILA, Metro Manila, Philippines",jose r. reyes memorial medical center santa cruz manila metro manila philippines,"JOSE R. REYES MEMORIAL MEDICAL CENTER, SANTA CRUZ, MANILA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"JUSTICE JOSE ABAD SANTOS GENERAL
+HOSPITAL",150,LEVEL 1,"NUMANCIA ST.,","BINONDO, MANILA",G,"JUSTICE JOSE ABAD SANTOS GENERAL
+HOSPITAL, BINONDO, MANILA, Metro Manila, Philippines",justice jose abad santos general hospital binondo manila metro manila philippines,,14.597597,120.97194,google,"HXXC+2QP, Numancia St, Binondo, Manila, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"LADY OF LOURDES HOSPITAL & COLLEGES OF CAYBIGA, INC.",12,INF/DISP,"15 GEN. LUIS ST., CAYBIGA,",CALOOCAN,P,"LADY OF LOURDES HOSPITAL & COLLEGES OF CAYBIGA, INC., CALOOCAN, Metro Manila, Philippines",lady of lourdes hospital & colleges of caybiga inc. caloocan metro manila philippines,"LADY OF LOURDES HOSPITAL & COLLEGES OF CAYBIGA, INC., CALOOCAN, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"MALABON HOSPITAL AND MEDICAL CENTER,
+INC.",42,LEVEL 2,"264 GOV. PASCUAL, BRGY. CATMON,",MALABON,P,"MALABON HOSPITAL AND MEDICAL CENTER,
+INC., MALABON, Metro Manila, Philippines",malabon hospital and medical center inc. malabon metro manila philippines,"MALABON HOSPITAL AND MEDICAL CENTER,
+INC., MALABON, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+MANDALUYONG CITY MEDICAL CENTER,200,LEVEL 2,"C3 ROAD F. MARTINEZ AVE. ADDITION
+HILLS",MANDALUYONG,G,"MANDALUYONG CITY MEDICAL CENTER, MANDALUYONG, Metro Manila, Philippines",mandaluyong city medical center mandaluyong metro manila philippines,,14.582747,121.03664,google,"F. Martinez Ave, Mandaluyong City, 1550 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"MANILA CENTRAL UNIVERSITY-DR. FILEMON
+D. TANCHOCO, SR. MEDICAL FOUNDATION, INC.",81,LEVEL 3,"EDSA,",CALOOCAN,P,"MANILA CENTRAL UNIVERSITY-DR. FILEMON
+D. TANCHOCO, SR. MEDICAL FOUNDATION, INC., CALOOCAN, Metro Manila, Philippines",manila central university-dr. filemon d. tanchoco sr. medical foundation inc. caloocan metro manila philippines,,14.657555,120.9871406,google,"MCU Hospital, Morning Breeze Subdivision, Caloocan, 1400 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+MANILA DOCTORS HOSPITAL,300,LEVEL 3,"667 UNITED NATIONS AVE.,","ERMITA, MANILA",P,"MANILA DOCTORS HOSPITAL, ERMITA, MANILA, Metro Manila, Philippines",manila doctors hospital ermita manila metro manila philippines,"MANILA DOCTORS HOSPITAL, ERMITA, MANILA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"MARKVIM HOSPITAL, INC.",8,INF/DISP,"B8 L49 DAHLIA ST., ALMAR SUBD.,
+CAMARIN,",CALOOCAN,P,"MARKVIM HOSPITAL, INC., CALOOCAN, Metro Manila, Philippines",markvim hospital inc. caloocan metro manila philippines,"MARKVIM HOSPITAL, INC., CALOOCAN, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"MARTINEZ MEMORIAL HOSPITAL, INC.",12,LEVEL 1,"198 A. MABINI ST., MAYPAJO,",CALOOCAN,P,"MARTINEZ MEMORIAL HOSPITAL, INC., CALOOCAN, Metro Manila, Philippines",martinez memorial hospital inc. caloocan metro manila philippines,"MARTINEZ MEMORIAL HOSPITAL, INC., CALOOCAN, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"MARY CHILES GENERAL HOSPITAL, INC.",100,LEVEL 3,"667 GASTAMBIDE ST.,","SAMPALOC, MANILA",P,"MARY CHILES GENERAL HOSPITAL, INC., SAMPALOC, MANILA, Metro Manila, Philippines",mary chiles general hospital inc. sampaloc manila metro manila philippines,"MARY CHILES GENERAL HOSPITAL, INC., SAMPALOC, MANILA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"MARY JOHNSTON HOSPITAL, INC.",120,LEVEL 3,"1221 JUAN NOLASCO ST.,","TONDO, MANILA",P,"MARY JOHNSTON HOSPITAL, INC., TONDO, MANILA, Metro Manila, Philippines",mary johnston hospital inc. tondo manila metro manila philippines,"MARY JOHNSTON HOSPITAL, INC., TONDO, MANILA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"MEDICAL CENTER MANILA, INC.",200,LEVEL 3,"850 UNITED NATIONS ST.,","ERMITA, MANILA",P,"MEDICAL CENTER MANILA, INC., ERMITA, MANILA, Metro Manila, Philippines",medical center manila inc. ermita manila metro manila philippines,,14.5821698,120.982658,google,"667 United Nations Ave, Ermita, Manila, 1000 Metro Manila, Philippines",CLEANED|ROOFTOP
+METROPOLITAN MEDICAL CENTER,295,LEVEL 3,"1357 MASANGKAY ST.,","SANTA CRUZ, MANILA",P,"METROPOLITAN MEDICAL CENTER, SANTA CRUZ, MANILA, Metro Manila, Philippines",metropolitan medical center santa cruz manila metro manila philippines,,14.6096242,120.9784419,google,"1357 Masangkay St, Santa Cruz, Manila, 1008 Metro Manila, Philippines",CLEANED|ROOFTOP
+NATIONAL CENTER FOR MENTAL HEALTH,4200,LEVEL 3,"9 DE FEBRERO ST.,",MANDALUYONG,G,"NATIONAL CENTER FOR MENTAL HEALTH, MANDALUYONG, Metro Manila, Philippines",national center for mental health mandaluyong metro manila philippines,,14.581611,121.0441502,google,"H2JV+JMR, Nueve de Febrero, Mandaluyong City, Kalakhang Maynila, Philippines",CLEANED|GEOMETRIC_CENTER
+NAVOTAS CITY HOSPITAL,50,LEVEL 1,"M. NAVAL ST., BRGY. SAN JOSE,",NAVOTAS,G,"NAVOTAS CITY HOSPITAL, NAVOTAS, Metro Manila, Philippines",navotas city hospital navotas metro manila philippines,,14.6603801,120.9460787,google,"M. Naval St, Navotas, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+NODADO GENERAL HOSPITAL,40,LEVEL 1,"CAPT. SAMANO ST., AREA A CAMARIN,
+BRGY. 175,",CALOOCAN,P,"NODADO GENERAL HOSPITAL, CALOOCAN, Metro Manila, Philippines",nodado general hospital caloocan metro manila philippines,,14.763251,121.04412,google,"Q27V+8J5, Capt. F. S. Samano, Camarin, Caloocan, 1400 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"NORTH CALOOCAN DOCTORS HOSPITAL, INC.",29,LEVEL 1,"L31 B10 QUIRINO HIGHWAY, BANKERS
+VILLAGE 2,",CALOOCAN,P,"NORTH CALOOCAN DOCTORS HOSPITAL, INC., CALOOCAN, Metro Manila, Philippines",north caloocan doctors hospital inc. caloocan metro manila philippines,"NORTH CALOOCAN DOCTORS HOSPITAL, INC., CALOOCAN, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+OSPITAL NG MALABON,34,LEVEL 1,"F. SEVILLA BOULEVARD, TAÑONG,",MALABON,G,"OSPITAL NG MALABON, MALABON, Metro Manila, Philippines",ospital ng malabon malabon metro manila philippines,,14.6572718,120.950608,google,"MX42+W65, Malabon, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+OSPITAL NG MAYNILA MEDICAL CENTER,300,LEVEL 3,"PRES. QUIRINO AVE. COR. ROXAS BLVD.,","MALATE, MANILA",G,"OSPITAL NG MAYNILA MEDICAL CENTER, MALATE, MANILA, Metro Manila, Philippines",ospital ng maynila medical center malate manila metro manila philippines,"OSPITAL NG MAYNILA MEDICAL CENTER, MALATE, MANILA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+OSPITAL NG SAMPALOC,50,LEVEL 1,"677 GERONIMO ST. COR. CAROLA ST.,","SAMPALOC, MANILA",G,"OSPITAL NG SAMPALOC, SAMPALOC, MANILA, Metro Manila, Philippines",ospital ng sampaloc sampaloc manila metro manila philippines,,14.6076187,120.9968061,google,"677 Gen. Geronimo St, Sampaloc, Manila, 1008 Metro Manila, Philippines",CLEANED|ROOFTOP
+OSPITAL NG TONDO,50,LEVEL 1,"BRGY. 215, JOSE ABAD SANTOS AVE.,","TONDO, MANILA",G,"OSPITAL NG TONDO, TONDO, MANILA, Metro Manila, Philippines",ospital ng tondo tondo manila metro manila philippines,,14.625964,120.978381,google,"1171 Abad Santos Ave, Tondo, Manila, Metro Manila, Philippines",CLEANED|ROOFTOP
+"OUR LADY OF GRACE HOSPITAL, INC.",28,LEVEL 1,"8TH AVENUE COR. F. ROXAS ST., WEST
+GRACE PARK,",CALOOCAN,P,"OUR LADY OF GRACE HOSPITAL, INC., CALOOCAN, Metro Manila, Philippines",our lady of grace hospital inc. caloocan metro manila philippines,"OUR LADY OF GRACE HOSPITAL, INC., CALOOCAN, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+OUR LADY OF LOURDES HOSPITAL,230,LEVEL 3,"46 P. SANCHEZ ST.,","SANTA MESA, MANILA",P,"OUR LADY OF LOURDES HOSPITAL, SANTA MESA, MANILA, Metro Manila, Philippines",our lady of lourdes hospital santa mesa manila metro manila philippines,,14.5949547,121.0225571,google,"46 P. Sanchez St, Santa Mesa, Manila, Metro Manila, Philippines",CLEANED|ROOFTOP
+"PERPETUAL SUCCOR HOSPITAL & MATERNITY, INC.",65,LEVEL 1,"836 F. CAYCO ST.,","SAMPALOC, MANILA",P,"PERPETUAL SUCCOR HOSPITAL & MATERNITY, INC., SAMPALOC, MANILA, Metro Manila, Philippines",perpetual succor hospital & maternity inc. sampaloc manila metro manila philippines,"PERPETUAL SUCCOR HOSPITAL & MATERNITY, INC., SAMPALOC, MANILA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"PRESIDENTIAL SECURITY COMMAND STATION
+HOSPITAL",20,INF/DISP,"1939 MENDOZA GUANZON, MALACAÑANG PARK,","ERMITA, MANILA",G,"PRESIDENTIAL SECURITY COMMAND STATION
+HOSPITAL, ERMITA, MANILA, Metro Manila, Philippines",presidential security command station hospital ermita manila metro manila philippines,"PRESIDENTIAL SECURITY COMMAND STATION
+HOSPITAL, ERMITA, MANILA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+SAN LAZARO HOSPITAL,363,LEVEL 3,"QUIRICADA ST.,","SANTA CRUZ, MANILA",G,"SAN LAZARO HOSPITAL, SANTA CRUZ, MANILA, Metro Manila, Philippines",san lazaro hospital santa cruz manila metro manila philippines,,14.6136699,120.9808847,google,"JX7J+F96, Quiricada St, Santa Cruz, Manila, 1003 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"SAN LORENZO HOSPITAL HEALTH
+MANAGEMENT CO., INC.",15,INF/DISP,"24 SUSANO RD., BRGY. 170,  ZONE 15, DEPARO,",CALOOCAN,P,"SAN LORENZO HOSPITAL HEALTH
+MANAGEMENT CO., INC., CALOOCAN, Metro Manila, Philippines",san lorenzo hospital health management co. inc. caloocan metro manila philippines,"SAN LORENZO HOSPITAL HEALTH
+MANAGEMENT CO., INC., CALOOCAN, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+SAN LORENZO RUIZ GENERAL HOSPITAL,10,LEVEL 1,"25 O. REYES ST., SANTULAN",MALABON,G,"SAN LORENZO RUIZ GENERAL HOSPITAL, MALABON, Metro Manila, Philippines",san lorenzo ruiz general hospital malabon metro manila philippines,,14.687903,120.9552991,google,"90 Panghulo Rd, Malabon, Metro Manila, Philippines",CLEANED|ROOFTOP
+SEAMEN'S HOSPITAL,100,LEVEL 3,"CABILDO ST., COR. SAN JOSE ST.,","INTRAMUROS, MANILA",P,"SEAMEN'S HOSPITAL, INTRAMUROS, MANILA, Metro Manila, Philippines",seamen's hospital intramuros manila metro manila philippines,,14.5874752,120.9776263,google,"San Jose St, Intramuros, Manila, 1002 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+STA. ANA HOSPITAL,300,LEVEL 3,"2629 NEW PANADEROS ST.,","STA. ANA, MANILA",G,"STA. ANA HOSPITAL, STA. ANA, MANILA, Metro Manila, Philippines",sta. ana hospital sta. ana manila metro manila philippines,,14.583686,121.0163581,google,"Santa Ana Hospital, Santa Ana, Manila, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+TONDO MEDICAL CENTER,300,LEVEL 3,"HONORIO LOPEZ BOULEVARD, BALUT,","TONDO, MANILA",G,"TONDO MEDICAL CENTER, TONDO, MANILA, Metro Manila, Philippines",tondo medical center tondo manila metro manila philippines,,14.6348716,120.9630926,google,"Honorio Lopez Blvd, Tondo, Manila, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"TRINITY WOMAN & CHILD CENTER ""THE
+BIRTHPLACE""",18,LEVEL 1,"2732 NEW PANADEROS ST.,","STA. ANA, MANILA",P,"TRINITY WOMAN & CHILD CENTER ""THE
+BIRTHPLACE"", STA. ANA, MANILA, Metro Manila, Philippines","trinity woman & child center ""the birthplace"" sta. ana manila metro manila philippines","TRINITY WOMAN & CHILD CENTER ""THE
+BIRTHPLACE"", STA. ANA, MANILA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+UNIVERSITY OF SANTO TOMAS HOSPITAL,700,LEVEL 3,"ESPAÑA BOULEVARD,","SAMPALOC, MANILA",P,"UNIVERSITY OF SANTO TOMAS HOSPITAL, SAMPALOC, MANILA, Metro Manila, Philippines",university of santo tomas hospital sampaloc manila metro manila philippines,,14.6107432,120.9902641,google,"España Blvd, Sampaloc, Manila, 1015 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+UP-PHILIPPINE GENERAL HOSPITAL,1334,LEVEL 3,"TAFT AVENUE,","ERMITA, MANILA",G,"UP-PHILIPPINE GENERAL HOSPITAL, ERMITA, MANILA, Metro Manila, Philippines",up-philippine general hospital ermita manila metro manila philippines,"UP-PHILIPPINE GENERAL HOSPITAL, ERMITA, MANILA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"VALENZUELA CITICARE MEDICAL CENTER - TIMOG HILAGA PROVIDENCE GROUP, INC.",40,LEVEL 2,"KM. 14 MC ARTHUR HIGHWAY, MALINTA,",VALENZUELA,P,"VALENZUELA CITICARE MEDICAL CENTER - TIMOG HILAGA PROVIDENCE GROUP, INC., VALENZUELA, Metro Manila, Philippines",valenzuela citicare medical center - timog hilaga providence group inc. valenzuela metro manila philippines,"VALENZUELA CITICARE MEDICAL CENTER - TIMOG HILAGA PROVIDENCE GROUP, INC., VALENZUELA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+VALENZUELA CITY EMERGENCY HOSPITAL,20,INF/DISP,"G. LAZARO ST., DALANDANAN,",VALENZUELA,G,"VALENZUELA CITY EMERGENCY HOSPITAL, VALENZUELA, Metro Manila, Philippines",valenzuela city emergency hospital valenzuela metro manila philippines,,14.708803,120.957731,google,"PX55+G3H, G. Lazaro Street, Valenzuela, 1443 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+VALENZUELA MEDICAL CENTER,150,LEVEL 3,"PADRIGAL ST., KARUHATAN,",VALENZUELA,G,"VALENZUELA MEDICAL CENTER, VALENZUELA, Metro Manila, Philippines",valenzuela medical center valenzuela metro manila philippines,,14.6898788,120.978154,google,"MXQH+X72, Padrigal St, Valenzuela, 1441 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+VIAN FAMILY HOSPITAL,12,INF/DISP,"3008 GEN. T. DE LEON,",VALENZUELA,P,"VIAN FAMILY HOSPITAL, VALENZUELA, Metro Manila, Philippines",vian family hospital valenzuela metro manila philippines,,14.6848979,120.9891333,google,"3008 Gen. T. de Leon, Valenzuela, 1442 Metro Manila, Philippines",CLEANED|ROOFTOP
+A. ZARATE GENERAL HOSPITAL,17,LEVEL 1,"ATLAS COMPOUND, NAGA RD.,
+PULANG LUPA UNO,",LAS PIÑAS,P,"A. ZARATE GENERAL HOSPITAL, LAS PIÑAS, Metro Manila, Philippines",a. zarate general hospital las pinas metro manila philippines,,14.4685359,120.980585,google,"13-765 Atlas compond, Naga Rd, Las Piñas, 2011 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+ADVENTIST MEDICAL CENTER MANILA,150,LEVEL 3,"#1975 DONADA ST.,",PASAY,P,"ADVENTIST MEDICAL CENTER MANILA, PASAY, Metro Manila, Philippines",adventist medical center manila pasay metro manila philippines,"ADVENTIST MEDICAL CENTER MANILA, PASAY, Metro Manila, Philippines, Metro Manila, Philippines",14.5557941,120.9955069,google,"1975 Corner Donada and, San Juan, Pasay City, 1300 Metro Manila, Philippines",FALLBACK_FULL|GEOMETRIC_CENTER
+AIR FORCE GENERAL HOSPITAL,100,LEVEL 2,"COLONEL JESUS VILLAMOR AIR BASE,",PASAY,G,"AIR FORCE GENERAL HOSPITAL, PASAY, Metro Manila, Philippines",air force general hospital pasay metro manila philippines,,14.516937,121.019969,google,"G289+QXH, Pasay City, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+ALABANG MEDICAL CENTER,18,LEVEL 1,"ALABANG ZAPOTE ROAD,",MUNTINLUPA,P,"ALABANG MEDICAL CENTER, MUNTINLUPA, Metro Manila, Philippines",alabang medical center muntinlupa metro manila philippines,,14.4276189,121.0245304,google,"Alabang–Zapote Rd, Muntinlupa, 1771 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+ALABANG MEDICAL CLINIC,30,LEVEL 2,"90 M. L. QUEZON ST., ALABANG,",MUNTINLUPA,P,"ALABANG MEDICAL CLINIC, MUNTINLUPA, Metro Manila, Philippines",alabang medical clinic muntinlupa metro manila philippines,,14.4193306,121.0500039,google,"ML Quezon, 90 Wawa St, Alabang, Muntinlupa, 1770 Metro Manila, Philippines",CLEANED|ROOFTOP
+"ALABANG MEDICAL CLINIC - LAS PIÑAS
+BRANCH",18,LEVEL 1,"ALABANG-ZAPOTE RD. COR. PELAYO VILLAGE, TALON,",LAS PIÑAS,P,"ALABANG MEDICAL CLINIC - LAS PIÑAS
+BRANCH, LAS PIÑAS, Metro Manila, Philippines",alabang medical clinic - las pinas branch las pinas metro manila philippines,"ALABANG MEDICAL CLINIC - LAS PIÑAS
+BRANCH, LAS PIÑAS, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"ALABANG MEDICAL CLINIC - MUNTINLUPA
+BRANCH",25,LEVEL 1,"1 NATIONAL ROAD, PUTATAN,",MUNTINLUPA,P,"ALABANG MEDICAL CLINIC - MUNTINLUPA
+BRANCH, MUNTINLUPA, Metro Manila, Philippines",alabang medical clinic - muntinlupa branch muntinlupa metro manila philippines,,14.390999,121.044445,google,"1 National Highway, Muntinlupa, 1776 Metro Manila, Philippines",CLEANED|ROOFTOP
+ALFONSO SPECIALIST HOSPITAL,22,LEVEL 1,"185 DR. SIXTO ANTONIO AVE.,
+ROSARIO,",PASIG,P,"ALFONSO SPECIALIST HOSPITAL, PASIG, Metro Manila, Philippines",alfonso specialist hospital pasig metro manila philippines,,14.5901372,121.0846938,google,"185 Dr. Sixto Antonio Ave., Pasig, 1609 Metro Manila, Philippines",CLEANED|ROOFTOP
+"ALLIED CARE EXPERTS (ACE) MEDICAL
+CENTER-PATEROS, INC.",58,LEVEL 2,"884 P. HERRERA ST., AGUHO,",PATEROS,P,"ALLIED CARE EXPERTS (ACE) MEDICAL
+CENTER-PATEROS, INC., PATEROS, Metro Manila, Philippines",allied care experts (ace) medical center-pateros inc. pateros metro manila philippines,"ALLIED CARE EXPERTS (ACE) MEDICAL
+CENTER-PATEROS, INC., PATEROS, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+ARMY GENERAL HOSPITAL,200,LEVEL 1,"FORT ANDRES BONIFACIO,",TAGUIG,G,"ARMY GENERAL HOSPITAL, TAGUIG, Metro Manila, Philippines",army general hospital taguig metro manila philippines,,14.5311129,121.0476263,google,"1634 MGEN M Castaneda St, Taguig, 1630 Metro Manila, Philippines",CLEANED|ROOFTOP
+"ASIAN HOSPITAL, INC.",296,LEVEL 3,"2205 CIVIC DRIVE, FILINVEST
+CORPORATE CITY, ALABANG",MUNTINLUPA,P,"ASIAN HOSPITAL, INC., MUNTINLUPA, Metro Manila, Philippines",asian hospital inc. muntinlupa metro manila philippines,"ASIAN HOSPITAL, INC., MUNTINLUPA, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"BICUTAN MEDICAL CENTER, INC.",100,LEVEL 2,"191 M.L. QUEZON ST., NEW LOWER
+BICUTAN",TAGUIG,P,"BICUTAN MEDICAL CENTER, INC., TAGUIG, Metro Manila, Philippines",bicutan medical center inc. taguig metro manila philippines,"BICUTAN MEDICAL CENTER, INC., TAGUIG, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+CALLEJO MEDICAL CLINIC,10,INF/DISP,"545-A TALON GARDEN, TALON UNO,",LAS PIÑAS,P,"CALLEJO MEDICAL CLINIC, LAS PIÑAS, Metro Manila, Philippines",callejo medical clinic las pinas metro manila philippines,,14.4433933,120.9960634,google,"545 Alabang–Zapote Rd, Las Piñas, 1747 Metro Manila, Philippines",CLEANED|ROOFTOP
+"CHRIST THE KING MEDICAL CENTER
+UNIHEALTH LAS PIÑAS, INC.",30,LEVEL 2,"130 REAL ST., PAMPLONA UNO,",LAS PIÑAS,P,"CHRIST THE KING MEDICAL CENTER
+UNIHEALTH LAS PIÑAS, INC., LAS PIÑAS, Metro Manila, Philippines",christ the king medical center unihealth las pinas inc. las pinas metro manila philippines,"CHRIST THE KING MEDICAL CENTER
+UNIHEALTH LAS PIÑAS, INC., LAS PIÑAS, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"CRUZ-RABE MATERNITY & GENERAL
+HOSPITAL",25,LEVEL 1,"37 GEN. LUNA ST., BRGY. TUKTUKAN,",TAGUIG,P,"CRUZ-RABE MATERNITY & GENERAL
+HOSPITAL, TAGUIG, Metro Manila, Philippines",cruz-rabe maternity & general hospital taguig metro manila philippines,,14.5293262,121.0707476,google,"37 Gen. Luna St, Taguig, 1634 Metro Manila, Philippines",CLEANED|ROOFTOP
+E. ZARATE HOSPITAL,15,LEVEL 1,"16 J. AGUILAR AVENUE, TALON I,",LAS PIÑAS,P,"E. ZARATE HOSPITAL, LAS PIÑAS, Metro Manila, Philippines",e. zarate hospital las pinas metro manila philippines,,14.4467366,120.9942445,google,"16 CAA Rd, Las Piñas, 1747 Metro Manila, Philippines",CLEANED|ROOFTOP
+"FOUNDATION OF OUR LADY OF PEACE MISSION, INC. (OUR LADY OF PEACE
+HOSPITAL)",90,LEVEL 1,"COASTAL ROAD, BRGY. SAN DIONISIO,",PARAÑAQUE,P,"FOUNDATION OF OUR LADY OF PEACE MISSION, INC. (OUR LADY OF PEACE
+HOSPITAL), PARAÑAQUE, Metro Manila, Philippines",foundation of our lady of peace mission inc. (our lady of peace hospital) paranaque metro manila philippines,"FOUNDATION OF OUR LADY OF PEACE MISSION, INC. (OUR LADY OF PEACE
+HOSPITAL), PARAÑAQUE, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+HEALTHWAY CANCER CARE HOSPITAL,34,LEVEL 3,"LOT 26, BAGSAKAN ROAD, FTI
+COMPLEX, WESTERN BICUTAN,",TAGUIG,P,"HEALTHWAY CANCER CARE HOSPITAL, TAGUIG, Metro Manila, Philippines",healthway cancer care hospital taguig metro manila philippines,,14.5027431,121.0480692,google,"ARCA South, South Union Dr, Taguig, 1630 Metro Manila, Philippines",CLEANED|ROOFTOP
+HOLYLIFE HOSPITAL,28,LEVEL 1,"19 PRESIDENT QUEZON ST.,
+LIFEHOMES SUBD., ROSARIO,",PASIG,P,"HOLYLIFE HOSPITAL, PASIG, Metro Manila, Philippines",holylife hospital pasig metro manila philippines,,14.5920681,121.095712,google,"Pres. Quezon, Pasig, 1609 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"LAS PIÑAS CITY MEDICAL CENTER, INC.",66,LEVEL 2,"1314 MARCOS ALVAREZ AVE., TALON
+V,",LAS PIÑAS,P,"LAS PIÑAS CITY MEDICAL CENTER, INC., LAS PIÑAS, Metro Manila, Philippines",las pinas city medical center inc. las pinas metro manila philippines,"LAS PIÑAS CITY MEDICAL CENTER, INC., LAS PIÑAS, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"LAS PIÑAS DOCTORS HOSPITAL, INC.",130,LEVEL 3,"8009 JI AGUILAR AVE., PULANGLUPA 2,",LAS PIÑAS,P,"LAS PIÑAS DOCTORS HOSPITAL, INC., LAS PIÑAS, Metro Manila, Philippines",las pinas doctors hospital inc. las pinas metro manila philippines,"LAS PIÑAS DOCTORS HOSPITAL, INC., LAS PIÑAS, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"LAS PIÑAS GENERAL HOSPITAL & SATELLITE
+TRAUMA CENTER",200,LEVEL 3,"BERNABE COMPOUND, PULANG LUPA,",LAS PIÑAS,G,"LAS PIÑAS GENERAL HOSPITAL & SATELLITE
+TRAUMA CENTER, LAS PIÑAS, Metro Manila, Philippines",las pinas general hospital & satellite trauma center las pinas metro manila philippines,"LAS PIÑAS GENERAL HOSPITAL & SATELLITE
+TRAUMA CENTER, LAS PIÑAS, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+MAKATI LIFE MEDICAL CENTER,70,LEVEL 2,"MALUGAY ST., BRGY. BEL-AIR,",MAKATI,P,"MAKATI LIFE MEDICAL CENTER, MAKATI, Metro Manila, Philippines",makati life medical center makati metro manila philippines,,14.5634889,121.0174936,google,"Malugay, Makati, 1209 Kalakhang Maynila, Philippines",CLEANED|GEOMETRIC_CENTER
+MAKATI MEDICAL CENTER,600,LEVEL 3,"2 AMORSOLO ST., LEGASPI VILLAGE,",MAKATI,P,"MAKATI MEDICAL CENTER, MAKATI, Metro Manila, Philippines",makati medical center makati metro manila philippines,,14.559146,121.0145867,google,"2 Amorsolo Street, Legazpi Village, Makati, 1229 Kalakhang Maynila, Philippines",CLEANED|ROOFTOP
+MANILA NAVAL HOSPITAL,65,LEVEL 1,"NAVAL STATION, JOSE FRANCISCO,
+FORT BONIFACIO,",TAGUIG,G,"MANILA NAVAL HOSPITAL, TAGUIG, Metro Manila, Philippines",manila naval hospital taguig metro manila philippines,,14.5302984,121.0316242,google,"G2JJ+4J9, Taguig, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"MEDICAL CENTER MUNTINLUPA, INC.",100,LEVEL 2,"38 NATIONAL ROAD, PUTATAN,",MUNTINLUPA,P,"MEDICAL CENTER MUNTINLUPA, INC., MUNTINLUPA, Metro Manila, Philippines",medical center muntinlupa inc. muntinlupa metro manila philippines,,14.3951053,121.045021,google,"38 National Road, Muntinlupa, 1772 Metro Manila, Philippines",CLEANED|ROOFTOP
+"MEDICAL CENTER OF TAGUIG CITY, INC.",80,LEVEL 2,"LOT 1B LEVI B. MARIANO AVENUE,
+BRGY. USUSAN,",TAGUIG,P,"MEDICAL CENTER OF TAGUIG CITY, INC., TAGUIG, Metro Manila, Philippines",medical center of taguig city inc. taguig metro manila philippines,,14.5308767,121.0653207,google,"Levi B. Mariano Ave, Taguig, 1630 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"MEDICAL CENTER PARAÑAQUE, INC.",56,LEVEL 2,"DR. A. SANTOS AVE., SUCAT,",PARAÑAQUE,P,"MEDICAL CENTER PARAÑAQUE, INC., PARAÑAQUE, Metro Manila, Philippines",medical center paranaque inc. paranaque metro manila philippines,"MEDICAL CENTER PARAÑAQUE, INC., PARAÑAQUE, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+MISSION HOSPITAL,30,LEVEL 1,"KM. 17 ORTIGAS AVENUE EXTENSION,
+ROSARIO,",PASIG,P,"MISSION HOSPITAL, PASIG, Metro Manila, Philippines",mission hospital pasig metro manila philippines,,14.5898229,121.0975159,google,"17 km, 17 km Ortigas Ave, Pasig, 1800 Metro Manila, Philippines",CLEANED|ROOFTOP
+"OLIVAREZ GENERAL HOSPITAL, INC.",50,LEVEL 1,"DR. A. SANTOS AVENUE, SUCAT ROAD,",PARAÑAQUE,P,"OLIVAREZ GENERAL HOSPITAL, INC., PARAÑAQUE, Metro Manila, Philippines",olivarez general hospital inc. paranaque metro manila philippines,"OLIVAREZ GENERAL HOSPITAL, INC., PARAÑAQUE, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+OSPITAL NG MAKATI,300,LEVEL 3,"SAMPAGUITA ST. COR. GUMAMELA
+ST., BRGY. PEMBO,",TAGUIG,G,"OSPITAL NG MAKATI, TAGUIG, Metro Manila, Philippines",ospital ng makati taguig metro manila philippines,,14.5465072,121.0617567,google,"Sampaguita St, Makati City, 1218 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+OSPITAL NG MUNTINLUPA,206,LEVEL 3,"CIVIC DRIVE, FILINVEST CORPORATE
+CITY, ALABANG,",MUNTINLUPA,G,"OSPITAL NG MUNTINLUPA, MUNTINLUPA, Metro Manila, Philippines",ospital ng muntinlupa muntinlupa metro manila philippines,,14.4143419,121.0440011,google,"C27V+PJJ Filinvest Corporate City, Civic Dr, Muntinlupa, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+OSPITAL NG PARAÑAQUE,83,LEVEL 1,"440 QUIRINO AVE., LA HUERTA,",PARAÑAQUE,G,"OSPITAL NG PARAÑAQUE, PARAÑAQUE, Metro Manila, Philippines",ospital ng paranaque paranaque metro manila philippines,,14.5004142,120.9911214,google,"GX2R+5C9, Quirino Ave, Parañaque, 1700 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+OSPITAL NG PARAÑAQUE DISTRICT II,70,LEVEL 1,"NO. 187 TAIWAN EXTENSION CORNER DOÑA SOLEDAD AVE., DON BOSCO,",PARAÑAQUE,G,"OSPITAL NG PARAÑAQUE DISTRICT II, PARAÑAQUE, Metro Manila, Philippines",ospital ng paranaque district ii paranaque metro manila philippines,,14.4879623,121.0242283,google,"1709 Doña Soledad Ave, Parañaque, 1709 Metro Manila, Philippines",CLEANED|ROOFTOP
+"PAMPLONA HOSPITAL AND MEDICAL CENTER
+INC.",48,LEVEL 2,"46 ZAPOTE-ALABANG ROAD,
+PAMPLONA",LAS PIÑAS,P,"PAMPLONA HOSPITAL AND MEDICAL CENTER
+INC., LAS PIÑAS, Metro Manila, Philippines",pamplona hospital and medical center inc. las pinas metro manila philippines,"PAMPLONA HOSPITAL AND MEDICAL CENTER
+INC., LAS PIÑAS, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+PASAY CITY GENERAL HOSPITAL,150,LEVEL 3,"P. BURGOS ST.,",PASAY,G,"PASAY CITY GENERAL HOSPITAL, PASAY, Metro Manila, Philippines",pasay city general hospital pasay metro manila philippines,,14.5492968,121.0009273,google,"P Burgos St, Pasay City, Metro Manila, Philippines",CLEANED|ROOFTOP
+"PASIG CITY CHILDREN'S HOSPITAL - CHILD'S
+HOPE",64,LEVEL 2,"INDUSTRIA ST., COR. ALCALDE JOSE ST.,
+KAPASIGAN,",PASIG,G,"PASIG CITY CHILDREN'S HOSPITAL - CHILD'S
+HOPE, PASIG, Metro Manila, Philippines",pasig city children's hospital - child's hope pasig metro manila philippines,"PASIG CITY CHILDREN'S HOSPITAL - CHILD'S
+HOPE, PASIG, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+PASIG CITY GENERAL HOSPITAL,200,LEVEL 3,"M. EUSEBIO AVENUE, MAYBUNGA,",PASIG,G,"PASIG CITY GENERAL HOSPITAL, PASIG, Metro Manila, Philippines",pasig city general hospital pasig metro manila philippines,,14.5721974,121.0991899,google,"Pasig City General Hospital, Pasig, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+PASIG DOCTORS MEDICAL CENTER INC.,66,LEVEL 2,"254 AMANG RODRIGUEZ AVENUE,
+MANGGAHAN,",PASIG,P,"PASIG DOCTORS MEDICAL CENTER INC., PASIG, Metro Manila, Philippines",pasig doctors medical center inc. pasig metro manila philippines,"PASIG DOCTORS MEDICAL CENTER INC., PASIG, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"POPE JOHN PAUL II HOSPITAL AND MEDICAL
+CENTER, INC.",100,LEVEL 2,"545 ALABANG-ZAPOTE ROAD, TALON III",LAS PIÑAS,P,"POPE JOHN PAUL II HOSPITAL AND MEDICAL
+CENTER, INC., LAS PIÑAS, Metro Manila, Philippines",pope john paul ii hospital and medical center inc. las pinas metro manila philippines,"POPE JOHN PAUL II HOSPITAL AND MEDICAL
+CENTER, INC., LAS PIÑAS, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"RECUENCO GENERAL HOSPITAL, INC.",12,LEVEL 1,"68 SAMPALOC EXTENSION, NORTH
+SIGNAL VILLAGE,",TAGUIG,P,"RECUENCO GENERAL HOSPITAL, INC., TAGUIG, Metro Manila, Philippines",recuenco general hospital inc. taguig metro manila philippines,"RECUENCO GENERAL HOSPITAL, INC., TAGUIG, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"RESEARCH INSTITUTE FOR TROPICAL
+MEDICINE",50,LEVEL 3,"9002 RESEARCH DRIVE, FILINVEST CORPORATE CITY, ALABANG,",MUNTINLUPA,G,"RESEARCH INSTITUTE FOR TROPICAL
+MEDICINE, MUNTINLUPA, Metro Manila, Philippines",research institute for tropical medicine muntinlupa metro manila philippines,,14.4098743,121.0371729,google,"9002 Research Dr, Muntinlupa, 1781 Metro Manila, Philippines",CLEANED|ROOFTOP
+RIZAL MEDICAL CENTER,300,LEVEL 3,"PASIG BOULEVARD, BAGONG ILOG,",PASIG,G,"RIZAL MEDICAL CENTER, PASIG, Metro Manila, Philippines",rizal medical center pasig metro manila philippines,,14.5638837,121.0660877,google,"Pasig Blvd, Pasig, 1600 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"SALVE REGINA GENERAL HOSPITAL, INC.",50,LEVEL 1,"LOT A2A, MARCOS HIGHWAY, DELA
+PAZ,",PASIG,P,"SALVE REGINA GENERAL HOSPITAL, INC., PASIG, Metro Manila, Philippines",salve regina general hospital inc. pasig metro manila philippines,,14.6199475,121.0963324,google,"J39W+XGG, Marikina-Infanta Hwy, Pasig, 1800 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"SAN JUAN DE DIOS EDUCATIONAL
+FOUNDATION, INC.",230,LEVEL 3,"2772 ROXAS BLVD.,",PASAY,P,"SAN JUAN DE DIOS EDUCATIONAL
+FOUNDATION, INC., PASAY, Metro Manila, Philippines",san juan de dios educational foundation inc. pasay metro manila philippines,,14.5378892,120.9930321,google,"2774 Roxas Blvd, Pasay City, 1300 Metro Manila, Philippines",CLEANED|ROOFTOP
+SOUTH SUPERHIGHWAY MEDICAL CENTER,50,LEVEL 2,"KM.17, WEST SERVICE ROAD, BRGY. MARCELO,",PARAÑAQUE,P,"SOUTH SUPERHIGHWAY MEDICAL CENTER, PARAÑAQUE, Metro Manila, Philippines",south superhighway medical center paranaque metro manila philippines,,14.47494,121.0448768,google,"KM 17 W Service Rd, Parañaque, 1700 Metro Manila, Philippines",CLEANED|ROOFTOP
+ST. CAMILLUS MEDICAL CENTER,24,LEVEL 2,"116 E. AMANG RODRIGUEZ AVENUE,
+SANTOLAN,",PASIG,P,"ST. CAMILLUS MEDICAL CENTER, PASIG, Metro Manila, Philippines",street. camillus medical center pasig metro manila philippines,"ST. CAMILLUS MEDICAL CENTER, PASIG, Metro Manila, Philippines, Metro Manila, Philippines",14.6121254,121.091848,google,"116 Eulogio Amang Rodriguez Ave, Pasig, 1610 Metro Manila, Philippines",FALLBACK_FULL|ROOFTOP
+"ST. CHRISTIANA HOSPITAL, INC.",10,LEVEL 1,"3338 KAGINHAWAAN RD., KARANGALAN VILLAGE, MANGGAHAN,",PASIG,P,"ST. CHRISTIANA HOSPITAL, INC., PASIG, Metro Manila, Philippines",street. christiana hospital inc. pasig metro manila philippines,"ST. CHRISTIANA HOSPITAL, INC., PASIG, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"ST. CLARE'S MEDICAL CENTER, INC.",27,LEVEL 2,"1838 DIAN ST.,  PALANAN,",MAKATI,P,"ST. CLARE'S MEDICAL CENTER, INC., MAKATI, Metro Manila, Philippines",street. clare's medical center inc. makati metro manila philippines,"ST. CLARE'S MEDICAL CENTER, INC., MAKATI, Metro Manila, Philippines, Metro Manila, Philippines",14.5630214,121.0013216,google,"1838 Dian St, Makati City, 1235 Metro Manila, Philippines",FALLBACK_FULL|ROOFTOP
+ST. LUKE'S MEDICAL CENTER - GLOBAL CITY,528,LEVEL 3,"RIZAL DRIVE CORNER 32ND STREET AND 5TH AVENUE, BONIFACIO GLOBAL
+CITY,",TAGUIG,P,"ST. LUKE'S MEDICAL CENTER - GLOBAL CITY, TAGUIG, Metro Manila, Philippines",street. luke's medical center - global city taguig metro manila philippines,"ST. LUKE'S MEDICAL CENTER - GLOBAL CITY, TAGUIG, Metro Manila, Philippines, Metro Manila, Philippines",14.5550704,121.0482642,google,"5th Ave, Makati City, 1634 Metro Manila, Philippines",FALLBACK_FULL|GEOMETRIC_CENTER
+TAGIG DOCTORS HOSPITAL,8,INF/DISP,"184 MANUEL L. QUEZON ST.,
+BAGUMBAYAN,",TAGUIG,P,"TAGIG DOCTORS HOSPITAL, TAGUIG, Metro Manila, Philippines",tagig doctors hospital taguig metro manila philippines,,14.478894,121.061018,google,"184 M. L. Quezon Street Bagum Bayan, Taguig, Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+TAGUIG-PATEROS DISTRICT HOSPITAL,110,LEVEL 1,"EAST SERVICE ROAD, WESTERN
+BICUTAN,",TAGUIG,G,"TAGUIG-PATEROS DISTRICT HOSPITAL, TAGUIG, Metro Manila, Philippines",taguig-pateros district hospital taguig metro manila philippines,,14.5108615,121.0343406,google,"E Service Rd, Taguig, 1630 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+THE MEDICAL CITY,522,LEVEL 3,"THE MEDICAL CITY COMPOUND, DON EUGENIO LOPEZ SR. MEDICAL
+COMPLEX ORTIGAS AVENUE,",PASIG,P,"THE MEDICAL CITY, PASIG, Metro Manila, Philippines",the medical city pasig metro manila philippines,"THE MEDICAL CITY, PASIG, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+THE PREMIER MEDICAL CENTER,40,LEVEL 2,"LOT 2 AMVEL BUSINESS PARK, DR. A. SANTOS AVE., BRGY. SAN DIONISIO,
+SUCAT ROAD,",PARAÑAQUE,P,"THE PREMIER MEDICAL CENTER, PARAÑAQUE, Metro Manila, Philippines",the premier medical center paranaque metro manila philippines,,14.4886784,120.9930975,google,"Business, Parañaque, 1715 Metro Manila, Philippines",CLEANED|GEOMETRIC_CENTER
+"TRICITY MEDICAL CENTER, INC.",100,LEVEL 2,"269 C. RAYMUNDO AVENUE,
+MAYBUNGA,",PASIG,P,"TRICITY MEDICAL CENTER, INC., PASIG, Metro Manila, Philippines",tricity medical center inc. pasig metro manila philippines,,14.5759104,121.0851914,google,"269 C. Raymundo Ave, Pasig, 1607 Metro Manila, Philippines",CLEANED|ROOFTOP
+"UHBI-PARAÑAQUE DOCTORS HOSPITAL, INC.",94,LEVEL 2,"175 DOÑA SOLEDAD AVE.,
+BETTERLIVING SUBD.,",PARAÑAQUE,P,"UHBI-PARAÑAQUE DOCTORS HOSPITAL, INC., PARAÑAQUE, Metro Manila, Philippines",uhbi-paranaque doctors hospital inc. paranaque metro manila philippines,"UHBI-PARAÑAQUE DOCTORS HOSPITAL, INC., PARAÑAQUE, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"UNIHEALTH PARAÑAQUE HOSPITAL AND
+MEDICAL CENTER, INC.",100,LEVEL 2,"DR. A SANTOS AVENUE, BRGY. SAN
+ISIDRO, SUCAT ROAD,",PARAÑAQUE,P,"UNIHEALTH PARAÑAQUE HOSPITAL AND
+MEDICAL CENTER, INC., PARAÑAQUE, Metro Manila, Philippines",unihealth paranaque hospital and medical center inc. paranaque metro manila philippines,"UNIHEALTH PARAÑAQUE HOSPITAL AND
+MEDICAL CENTER, INC., PARAÑAQUE, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
+"UNIVERSITY OF PERPETUAL HELP DALTA MEDICAL CENTER, INC.",285,LEVEL 3,"ALABANG ZAPOTE ROAD, PAMPLONA TRES",LAS PIÑAS,P,"UNIVERSITY OF PERPETUAL HELP DALTA MEDICAL CENTER, INC., LAS PIÑAS, Metro Manila, Philippines",university of perpetual help dalta medical center inc. las pinas metro manila philippines,"UNIVERSITY OF PERPETUAL HELP DALTA MEDICAL CENTER, INC., LAS PIÑAS, Metro Manila, Philippines, Metro Manila, Philippines",,,,,
